@@ -1,0 +1,1000 @@
+<34>Apr 21 00:00:00 fw-edge-01 sudo[46364]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:00:03 vpn-gw-01 sudo[17180]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:00:08 app-server-01 cron[64172]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:00:18 core-sw-02 postfix[60139]: Started Daily apt download activities
+<165>Apr 21 00:00:32 core-sw-02 sudo[93704]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:00:20 fw-edge-01 postfix[70328]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:00:24 vpn-gw-01 systemd[91674]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:00:21 app-server-01 sshd[236]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:00:40 app-server-01 nginx[71940]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:00:45 db-server-03 kernel[86423]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:01:00 vpn-gw-01 sudo[15789]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:01:28 app-server-01 sudo[78239]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:01:12 fw-edge-01 sshd[18830]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:00:26 core-sw-02 kernel[3396]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:00:56 core-sw-02 cron[98269]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:01:30 app-server-01 postfix[91176]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:01:04 db-server-03 postfix[9763]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:01:25 app-server-01 postfix[54453]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:00:54 fw-edge-01 sudo[53574]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:02:13 vpn-gw-01 sshd[39189]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:01:20 core-sw-02 sshd[45137]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:00:42 fw-edge-01 systemd[72041]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:02:12 fw-edge-01 cron[27673]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:01:09 app-server-01 nginx[22190]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:02:00 core-sw-02 systemd[35669]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:00:25 core-sw-02 postfix[18972]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:03:28 core-sw-02 postfix[34749]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:00:27 fw-edge-01 sudo[98099]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:03:16 fw-edge-01 cron[63470]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:01:56 fw-edge-01 sudo[13909]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:03:00 core-sw-02 kernel[29284]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:01:33 fw-edge-01 nginx[65620]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:01:36 db-server-03 postfix[55759]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:02:12 app-server-01 sshd[33467]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:03:24 db-server-03 sudo[80905]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:01:45 app-server-01 cron[84737]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:01:12 app-server-01 postfix[17049]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:04:19 core-sw-02 sudo[29736]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:01:16 app-server-01 cron[71107]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:01:57 db-server-03 sudo[91796]: Started Daily apt download activities
+<13>Apr 21 00:02:40 core-sw-02 postfix[55555]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:03:25 fw-edge-01 sshd[53335]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:04:12 db-server-03 postfix[72303]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:00:43 db-server-03 postfix[37323]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:02:56 core-sw-02 postfix[98510]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:00:45 fw-edge-01 postfix[34771]: Started Daily apt download activities
+<34>Apr 21 00:00:46 core-sw-02 sudo[85438]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:03:55 app-server-01 systemd[10051]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:05:36 app-server-01 systemd[16584]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:03:16 db-server-03 sudo[54577]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:04:10 core-sw-02 systemd[45915]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:02:33 db-server-03 nginx[176]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:05:12 fw-edge-01 sudo[60287]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:02:39 app-server-01 sshd[1479]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:07:12 fw-edge-01 kernel[64039]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:06:25 db-server-03 systemd[24533]: Started Daily apt download activities
+<30>Apr 21 00:05:36 app-server-01 cron[12557]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:03:48 fw-edge-01 postfix[72612]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:07:44 db-server-03 postfix[66014]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:00:59 db-server-03 systemd[6604]: Started Daily apt download activities
+<30>Apr 21 00:03:00 fw-edge-01 nginx[46514]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:04:04 vpn-gw-01 systemd[84591]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:08:16 vpn-gw-01 sshd[44442]: Started Daily apt download activities
+<165>Apr 21 00:04:12 app-server-01 cron[23666]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:04:16 db-server-03 systemd[73451]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:05:25 app-server-01 kernel[77600]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:07:42 fw-edge-01 cron[47482]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:06:42 app-server-01 nginx[68080]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:05:40 vpn-gw-01 systemd[74935]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:05:45 vpn-gw-01 sshd[98534]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:07:00 core-sw-02 nginx[45022]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:03:33 db-server-03 nginx[75725]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:06:00 vpn-gw-01 postfix[67640]: Started Daily apt download activities
+<30>Apr 21 00:04:52 app-server-01 postfix[26109]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:02:28 core-sw-02 systemd[89337]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:08:45 vpn-gw-01 kernel[2929]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:10:08 vpn-gw-01 cron[11770]: Started Daily apt download activities
+<165>Apr 21 00:01:17 db-server-03 systemd[12305]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:02:36 db-server-03 systemd[55834]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:05:16 app-server-01 nginx[93628]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:01:20 db-server-03 nginx[702]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:10:48 app-server-01 sudo[95964]: Started Daily apt download activities
+<165>Apr 21 00:05:28 core-sw-02 sshd[18925]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:02:46 db-server-03 systemd[7904]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:05:36 db-server-03 cron[37052]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:04:15 core-sw-02 nginx[27299]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:04:18 db-server-03 nginx[37256]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:05:48 vpn-gw-01 kernel[94593]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:11:44 fw-edge-01 cron[64327]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:04:27 app-server-01 sudo[60711]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:12:00 fw-edge-01 sshd[5178]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:03:02 fw-edge-01 sshd[40789]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:03:04 db-server-03 cron[16409]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:09:18 core-sw-02 systemd[63955]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:04:42 fw-edge-01 kernel[1986]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:09:30 db-server-03 kernel[1077]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:08:00 fw-edge-01 sudo[19258]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:06:28 db-server-03 systemd[69242]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:04:54 db-server-03 kernel[38841]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:13:12 fw-edge-01 sudo[70207]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:01:40 db-server-03 postfix[64000]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:10:06 core-sw-02 postfix[41834]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:01:42 core-sw-02 nginx[72053]: Started Daily apt download activities
+<34>Apr 21 00:13:44 vpn-gw-01 nginx[74063]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:01:44 fw-edge-01 sshd[43693]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:05:15 vpn-gw-01 kernel[30474]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:07:04 vpn-gw-01 kernel[12206]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:01:47 app-server-01 sudo[5428]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:03:36 core-sw-02 kernel[23297]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:09:05 db-server-03 kernel[43198]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:11:00 fw-edge-01 postfix[382]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:11:06 app-server-01 cron[43054]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:14:56 db-server-03 cron[59631]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:09:25 db-server-03 postfix[61872]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:09:30 vpn-gw-01 nginx[1432]: Started Daily apt download activities
+<165>Apr 21 00:09:35 core-sw-02 cron[85501]: Started Daily apt download activities
+<165>Apr 21 00:09:40 app-server-01 nginx[5496]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:15:36 app-server-01 systemd[16874]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:11:48 core-sw-02 cron[75152]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:03:58 db-server-03 kernel[55293]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:10:00 fw-edge-01 kernel[70999]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:12:06 app-server-01 kernel[30738]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:08:08 vpn-gw-01 sudo[49029]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:14:21 db-server-03 postfix[24122]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:16:32 db-server-03 nginx[85980]: Started Daily apt download activities
+<165>Apr 21 00:08:20 core-sw-02 kernel[12436]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:06:18 db-server-03 sudo[91163]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:14:49 fw-edge-01 postfix[79977]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:08:32 core-sw-02 sshd[67106]: Started Daily apt download activities
+<46>Apr 21 00:17:12 db-server-03 nginx[57820]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:04:20 app-server-01 sudo[32675]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:17:28 fw-edge-01 postfix[47573]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:02:12 db-server-03 sshd[79806]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:17:44 fw-edge-01 sshd[69605]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:13:24 fw-edge-01 cron[95480]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:18:00 core-sw-02 nginx[30635]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:02:16 core-sw-02 postfix[58140]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:11:25 app-server-01 sshd[39216]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:02:18 vpn-gw-01 cron[62654]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:09:16 vpn-gw-01 systemd[15895]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:18:40 fw-edge-01 cron[88690]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:04:42 db-server-03 sshd[34885]: Started Daily apt download activities
+<14>Apr 21 00:18:56 core-sw-02 nginx[55630]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:16:41 db-server-03 systemd[74377]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:02:24 core-sw-02 sudo[93741]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:19:20 core-sw-02 cron[4932]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:17:02 fw-edge-01 cron[4298]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:19:36 db-server-03 sshd[45061]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:14:48 db-server-03 sudo[12574]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:07:27 core-sw-02 systemd[66997]: Started Daily apt download activities
+<165>Apr 21 00:17:30 fw-edge-01 sudo[13725]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:17:37 fw-edge-01 systemd[89558]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:05:04 vpn-gw-01 sudo[40714]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:02:33 app-server-01 cron[95620]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:10:16 app-server-01 kernel[80837]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:05:10 fw-edge-01 postfix[80968]: Started Daily apt download activities
+<165>Apr 21 00:05:12 fw-edge-01 postfix[49181]: Started Daily apt download activities
+<165>Apr 21 00:15:42 vpn-gw-01 sudo[9000]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:15:48 db-server-03 cron[32234]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:15:54 core-sw-02 cron[68633]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:13:20 db-server-03 kernel[46989]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:10:44 fw-edge-01 postfix[49339]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:08:06 db-server-03 systemd[89372]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:13:35 vpn-gw-01 kernel[42152]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:08:12 core-sw-02 postfix[64251]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:22:00 fw-edge-01 cron[22456]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:02:46 fw-edge-01 sudo[28031]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:22:16 app-server-01 sudo[10118]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:22:24 vpn-gw-01 sshd[34926]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:19:43 vpn-gw-01 sudo[97915]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:22:40 fw-edge-01 sshd[2334]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:17:06 vpn-gw-01 cron[41398]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:22:56 vpn-gw-01 postfix[1631]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:14:25 db-server-03 nginx[77795]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:14:30 fw-edge-01 systemd[24498]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:05:50 db-server-03 systemd[68514]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:05:52 db-server-03 sudo[15395]: Started Daily apt download activities
+<14>Apr 21 00:14:45 core-sw-02 sshd[97455]: Started Daily apt download activities
+<165>Apr 21 00:02:58 db-server-03 systemd[37391]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:05:58 core-sw-02 kernel[49148]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:15:00 db-server-03 cron[44019]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:15:05 core-sw-02 nginx[14694]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:06:04 vpn-gw-01 kernel[5507]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:12:12 app-server-01 sudo[35806]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:24:32 vpn-gw-01 systemd[83209]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:12:20 app-server-01 postfix[22913]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:24:48 app-server-01 kernel[71649]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:12:28 core-sw-02 kernel[98766]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:18:48 db-server-03 sudo[27590]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:15:45 db-server-03 postfix[5127]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:06:20 db-server-03 nginx[22890]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:15:55 vpn-gw-01 kernel[80189]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:22:24 db-server-03 nginx[24076]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:06:26 app-server-01 postfix[15933]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:03:14 fw-edge-01 postfix[37328]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:13:00 app-server-01 nginx[25557]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:03:16 db-server-03 systemd[79327]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:16:25 vpn-gw-01 nginx[52006]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:13:12 fw-edge-01 nginx[62217]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:19:54 db-server-03 sshd[2671]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:16:40 app-server-01 sshd[70059]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:10:03 db-server-03 kernel[44951]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:10:06 fw-edge-01 kernel[65665]: Started Daily apt download activities
+<165>Apr 21 00:13:32 core-sw-02 postfix[28693]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:17:00 vpn-gw-01 kernel[25712]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:13:40 core-sw-02 sshd[14972]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:17:10 app-server-01 nginx[67857]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:06:54 db-server-03 sudo[72102]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:24:16 app-server-01 postfix[90352]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:13:56 db-server-03 kernel[67089]: Started Daily apt download activities
+<34>Apr 21 00:21:00 app-server-01 nginx[55787]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:28:08 app-server-01 systemd[93809]: Started Daily apt download activities
+<30>Apr 21 00:03:32 db-server-03 sshd[48304]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:07:06 vpn-gw-01 nginx[53520]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:03:34 fw-edge-01 nginx[51132]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:25:05 db-server-03 systemd[82535]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:10:48 app-server-01 sshd[61654]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:10:51 db-server-03 sudo[73748]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:07:16 db-server-03 kernel[50949]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:21:54 vpn-gw-01 cron[9493]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:07:20 app-server-01 nginx[72821]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:18:25 core-sw-02 sshd[50806]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:11:06 core-sw-02 nginx[45923]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:14:52 db-server-03 sshd[56309]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:07:28 core-sw-02 nginx[19431]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:07:30 app-server-01 nginx[8149]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:30:08 vpn-gw-01 cron[88340]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:18:55 app-server-01 cron[26652]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:26:36 app-server-01 sshd[7476]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:15:16 vpn-gw-01 postfix[50046]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:30:40 app-server-01 kernel[39128]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:07:42 db-server-03 sudo[24504]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:27:04 db-server-03 nginx[27021]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:27:11 fw-edge-01 sshd[38087]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:15:36 db-server-03 systemd[66489]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:07:50 vpn-gw-01 postfix[71388]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:27:32 db-server-03 sudo[7533]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:19:45 db-server-03 systemd[54808]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:31:44 fw-edge-01 postfix[3856]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:19:55 vpn-gw-01 kernel[31294]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:12:00 db-server-03 cron[81022]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:12:03 db-server-03 sudo[19454]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:12:06 fw-edge-01 sudo[87482]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:32:24 core-sw-02 systemd[90402]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:20:20 fw-edge-01 postfix[53699]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:20:25 vpn-gw-01 cron[86397]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:12:18 core-sw-02 sudo[5886]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:32:56 fw-edge-01 kernel[57289]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:12:24 fw-edge-01 postfix[49737]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:20:45 core-sw-02 sudo[31512]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:08:20 core-sw-02 kernel[48964]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:08:22 vpn-gw-01 cron[87117]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:04:12 db-server-03 sshd[67860]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:29:31 vpn-gw-01 cron[22800]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:21:10 app-server-01 cron[83039]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:34:00 fw-edge-01 kernel[7720]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:17:04 db-server-03 sudo[21328]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:12:51 core-sw-02 cron[9773]: Started Daily apt download activities
+<165>Apr 21 00:25:48 core-sw-02 cron[40013]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:21:35 vpn-gw-01 sshd[51866]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:26:00 core-sw-02 systemd[7786]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:08:42 fw-edge-01 nginx[16455]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:08:44 db-server-03 kernel[41405]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:13:09 app-server-01 kernel[22222]: Started Daily apt download activities
+<30>Apr 21 00:35:12 fw-edge-01 sudo[52958]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:08:50 core-sw-02 postfix[64773]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:31:02 core-sw-02 cron[7636]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:08:54 app-server-01 sudo[42033]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:26:48 fw-edge-01 kernel[9967]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:13:27 vpn-gw-01 nginx[73133]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:31:30 db-server-03 sshd[20343]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:18:04 app-server-01 postfix[79228]: Started Daily apt download activities
+<30>Apr 21 00:18:08 fw-edge-01 cron[82530]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:04:33 fw-edge-01 systemd[37092]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:36:32 core-sw-02 cron[76454]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:13:45 app-server-01 sudo[78037]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:13:48 core-sw-02 systemd[98486]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:36:56 fw-edge-01 cron[91088]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:13:54 fw-edge-01 nginx[51217]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:18:36 core-sw-02 systemd[76212]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:09:20 vpn-gw-01 sshd[60524]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:28:06 core-sw-02 postfix[63769]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:32:54 fw-edge-01 nginx[37501]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:04:43 fw-edge-01 sshd[2417]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:04:44 db-server-03 systemd[69379]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:19:00 fw-edge-01 systemd[34505]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:09:32 fw-edge-01 systemd[6448]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:23:55 core-sw-02 postfix[65844]: Started Daily apt download activities
+<165>Apr 21 00:04:48 db-server-03 sudo[49433]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:24:05 vpn-gw-01 systemd[17927]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:38:40 fw-edge-01 kernel[31533]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:14:33 app-server-01 sshd[49664]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:34:04 vpn-gw-01 sudo[44059]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:14:39 vpn-gw-01 cron[9233]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:29:24 fw-edge-01 sshd[14838]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:39:20 core-sw-02 postfix[98088]: Started Daily apt download activities
+<30>Apr 21 00:39:28 vpn-gw-01 kernel[27924]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:19:48 app-server-01 sshd[63877]: Started Daily apt download activities
+<14>Apr 21 00:39:44 vpn-gw-01 systemd[21124]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:39:52 vpn-gw-01 systemd[80855]: Started Daily apt download activities
+<14>Apr 21 00:20:00 db-server-03 nginx[67781]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:10:02 app-server-01 nginx[13952]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:15:06 db-server-03 systemd[95933]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:40:24 db-server-03 systemd[54419]: Started Daily apt download activities
+<30>Apr 21 00:40:32 db-server-03 postfix[33969]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:20:20 db-server-03 systemd[6344]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:25:30 vpn-gw-01 sshd[45708]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:25:35 fw-edge-01 systemd[53181]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:20:32 fw-edge-01 cron[51743]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:36:03 db-server-03 systemd[42951]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:41:20 vpn-gw-01 systemd[66912]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:05:11 app-server-01 sshd[910]: Started Daily apt download activities
+<165>Apr 21 00:20:48 db-server-03 systemd[98552]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:20:52 core-sw-02 sshd[52934]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:10:28 app-server-01 cron[98558]: Started Daily apt download activities
+<34>Apr 21 00:42:00 fw-edge-01 nginx[26408]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:10:32 app-server-01 sudo[82384]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:26:25 db-server-03 cron[42592]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:37:06 vpn-gw-01 postfix[19617]: Started Daily apt download activities
+<34>Apr 21 00:26:35 core-sw-02 cron[79371]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:16:00 vpn-gw-01 sudo[52578]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:26:45 vpn-gw-01 kernel[24436]: Started Daily apt download activities
+<46>Apr 21 00:26:50 fw-edge-01 nginx[32717]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:37:41 fw-edge-01 postfix[22755]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:05:24 db-server-03 postfix[20005]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:21:40 fw-edge-01 postfix[66343]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:32:36 db-server-03 sudo[39197]: Started Daily apt download activities
+<30>Apr 21 00:05:27 vpn-gw-01 cron[38887]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:27:20 fw-edge-01 sshd[42336]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:43:52 app-server-01 kernel[93434]: Started Daily apt download activities
+<30>Apr 21 00:38:30 db-server-03 systemd[25182]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:05:31 fw-edge-01 postfix[27033]: Started Daily apt download activities
+<46>Apr 21 00:33:12 db-server-03 cron[17011]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:22:12 db-server-03 postfix[57123]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:38:58 app-server-01 systemd[65862]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:22:20 core-sw-02 kernel[20009]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:39:12 app-server-01 cron[2993]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:22:28 fw-edge-01 systemd[95303]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:45:04 db-server-03 cron[19486]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:28:15 vpn-gw-01 systemd[9294]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:17:00 core-sw-02 sudo[93436]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:05:41 core-sw-02 kernel[50613]: Started Daily apt download activities
+<14>Apr 21 00:45:36 db-server-03 kernel[72739]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:05:43 app-server-01 kernel[41721]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:11:28 core-sw-02 postfix[68481]: Started Daily apt download activities
+<30>Apr 21 00:05:45 app-server-01 sudo[4034]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:23:04 core-sw-02 postfix[91214]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:11:34 db-server-03 sshd[62903]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:40:36 app-server-01 cron[48026]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:46:32 core-sw-02 sshd[15738]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:05:50 fw-edge-01 systemd[95852]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:17:33 app-server-01 sudo[58961]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:17:36 db-server-03 postfix[64698]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:35:18 fw-edge-01 cron[27668]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:17:42 db-server-03 kernel[72824]: Started Daily apt download activities
+<30>Apr 21 00:47:20 db-server-03 systemd[69219]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:47:28 core-sw-02 sshd[39482]: Started Daily apt download activities
+<165>Apr 21 00:35:42 app-server-01 nginx[38060]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:05:58 core-sw-02 sudo[7843]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:41:53 db-server-03 systemd[79036]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:06:00 core-sw-02 systemd[65346]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:30:05 fw-edge-01 systemd[8020]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:48:16 vpn-gw-01 nginx[94267]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:18:09 fw-edge-01 postfix[51960]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:24:16 fw-edge-01 sudo[93648]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:42:35 app-server-01 systemd[51655]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:12:12 vpn-gw-01 kernel[17640]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:06:07 core-sw-02 sshd[74892]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:42:56 fw-edge-01 postfix[83547]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:49:12 app-server-01 kernel[66499]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:12:20 app-server-01 postfix[99380]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:12:22 core-sw-02 systemd[60117]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:24:48 app-server-01 systemd[32348]: Started Daily apt download activities
+<34>Apr 21 00:37:18 core-sw-02 postfix[86785]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:12:28 db-server-03 cron[57349]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:18:45 fw-edge-01 kernel[21545]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:06:16 vpn-gw-01 kernel[81942]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:06:17 app-server-01 sshd[10571]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:44:06 core-sw-02 postfix[76002]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:18:57 db-server-03 kernel[84669]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:38:00 db-server-03 sshd[32926]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:06:21 app-server-01 sshd[45616]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:12:44 fw-edge-01 kernel[42059]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:44:41 fw-edge-01 sudo[67098]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:38:24 db-server-03 kernel[59474]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:25:40 fw-edge-01 kernel[42991]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:19:18 app-server-01 sshd[84163]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:38:42 fw-edge-01 sshd[86206]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:51:44 fw-edge-01 postfix[41814]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:19:27 db-server-03 nginx[97268]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:06:30 vpn-gw-01 cron[70168]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:19:33 core-sw-02 systemd[89383]: Started Daily apt download activities
+<30>Apr 21 00:32:40 fw-edge-01 postfix[25671]: Started Daily apt download activities
+<30>Apr 21 00:26:12 core-sw-02 sshd[62136]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:26:16 db-server-03 kernel[73051]: Started Daily apt download activities
+<46>Apr 21 00:46:05 core-sw-02 cron[29172]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:26:24 core-sw-02 nginx[72706]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:19:51 fw-edge-01 sshd[47554]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:53:04 db-server-03 sshd[21078]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:39:54 app-server-01 cron[51476]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:40:00 app-server-01 sudo[8015]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:26:44 core-sw-02 nginx[46240]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:06:42 db-server-03 cron[70664]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:40:18 fw-edge-01 systemd[94465]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:26:56 db-server-03 cron[80992]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:54:00 app-server-01 kernel[19732]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:47:22 core-sw-02 nginx[9807]: Started Daily apt download activities
+<30>Apr 21 00:33:55 core-sw-02 sudo[87708]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:47:36 vpn-gw-01 sudo[12425]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:20:27 app-server-01 sudo[62589]: Started Daily apt download activities
+<14>Apr 21 00:47:50 app-server-01 cron[7958]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:06:51 core-sw-02 kernel[45831]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:54:56 core-sw-02 cron[97715]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:27:32 core-sw-02 sshd[92888]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:20:42 core-sw-02 postfix[22929]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:55:20 vpn-gw-01 systemd[98723]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:27:44 vpn-gw-01 cron[7593]: Started Daily apt download activities
+<30>Apr 21 00:48:39 vpn-gw-01 systemd[34006]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:06:58 core-sw-02 cron[29973]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:41:54 core-sw-02 sudo[86910]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:14:00 db-server-03 sudo[23133]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:21:03 db-server-03 sshd[52161]: Started Daily apt download activities
+<165>Apr 21 00:14:04 app-server-01 postfix[16522]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:14:06 db-server-03 postfix[29474]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:21:12 fw-edge-01 cron[30725]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:42:30 vpn-gw-01 kernel[27092]: Started Daily apt download activities
+<46>Apr 21 00:42:36 fw-edge-01 sudo[91501]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:14:14 fw-edge-01 sudo[39721]: Started Daily apt download activities
+<46>Apr 21 00:42:48 vpn-gw-01 postfix[74170]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:28:36 core-sw-02 nginx[3272]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:43:00 app-server-01 nginx[28142]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:57:28 core-sw-02 sshd[54984]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:43:12 fw-edge-01 systemd[52785]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:50:31 fw-edge-01 sudo[8356]: Started Daily apt download activities
+<30>Apr 21 00:36:10 fw-edge-01 sudo[67954]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:36:15 core-sw-02 kernel[38798]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:21:48 db-server-03 sudo[97882]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:43:42 fw-edge-01 kernel[24598]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:07:18 fw-edge-01 systemd[34808]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:07:19 app-server-01 systemd[21928]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:29:20 db-server-03 sudo[6922]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:29:24 db-server-03 systemd[5585]: Started Daily apt download activities
+<165>Apr 21 00:22:06 db-server-03 systemd[64996]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:59:04 db-server-03 nginx[11806]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:51:48 vpn-gw-01 cron[7932]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:29:40 db-server-03 kernel[54630]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:07:26 core-sw-02 cron[3946]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:59:36 app-server-01 postfix[57200]: Started Daily apt download activities
+<14>Apr 21 00:59:44 db-server-03 systemd[27673]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:37:25 core-sw-02 nginx[47497]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:22:30 fw-edge-01 sudo[60258]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:52:37 app-server-01 postfix[65143]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:22:36 vpn-gw-01 nginx[91027]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:37:45 core-sw-02 nginx[32471]: Started Daily apt download activities
+<30>Apr 21 00:22:42 db-server-03 postfix[261]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 01:00:40 vpn-gw-01 kernel[55207]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 01:00:48 app-server-01 kernel[93262]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:38:05 app-server-01 nginx[85189]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:38:10 vpn-gw-01 sudo[24958]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:07:39 app-server-01 nginx[33184]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:15:20 app-server-01 sudo[37825]: Started Daily apt download activities
+<46>Apr 21 00:53:47 vpn-gw-01 sshd[75841]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:07:42 app-server-01 sshd[64411]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:54:01 fw-edge-01 kernel[77362]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:23:12 core-sw-02 nginx[99759]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:23:15 fw-edge-01 nginx[58042]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:38:50 core-sw-02 sudo[5723]: Started Daily apt download activities
+<46>Apr 21 01:02:16 core-sw-02 cron[78928]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:46:48 db-server-03 sshd[10748]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:15:38 db-server-03 cron[8745]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:39:10 db-server-03 systemd[35625]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:31:24 app-server-01 kernel[42628]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:31:28 core-sw-02 sshd[62393]: Started Daily apt download activities
+<14>Apr 21 00:15:46 fw-edge-01 systemd[31137]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:23:42 app-server-01 cron[27089]: Started Daily apt download activities
+<165>Apr 21 00:07:55 vpn-gw-01 kernel[66850]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 01:03:28 app-server-01 cron[95589]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:55:39 app-server-01 systemd[95954]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:07:58 db-server-03 kernel[89313]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:55:53 fw-edge-01 postfix[28534]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:48:00 vpn-gw-01 systemd[60460]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:48:06 db-server-03 cron[52071]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:48:12 fw-edge-01 sudo[31990]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:08:03 app-server-01 sshd[1652]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:48:24 core-sw-02 systemd[99123]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:48:30 app-server-01 systemd[99582]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:56:42 db-server-03 postfix[87800]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:32:28 app-server-01 postfix[9448]: Started Daily apt download activities
+<30>Apr 21 00:08:08 fw-edge-01 kernel[9911]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 01:05:12 app-server-01 kernel[94570]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:32:40 app-server-01 kernel[37816]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:16:22 db-server-03 postfix[58776]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:16:24 app-server-01 sudo[40345]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:49:18 db-server-03 sudo[69032]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 01:05:52 fw-edge-01 systemd[81514]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:33:00 core-sw-02 sudo[69637]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:24:48 vpn-gw-01 sudo[701]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:24:51 app-server-01 nginx[66302]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:16:36 core-sw-02 sudo[30430]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:58:13 db-server-03 sshd[59422]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:16:40 fw-edge-01 postfix[53736]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:25:03 fw-edge-01 sudo[20582]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:25:06 fw-edge-01 systemd[75796]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:41:55 db-server-03 postfix[7108]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 01:07:12 core-sw-02 postfix[87542]: Started Daily apt download activities
+<13>Apr 21 00:25:15 app-server-01 postfix[34352]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:59:02 db-server-03 sshd[70548]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:16:54 core-sw-02 kernel[66726]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:08:28 db-server-03 sudo[96323]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:08:29 vpn-gw-01 cron[38908]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:59:30 fw-edge-01 sudo[792]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:51:06 core-sw-02 postfix[49001]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:34:08 db-server-03 kernel[44714]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:42:45 db-server-03 cron[54174]: Started Daily apt download activities
+<14>Apr 21 00:08:34 fw-edge-01 kernel[61117]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:08:35 vpn-gw-01 kernel[98002]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:51:36 db-server-03 sudo[55423]: Started Daily apt download activities
+<46>Apr 21 00:51:42 core-sw-02 sshd[82405]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:34:32 app-server-01 sshd[42466]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:25:57 vpn-gw-01 kernel[67616]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:43:20 fw-edge-01 sudo[5077]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:34:44 app-server-01 postfix[1384]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:17:24 app-server-01 sshd[5640]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 01:01:01 vpn-gw-01 cron[33006]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:17:28 core-sw-02 sshd[85408]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:52:30 db-server-03 systemd[81821]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 01:01:22 fw-edge-01 cron[97215]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 01:10:16 app-server-01 sshd[59692]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:01:36 app-server-01 postfix[23292]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:26:27 fw-edge-01 postfix[25842]: Started Daily apt download activities
+<165>Apr 21 00:35:20 core-sw-02 sshd[30244]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:53:06 fw-edge-01 kernel[15613]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 01:02:04 app-server-01 cron[62789]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:53:18 fw-edge-01 kernel[47291]: Started Daily apt download activities
+<30>Apr 21 01:02:18 db-server-03 cron[43096]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:53:30 fw-edge-01 kernel[5915]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:44:40 fw-edge-01 sudo[96375]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:26:51 core-sw-02 sshd[31650]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:53:48 db-server-03 kernel[48206]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 01:11:52 vpn-gw-01 nginx[87476]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:36:00 db-server-03 cron[76713]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:09:01 app-server-01 sudo[52744]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:54:12 core-sw-02 kernel[95490]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:27:09 vpn-gw-01 cron[97411]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:27:12 fw-edge-01 postfix[66825]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:18:10 core-sw-02 sshd[95033]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 01:03:42 db-server-03 cron[64992]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 01:03:49 core-sw-02 systemd[90518]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:27:24 app-server-01 cron[86938]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:09:09 fw-edge-01 postfix[48106]: Started Daily apt download activities
+<165>Apr 21 00:09:10 app-server-01 nginx[57017]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:36:44 fw-edge-01 sudo[22644]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:27:36 vpn-gw-01 systemd[25582]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:46:05 core-sw-02 nginx[81269]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:18:28 core-sw-02 postfix[84046]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:46:15 vpn-gw-01 systemd[66703]: Started Daily apt download activities
+<46>Apr 21 00:27:48 app-server-01 kernel[10068]: Started Daily apt download activities
+<165>Apr 21 00:55:42 vpn-gw-01 postfix[72061]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:46:30 app-server-01 nginx[70986]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:09:19 app-server-01 sudo[29630]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:18:40 core-sw-02 systemd[93142]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 01:05:27 db-server-03 systemd[18679]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:18:44 db-server-03 nginx[15200]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:18:46 db-server-03 nginx[80620]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 01:15:12 vpn-gw-01 postfix[99325]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 01:15:20 core-sw-02 sudo[49137]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 01:15:28 db-server-03 systemd[73609]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:56:42 vpn-gw-01 cron[93193]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:37:52 db-server-03 sudo[41217]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 01:15:52 db-server-03 nginx[16426]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:09:30 fw-edge-01 systemd[1580]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:57:06 core-sw-02 cron[61206]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:09:32 app-server-01 sshd[45827]: Started Daily apt download activities
+<46>Apr 21 01:16:24 app-server-01 postfix[20768]: Started Daily apt download activities
+<14>Apr 21 01:06:58 db-server-03 sudo[80169]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 01:07:05 db-server-03 postfix[18443]: Started Daily apt download activities
+<34>Apr 21 01:16:48 db-server-03 postfix[96477]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:28:51 vpn-gw-01 kernel[21460]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:38:32 core-sw-02 kernel[16524]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:19:18 app-server-01 kernel[12030]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:07:40 core-sw-02 sshd[89487]: Started Daily apt download activities
+<46>Apr 21 00:38:44 vpn-gw-01 nginx[57534]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:29:06 vpn-gw-01 postfix[29036]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:38:52 db-server-03 postfix[76330]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:19:28 core-sw-02 postfix[98497]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:58:30 vpn-gw-01 systemd[36025]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:48:50 fw-edge-01 postfix[75072]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:19:34 vpn-gw-01 kernel[15138]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:58:48 db-server-03 sshd[29264]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:58:54 db-server-03 cron[97850]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:59:00 core-sw-02 cron[97394]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:29:33 vpn-gw-01 kernel[44223]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:39:28 fw-edge-01 postfix[1439]: Started Daily apt download activities
+<14>Apr 21 01:19:04 core-sw-02 sudo[4910]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:59:24 core-sw-02 systemd[57442]: Started Daily apt download activities
+<46>Apr 21 01:09:25 db-server-03 nginx[20516]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:19:52 vpn-gw-01 cron[62176]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:29:51 vpn-gw-01 sudo[60424]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 01:19:44 core-sw-02 sshd[39837]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:09:59 vpn-gw-01 systemd[67397]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 01:20:00 db-server-03 sshd[8515]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:20:02 core-sw-02 postfix[9932]: Started Daily apt download activities
+<14>Apr 21 00:20:04 db-server-03 sshd[95930]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:30:09 db-server-03 cron[13449]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:20:08 core-sw-02 systemd[99697]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:30:15 db-server-03 systemd[25020]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:10:42 db-server-03 sshd[546]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:30:21 vpn-gw-01 sudo[62404]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:21:04 core-sw-02 cron[965]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 01:21:12 fw-edge-01 sshd[47420]: Started Daily apt download activities
+<46>Apr 21 00:20:20 core-sw-02 postfix[12231]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:50:55 db-server-03 sudo[28666]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:21:36 db-server-03 kernel[88014]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:20:26 app-server-01 nginx[45446]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:30:42 app-server-01 nginx[2041]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 01:01:30 db-server-03 systemd[38398]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:41:04 vpn-gw-01 kernel[50953]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 01:11:59 fw-edge-01 cron[2927]: Started Daily apt download activities
+<46>Apr 21 01:22:24 db-server-03 sudo[81724]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:22:32 vpn-gw-01 systemd[29584]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:20:40 db-server-03 systemd[82627]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 01:22:48 fw-edge-01 kernel[68810]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:51:50 vpn-gw-01 nginx[90874]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:51:55 fw-edge-01 systemd[79581]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 01:23:12 vpn-gw-01 sudo[38964]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:41:40 app-server-01 nginx[21546]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:31:18 fw-edge-01 systemd[28132]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:23:36 db-server-03 kernel[86318]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:10:28 vpn-gw-01 postfix[88921]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 01:02:54 fw-edge-01 kernel[95514]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 01:13:30 vpn-gw-01 sudo[47679]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:42:04 fw-edge-01 systemd[44987]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:42:08 core-sw-02 sudo[17583]: Started Daily apt download activities
+<46>Apr 21 01:24:24 db-server-03 cron[89757]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:52:50 fw-edge-01 cron[44171]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 01:03:30 fw-edge-01 cron[54333]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:53:00 app-server-01 sudo[55595]: Started Daily apt download activities
+<13>Apr 21 00:31:51 vpn-gw-01 sshd[17112]: Started Daily apt download activities
+<46>Apr 21 00:31:54 fw-edge-01 nginx[48710]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:31:57 core-sw-02 kernel[25009]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 01:25:20 app-server-01 nginx[78158]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 01:14:47 fw-edge-01 kernel[70342]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:53:30 fw-edge-01 nginx[6166]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 01:25:44 core-sw-02 postfix[79377]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 01:25:52 core-sw-02 sshd[17697]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:21:30 fw-edge-01 cron[98835]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 01:15:22 vpn-gw-01 postfix[2549]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 01:04:42 db-server-03 postfix[80493]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:54:00 fw-edge-01 kernel[77604]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:43:16 app-server-01 nginx[97267]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:10:50 app-server-01 sshd[85842]: Started Daily apt download activities
+<34>Apr 21 00:43:24 core-sw-02 cron[86556]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:54:20 core-sw-02 cron[46928]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:27:04 fw-edge-01 nginx[15109]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:43:36 app-server-01 systemd[1498]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 01:05:30 app-server-01 kernel[29505]: Started Daily apt download activities
+<165>Apr 21 00:43:44 core-sw-02 cron[95994]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 01:27:36 app-server-01 postfix[3732]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 01:05:48 app-server-01 kernel[53142]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:10:59 fw-edge-01 systemd[81717]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:11:00 core-sw-02 kernel[77034]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:11:01 vpn-gw-01 systemd[73688]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 01:28:16 app-server-01 sshd[81427]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:33:09 app-server-01 nginx[12531]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:11:04 core-sw-02 sshd[15117]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:44:20 core-sw-02 nginx[18473]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:55:30 vpn-gw-01 postfix[70127]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:33:21 vpn-gw-01 cron[79155]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 01:29:04 fw-edge-01 systemd[43405]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 01:06:54 fw-edge-01 postfix[97840]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 00:11:10 fw-edge-01 postfix[72557]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:55:55 app-server-01 cron[67441]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:11:12 app-server-01 sshd[35688]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 01:29:44 db-server-03 nginx[83753]: Started Daily apt download activities
+<30>Apr 21 01:07:24 vpn-gw-01 systemd[92860]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 01:18:45 vpn-gw-01 postfix[30072]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:56:20 fw-edge-01 postfix[30657]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 01:07:42 vpn-gw-01 sudo[20337]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:33:54 vpn-gw-01 cron[46765]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 01:07:54 core-sw-02 cron[88346]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:11:20 vpn-gw-01 nginx[57085]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:22:42 db-server-03 kernel[43548]: Started Daily apt download activities
+<13>Apr 21 01:19:34 core-sw-02 postfix[45898]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 01:08:18 db-server-03 kernel[24608]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:45:36 fw-edge-01 kernel[26499]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 01:08:30 vpn-gw-01 kernel[8897]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:31:28 core-sw-02 systemd[59297]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:22:54 core-sw-02 sshd[14595]: Started Daily apt download activities
+<13>Apr 21 01:31:44 db-server-03 postfix[74130]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 00:57:25 fw-edge-01 kernel[3422]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:34:30 db-server-03 nginx[39429]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:23:02 app-server-01 systemd[68318]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 01:32:16 db-server-03 cron[9747]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 01:09:18 vpn-gw-01 sshd[73750]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:32:32 core-sw-02 kernel[93055]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:09:30 app-server-01 nginx[76657]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:23:12 app-server-01 sudo[37775]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:11:37 fw-edge-01 systemd[68434]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:46:32 fw-edge-01 sudo[99088]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:34:57 core-sw-02 systemd[92890]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:46:40 fw-edge-01 sudo[55100]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:46:44 vpn-gw-01 postfix[7151]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:23:24 fw-edge-01 kernel[61698]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 01:22:01 core-sw-02 sudo[8603]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:11:44 db-server-03 systemd[6009]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:34:00 vpn-gw-01 sshd[1797]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:34:08 db-server-03 cron[42927]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:11:47 vpn-gw-01 sshd[11306]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 01:22:36 app-server-01 nginx[14811]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:34:32 db-server-03 sudo[94102]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 01:11:00 core-sw-02 nginx[21290]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 01:11:06 db-server-03 kernel[17145]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:23:44 vpn-gw-01 kernel[87073]: Started Daily apt download activities
+<14>Apr 21 01:23:11 vpn-gw-01 nginx[58629]: Started Daily apt download activities
+<165>Apr 21 00:11:54 db-server-03 sshd[27720]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:11:55 app-server-01 postfix[51955]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 01:23:32 core-sw-02 nginx[57035]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:23:54 db-server-03 systemd[71010]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:59:50 db-server-03 nginx[44374]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:23:58 vpn-gw-01 kernel[78868]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:24:00 vpn-gw-01 postfix[22510]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:48:04 core-sw-02 cron[41691]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:36:06 core-sw-02 kernel[85127]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:36:24 app-server-01 cron[48187]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 01:36:32 app-server-01 cron[78048]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 01:36:40 fw-edge-01 sshd[74985]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:36:48 vpn-gw-01 kernel[18667]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 01:00:35 fw-edge-01 kernel[55446]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 00:12:08 core-sw-02 systemd[12027]: Started Daily apt download activities
+<13>Apr 21 00:36:27 fw-edge-01 kernel[23093]: Started Daily apt download activities
+<165>Apr 21 01:00:50 db-server-03 postfix[42565]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 01:37:28 core-sw-02 cron[8815]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:12:12 db-server-03 sudo[33041]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:12:13 db-server-03 kernel[71691]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:24:28 vpn-gw-01 sshd[88636]: Started Daily apt download activities
+<13>Apr 21 00:36:45 fw-edge-01 postfix[18423]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 01:25:52 core-sw-02 nginx[5996]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:49:08 db-server-03 postfix[41408]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:24:36 vpn-gw-01 systemd[11856]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:36:57 db-server-03 sudo[88450]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 01:01:40 app-server-01 sudo[92293]: Started Daily apt download activities
+<30>Apr 21 00:24:42 vpn-gw-01 sudo[82971]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:49:28 core-sw-02 nginx[87298]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 01:26:41 db-server-03 postfix[6808]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 01:14:24 db-server-03 sudo[4260]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:24:50 vpn-gw-01 cron[25110]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:14:36 core-sw-02 cron[87639]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:24:54 fw-edge-01 sudo[94548]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:24:56 db-server-03 nginx[66438]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:24:58 db-server-03 cron[85239]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:37:30 vpn-gw-01 systemd[12665]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 00:25:02 app-server-01 cron[13886]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:50:08 fw-edge-01 sshd[27313]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:12:33 db-server-03 sudo[34828]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 01:15:24 vpn-gw-01 nginx[46413]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 01:02:55 core-sw-02 cron[38978]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:25:12 app-server-01 postfix[5008]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:03:05 fw-edge-01 sudo[24874]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:50:32 vpn-gw-01 nginx[72235]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 01:15:54 app-server-01 cron[10683]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 00:25:20 db-server-03 nginx[42314]: Started Daily apt download activities
+<30>Apr 21 01:03:25 vpn-gw-01 sudo[80682]: Started Daily apt download activities
+<13>Apr 21 01:28:54 app-server-01 nginx[13217]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:16:18 app-server-01 cron[47952]: Started Daily apt download activities
+<34>Apr 21 00:50:56 vpn-gw-01 sudo[73870]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 01:03:45 app-server-01 cron[41669]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 00:12:46 fw-edge-01 cron[10907]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:03:55 fw-edge-01 sudo[72878]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 01:04:00 db-server-03 sudo[80049]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:51:16 app-server-01 systemd[24056]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:12:50 fw-edge-01 sshd[9526]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 00:25:42 fw-edge-01 systemd[74701]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 01:17:12 db-server-03 systemd[40264]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:38:39 fw-edge-01 postfix[86124]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 00:51:36 db-server-03 systemd[38657]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:25:50 db-server-03 kernel[88870]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:25:52 core-sw-02 cron[756]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 01:04:45 app-server-01 sudo[92688]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 01:30:46 core-sw-02 kernel[65775]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:12:59 app-server-01 cron[38635]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 01:05:00 core-sw-02 postfix[32712]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 01:31:07 db-server-03 systemd[40196]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 00:26:04 core-sw-02 sshd[32262]: Started Daily apt download activities
+<46>Apr 21 01:44:24 fw-edge-01 kernel[91225]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:52:16 db-server-03 kernel[34635]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 01:18:30 core-sw-02 nginx[78552]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:39:18 db-server-03 postfix[76794]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 01:05:35 vpn-gw-01 kernel[24420]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:13:08 db-server-03 sshd[35180]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:05:45 db-server-03 cron[97593]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:39:30 core-sw-02 sshd[22151]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:26:22 vpn-gw-01 systemd[63533]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 01:19:12 fw-edge-01 cron[53017]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 01:19:18 db-server-03 sshd[67865]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:52:56 vpn-gw-01 sudo[56678]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:32:45 fw-edge-01 systemd[99508]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 01:46:08 app-server-01 nginx[79859]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:06:25 db-server-03 kernel[18869]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 00:39:54 fw-edge-01 sudo[41999]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:39:57 fw-edge-01 kernel[71763]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:13:20 core-sw-02 kernel[33299]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:53:24 vpn-gw-01 kernel[84519]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:40:06 app-server-01 sudo[98271]: Started Daily apt download activities
+<13>Apr 21 01:06:55 fw-edge-01 cron[41026]: Started Daily apt download activities
+<34>Apr 21 01:33:48 app-server-01 systemd[42357]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:07:05 vpn-gw-01 nginx[32907]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:47:28 app-server-01 postfix[88229]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:53:48 db-server-03 kernel[42412]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:13:28 core-sw-02 kernel[25617]: Started Daily apt download activities
+<34>Apr 21 00:40:27 app-server-01 cron[16047]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 00:27:00 app-server-01 nginx[85691]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 01:34:37 core-sw-02 kernel[75369]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:13:32 vpn-gw-01 systemd[364]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:21:18 vpn-gw-01 sudo[85529]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:54:16 fw-edge-01 sshd[89679]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:54:20 core-sw-02 cron[91829]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 00:40:48 db-server-03 kernel[7259]: Started Daily apt download activities
+<165>Apr 21 01:35:19 fw-edge-01 sudo[23062]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 00:54:32 fw-edge-01 postfix[33111]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:35:33 core-sw-02 systemd[9974]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 01:08:20 vpn-gw-01 nginx[34659]: Started Daily apt download activities
+<13>Apr 21 01:49:28 fw-edge-01 kernel[40001]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:54:48 core-sw-02 nginx[75177]: Started Daily apt download activities
+<165>Apr 21 01:49:44 fw-edge-01 cron[77253]: Started Daily apt download activities
+<46>Apr 21 01:22:24 vpn-gw-01 cron[54884]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:41:15 app-server-01 postfix[2513]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:27:32 fw-edge-01 postfix[57457]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:22:42 app-server-01 cron[96727]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:13:48 core-sw-02 kernel[27171]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:27:38 db-server-03 kernel[75576]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 00:27:40 fw-edge-01 systemd[24767]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:36:57 vpn-gw-01 sudo[98007]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:55:28 vpn-gw-01 sshd[70183]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:23:18 db-server-03 postfix[6198]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 01:51:12 core-sw-02 cron[323]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:51:20 app-server-01 sshd[82221]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:51:28 db-server-03 sudo[31878]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 00:13:57 core-sw-02 cron[4745]: Postfix cleanup daemon started -- version 3.6.4
+<13>Apr 21 00:27:56 app-server-01 cron[54745]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 00:13:59 app-server-01 nginx[68759]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 01:24:00 core-sw-02 systemd[13061]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:42:03 core-sw-02 systemd[55873]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:28:04 app-server-01 kernel[49272]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:28:06 vpn-gw-01 sudo[23231]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:56:16 app-server-01 nginx[18096]: Started Daily apt download activities
+<165>Apr 21 01:24:30 fw-edge-01 postfix[62727]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 01:10:30 app-server-01 sudo[41529]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 01:10:35 fw-edge-01 sshd[81944]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 01:38:56 fw-edge-01 cron[8343]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 01:24:54 app-server-01 sudo[66297]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:56:40 vpn-gw-01 cron[88514]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:14:11 app-server-01 nginx[77297]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 01:53:36 core-sw-02 nginx[67691]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:28:26 db-server-03 kernel[45276]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 01:39:38 core-sw-02 kernel[52429]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:57:00 db-server-03 nginx[86211]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 01:39:52 core-sw-02 nginx[4215]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<46>Apr 21 00:28:34 db-server-03 nginx[26921]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 01:11:30 fw-edge-01 nginx[7086]: Started Daily apt download activities
+<46>Apr 21 01:54:32 core-sw-02 cron[67099]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:43:00 db-server-03 nginx[17836]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 01:40:27 app-server-01 sshd[37389]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:57:28 core-sw-02 sudo[49431]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:40:41 core-sw-02 sudo[26670]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:14:24 vpn-gw-01 nginx[40973]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 00:14:25 app-server-01 postfix[54000]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 01:41:02 core-sw-02 postfix[2794]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 01:55:36 fw-edge-01 postfix[39045]: Started Daily apt download activities
+<34>Apr 21 00:28:56 fw-edge-01 postfix[70927]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 01:12:25 vpn-gw-01 postfix[23830]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:58:00 app-server-01 sshd[11072]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:14:31 core-sw-02 sshd[17275]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:58:08 core-sw-02 cron[55622]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:43:39 fw-edge-01 systemd[61508]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 00:29:08 fw-edge-01 postfix[21213]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 01:56:40 fw-edge-01 sshd[56124]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 01:13:00 core-sw-02 postfix[50390]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:58:28 app-server-01 postfix[35537]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:57:04 app-server-01 sshd[64193]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<30>Apr 21 01:13:15 app-server-01 cron[835]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:28:00 vpn-gw-01 postfix[95608]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 01:42:47 db-server-03 nginx[36016]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:58:48 core-sw-02 sshd[74686]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:14:43 fw-edge-01 systemd[55460]: Postfix cleanup daemon started -- version 3.6.4
+<30>Apr 21 01:13:40 app-server-01 sshd[49680]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:13:45 app-server-01 cron[73091]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 00:59:04 vpn-gw-01 postfix[94927]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:43:29 vpn-gw-01 cron[17809]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 01:28:48 db-server-03 nginx[1924]: Started Daily apt download activities
+<14>Apr 21 01:43:43 vpn-gw-01 postfix[50716]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 01:29:00 vpn-gw-01 cron[88170]: Started Daily apt download activities
+<46>Apr 21 00:14:51 app-server-01 sudo[29880]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 00:29:44 fw-edge-01 sshd[63417]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:29:46 fw-edge-01 kernel[33468]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:44:42 fw-edge-01 sshd[78621]: Interface eth0 link is up at 1000 Mbps
+<165>Apr 21 01:29:30 db-server-03 postfix[50166]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:44:48 core-sw-02 systemd[91410]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 01:29:42 app-server-01 sshd[15118]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<46>Apr 21 00:59:52 vpn-gw-01 systemd[17056]: Started Daily apt download activities
+<14>Apr 21 01:44:53 app-server-01 nginx[4618]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 01:00:00 vpn-gw-01 postfix[45604]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 01:45:07 app-server-01 postfix[14738]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 01:30:12 db-server-03 sshd[62792]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 01:30:18 fw-edge-01 postfix[4264]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 01:00:16 app-server-01 cron[99612]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 01:45:35 fw-edge-01 kernel[6516]: Interface eth0 link is up at 1000 Mbps
+<13>Apr 21 01:30:36 core-sw-02 kernel[71498]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 01:00:28 app-server-01 postfix[47473]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 01:45:56 db-server-03 postfix[67267]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:15:09 db-server-03 systemd[30888]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 01:46:10 vpn-gw-01 postfix[11693]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:45:33 app-server-01 kernel[57048]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:31:12 db-server-03 sudo[18716]: Interface eth0 link is up at 1000 Mbps
+<34>Apr 21 01:00:52 core-sw-02 nginx[62223]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 01:31:24 vpn-gw-01 sshd[87999]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 01:16:15 vpn-gw-01 sudo[94664]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 01:31:36 vpn-gw-01 sudo[8024]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<13>Apr 21 01:46:59 vpn-gw-01 kernel[56263]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 01:31:48 db-server-03 postfix[13139]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 01:16:35 fw-edge-01 nginx[32301]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 02:02:40 app-server-01 systemd[76821]: Started Daily apt download activities
+<30>Apr 21 00:15:21 core-sw-02 cron[12762]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 02:02:56 core-sw-02 sshd[39950]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 01:16:55 db-server-03 postfix[79648]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:15:24 db-server-03 sudo[56389]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 02:03:20 vpn-gw-01 sshd[85078]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:48:02 vpn-gw-01 postfix[41945]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 01:01:48 core-sw-02 postfix[40301]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 00:30:56 db-server-03 sudo[75854]: Connection reset by peer while reading response header from upstream
+<14>Apr 21 02:03:52 fw-edge-01 postfix[7661]: Started Daily apt download activities
+<30>Apr 21 01:02:00 db-server-03 nginx[95223]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 01:17:35 core-sw-02 sudo[79175]: Postfix cleanup daemon started -- version 3.6.4
+<165>Apr 21 01:02:08 app-server-01 nginx[69457]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 00:15:33 app-server-01 cron[9878]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:15:34 fw-edge-01 postfix[38518]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:49:05 db-server-03 systemd[8612]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 00:46:48 app-server-01 sshd[62558]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<13>Apr 21 01:49:19 fw-edge-01 postfix[53196]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 01:18:10 core-sw-02 systemd[37812]: Connection reset by peer while reading response header from upstream
+<30>Apr 21 00:31:18 fw-edge-01 sshd[39809]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:02:40 app-server-01 sudo[18852]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:47:03 app-server-01 cron[10617]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:15:42 fw-edge-01 nginx[54333]: Started Daily apt download activities
+<165>Apr 21 00:31:26 app-server-01 systemd[16984]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 01:50:08 vpn-gw-01 nginx[18765]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 00:31:30 core-sw-02 systemd[31985]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:50:22 db-server-03 kernel[64525]: Interface eth0 link is up at 1000 Mbps
+<14>Apr 21 00:31:34 core-sw-02 cron[24195]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 02:06:24 app-server-01 kernel[57501]: Started Daily apt download activities
+<46>Apr 21 00:31:38 core-sw-02 postfix[94030]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 01:50:50 core-sw-02 systemd[22989]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 00:47:33 core-sw-02 nginx[2595]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 02:06:56 db-server-03 postfix[51000]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:47:39 fw-edge-01 sudo[13278]: Started Daily apt download activities
+<34>Apr 21 01:35:24 vpn-gw-01 nginx[69877]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<34>Apr 21 00:47:45 app-server-01 sshd[56547]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:15:56 vpn-gw-01 kernel[1896]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:15:57 db-server-03 postfix[24287]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<14>Apr 21 02:07:44 db-server-03 cron[18979]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<13>Apr 21 00:47:57 fw-edge-01 postfix[27696]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 01:20:00 db-server-03 systemd[57394]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<165>Apr 21 01:20:05 core-sw-02 kernel[9321]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:32:04 vpn-gw-01 systemd[53357]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:16:03 vpn-gw-01 cron[48570]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 01:04:16 app-server-01 nginx[13333]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<46>Apr 21 02:08:40 db-server-03 systemd[64320]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<14>Apr 21 02:08:48 app-server-01 nginx[86557]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<30>Apr 21 01:36:42 app-server-01 nginx[91273]: Interface eth0 link is up at 1000 Mbps
+<30>Apr 21 00:16:08 db-server-03 sudo[8761]: Connection reset by peer while reading response header from upstream
+<34>Apr 21 00:32:18 db-server-03 cron[4984]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<46>Apr 21 00:48:30 app-server-01 postfix[80365]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:16:11 app-server-01 kernel[40356]: Connection reset by peer while reading response header from upstream
+<165>Apr 21 01:53:24 app-server-01 nginx[42111]: Started Daily apt download activities
+<34>Apr 21 01:37:18 core-sw-02 systemd[70885]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 01:21:10 fw-edge-01 postfix[55789]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<14>Apr 21 02:10:00 fw-edge-01 systemd[51726]: Postfix cleanup daemon started -- version 3.6.4
+<46>Apr 21 01:21:20 vpn-gw-01 sshd[78610]: Started Daily apt download activities
+<165>Apr 21 01:37:42 vpn-gw-01 sudo[92657]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:48:54 app-server-01 kernel[44548]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:16:19 app-server-01 postfix[30155]: Postfix cleanup daemon started -- version 3.6.4
+<14>Apr 21 01:21:40 fw-edge-01 cron[75517]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:49:03 app-server-01 nginx[38035]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 01:54:34 db-server-03 systemd[38142]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<30>Apr 21 00:32:46 fw-edge-01 kernel[68812]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<14>Apr 21 01:05:36 core-sw-02 kernel[23230]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<165>Apr 21 01:05:40 fw-edge-01 sudo[8118]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:32:52 fw-edge-01 postfix[91653]: Connection reset by peer while reading response header from upstream
+<46>Apr 21 00:49:21 db-server-03 sudo[23947]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<165>Apr 21 01:22:20 fw-edge-01 nginx[34908]: Started Daily apt download activities
+<14>Apr 21 02:11:52 app-server-01 sshd[5143]: Started Daily apt download activities
+<30>Apr 21 01:39:00 vpn-gw-01 nginx[20547]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<13>Apr 21 01:06:04 app-server-01 systemd[67550]: CRON[12345]: (root) CMD (run-parts /etc/cron.hourly)
+<34>Apr 21 01:55:44 core-sw-02 sudo[70012]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<34>Apr 21 00:16:33 fw-edge-01 nginx[36261]: Failed password for invalid user test from 192.168.22.91 port 50211 ssh2
+<34>Apr 21 01:55:58 fw-edge-01 systemd[48032]: Postfix cleanup daemon started -- version 3.6.4
+<34>Apr 21 00:33:10 vpn-gw-01 postfix[6034]: Accepted password for admin from 10.0.12.45 port 54832 ssh2
+<165>Apr 21 01:39:36 core-sw-02 kernel[51733]: Interface eth0 link is up at 1000 Mbps
+<46>Apr 21 00:33:14 db-server-03 kernel[9321]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+<30>Apr 21 00:49:54 app-server-01 postfix[30096]: Connection reset by peer while reading response header from upstream
+<13>Apr 21 00:49:57 db-server-03 nginx[41895]: sudo: pam_unix(sudo:session): session opened for user root by admin(uid=0)

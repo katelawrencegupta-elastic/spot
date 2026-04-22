@@ -1,0 +1,1000 @@
+Apr 21 00:00:00 bastion-02 sshd[4729]: Accepted publickey for admin from 168.199.194.83 port 19053 ssh2
+Apr 21 00:00:04 jump-01 sshd[62495]: Accepted password for admin from 51.79.243.31 port 2791 ssh2
+Apr 21 00:00:04 bastion-02 sshd[45157]: Failed password for invalid user postgres from 42.87.121.222 port 46148 ssh2
+Apr 21 00:00:06 db-01 sshd[9000]: Failed publickey for admin from 81.172.2.82 port 59433 ssh2
+Apr 21 00:00:12 web-01 sshd[80585]: Connection closed by authenticating user jenkins 111.206.164.189 port 21146 [preauth]
+Apr 21 00:00:10 web-01 sshd[79816]: Received disconnect from 154.248.137.113 port 6184:11: disconnected by user
+Apr 21 00:00:24 web-01 sshd[22895]: Invalid user test from 167.85.144.124 port 19225
+Apr 21 00:00:07 db-01 sshd[57420]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:00:08 infra-ops-01 sshd[59573]: Accepted publickey for ubuntu from 117.215.113.224 port 17288 ssh2
+Apr 21 00:00:18 infra-ops-01 sshd[51165]: Accepted password for root from 32.158.30.137 port 15190 ssh2
+Apr 21 00:00:40 jump-01 sshd[98500]: Failed password for invalid user guest from 17.219.104.204 port 63212 ssh2
+Apr 21 00:00:44 db-01 sshd[29473]: Failed publickey for jenkins from 119.180.125.42 port 53629 ssh2
+Apr 21 00:00:48 infra-ops-01 sshd[1989]: Connection closed by authenticating user jenkins 140.194.57.222 port 32774 [preauth]
+Apr 21 00:00:26 db-01 sshd[50019]: Received disconnect from 179.151.56.137 port 36828:11: disconnected by user
+Apr 21 00:00:28 jump-01 sshd[4329]: Invalid user oracle from 57.25.238.34 port 14631
+Apr 21 00:00:45 web-01 sshd[19576]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:00:16 web-01 sshd[36745]: Accepted publickey for admin from 74.180.49.216 port 44820 ssh2
+Apr 21 00:00:34 bastion-02 sshd[90677]: Accepted password for jenkins from 29.78.39.147 port 25480 ssh2
+Apr 21 00:00:18 jump-01 sshd[99211]: Failed password for invalid user nagios from 123.95.139.105 port 14130 ssh2
+Apr 21 00:00:38 bastion-02 sshd[71612]: Failed publickey for ec2-user from 156.226.206.35 port 57054 ssh2
+Apr 21 00:00:20 jump-01 sshd[32533]: Connection closed by authenticating user ec2-user 78.204.30.200 port 21143 [preauth]
+Apr 21 00:01:24 bastion-02 sshd[99670]: Received disconnect from 205.129.66.5 port 52683:11: disconnected by user
+Apr 21 00:01:28 jump-01 sshd[44518]: Invalid user oracle from 129.205.84.224 port 9657
+Apr 21 00:01:09 db-01 sshd[90500]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:00:48 bastion-02 sshd[97708]: Accepted publickey for ec2-user from 81.153.28.189 port 12613 ssh2
+Apr 21 00:00:25 db-01 sshd[57047]: Accepted password for root from 195.71.163.19 port 62143 ssh2
+Apr 21 00:00:52 jump-01 sshd[33119]: Failed password for invalid user postgres from 68.71.2.84 port 63526 ssh2
+Apr 21 00:01:48 jump-01 sshd[54509]: Failed publickey for deploy from 112.74.134.136 port 4787 ssh2
+Apr 21 00:01:52 infra-ops-01 sshd[61712]: Connection closed by authenticating user ubuntu 33.20.76.118 port 14149 [preauth]
+Apr 21 00:01:27 web-01 sshd[27777]: Received disconnect from 184.223.222.80 port 33955:11: disconnected by user
+Apr 21 00:00:30 bastion-02 sshd[36822]: Invalid user ftp from 122.62.240.173 port 50200
+Apr 21 00:00:31 web-01 sshd[2816]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:02:08 jump-01 sshd[42378]: Accepted publickey for admin from 135.190.254.88 port 57538 ssh2
+Apr 21 00:01:06 jump-01 sshd[83977]: Accepted password for jenkins from 183.137.154.116 port 2569 ssh2
+Apr 21 00:00:34 web-01 sshd[78279]: Failed password for invalid user postgres from 30.193.60.46 port 18815 ssh2
+Apr 21 00:01:10 infra-ops-01 sshd[90812]: Failed publickey for deploy from 52.46.62.45 port 18832 ssh2
+Apr 21 00:01:48 jump-01 sshd[91828]: Connection closed by authenticating user root 219.42.247.251 port 32487 [preauth]
+Apr 21 00:00:37 bastion-02 sshd[29899]: Received disconnect from 130.114.233.234 port 56271:11: disconnected by user
+Apr 21 00:01:54 db-01 sshd[40430]: Invalid user test from 176.32.101.139 port 55379
+Apr 21 00:01:18 db-01 sshd[26110]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:02:00 bastion-02 sshd[25081]: Accepted publickey for deploy from 124.246.88.85 port 59570 ssh2
+Apr 21 00:02:03 jump-01 sshd[30662]: Accepted password for root from 150.7.229.22 port 30568 ssh2
+Apr 21 00:00:42 infra-ops-01 sshd[46435]: Failed password for invalid user guest from 119.179.14.118 port 15475 ssh2
+Apr 21 00:02:09 web-01 sshd[83853]: Failed publickey for root from 119.119.232.211 port 65191 ssh2
+Apr 21 00:01:28 web-01 sshd[62182]: Connection closed by authenticating user backup 134.250.160.187 port 54732 [preauth]
+Apr 21 00:03:00 db-01 sshd[11019]: Received disconnect from 202.146.42.165 port 56512:11: disconnected by user
+Apr 21 00:01:32 db-01 sshd[54581]: Invalid user test from 178.130.30.92 port 40104
+Apr 21 00:01:34 web-01 sshd[66456]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:03:12 jump-01 sshd[79370]: Accepted publickey for deploy from 197.50.133.8 port 21456 ssh2
+Apr 21 00:03:16 db-01 sshd[36653]: Accepted password for ec2-user from 192.159.186.246 port 34996 ssh2
+Apr 21 00:01:40 infra-ops-01 sshd[59082]: Failed password for invalid user test from 212.51.26.102 port 44781 ssh2
+Apr 21 00:00:51 infra-ops-01 sshd[6034]: Failed publickey for jenkins from 138.111.178.59 port 12257 ssh2
+Apr 21 00:03:28 jump-01 sshd[33597]: Connection closed by authenticating user deploy 20.83.177.106 port 18165 [preauth]
+Apr 21 00:02:39 infra-ops-01 sshd[11258]: Received disconnect from 82.246.114.129 port 28333:11: disconnected by user
+Apr 21 00:00:54 jump-01 sshd[20451]: Invalid user guest from 167.176.177.234 port 18721
+Apr 21 00:00:55 jump-01 sshd[48163]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:00:56 jump-01 sshd[55114]: Accepted publickey for ec2-user from 72.106.234.66 port 6474 ssh2
+Apr 21 00:00:57 bastion-02 sshd[82086]: Accepted password for jenkins from 29.251.88.175 port 51776 ssh2
+Apr 21 00:00:58 infra-ops-01 sshd[55010]: Failed password for invalid user test from 24.206.62.223 port 43397 ssh2
+Apr 21 00:03:56 infra-ops-01 sshd[94513]: Failed publickey for admin from 98.136.62.65 port 39532 ssh2
+Apr 21 00:03:00 db-01 sshd[44922]: Connection closed by authenticating user ubuntu 136.200.17.167 port 30769 [preauth]
+Apr 21 00:01:01 infra-ops-01 sshd[13827]: Received disconnect from 37.0.5.12 port 18778:11: disconnected by user
+Apr 21 00:01:02 web-01 sshd[29751]: Invalid user nagios from 40.212.235.45 port 16462
+Apr 21 00:01:03 db-01 sshd[91356]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:02:08 web-01 sshd[3149]: Accepted publickey for jenkins from 86.114.68.160 port 36917 ssh2
+Apr 21 00:03:15 db-01 sshd[69348]: Accepted password for backup from 95.113.68.11 port 20383 ssh2
+Apr 21 00:01:06 jump-01 sshd[3059]: Failed password for invalid user ftp from 47.136.131.44 port 29754 ssh2
+Apr 21 00:03:21 jump-01 sshd[19540]: Failed publickey for jenkins from 137.26.70.79 port 42834 ssh2
+Apr 21 00:04:32 web-01 sshd[94419]: Connection closed by authenticating user deploy 39.189.93.88 port 44915 [preauth]
+Apr 21 00:04:36 jump-01 sshd[36531]: Received disconnect from 128.152.223.122 port 2366:11: disconnected by user
+Apr 21 00:03:30 jump-01 sshd[62602]: Invalid user postgres from 223.28.57.6 port 11740
+Apr 21 00:01:11 web-01 sshd[75736]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:02:24 db-01 sshd[43838]: Accepted publickey for backup from 34.112.172.229 port 61789 ssh2
+Apr 21 00:02:26 web-01 sshd[47443]: Accepted password for root from 115.228.55.236 port 19963 ssh2
+Apr 21 00:01:14 web-01 sshd[39454]: Failed password for invalid user nagios from 179.87.135.79 port 65237 ssh2
+Apr 21 00:01:15 db-01 sshd[53528]: Failed publickey for ubuntu from 187.162.115.187 port 15318 ssh2
+Apr 21 00:03:48 infra-ops-01 sshd[76035]: Connection closed by authenticating user ec2-user 127.34.139.153 port 24492 [preauth]
+Apr 21 00:05:08 infra-ops-01 sshd[99133]: Received disconnect from 119.200.181.177 port 41303:11: disconnected by user
+Apr 21 00:03:54 jump-01 sshd[3911]: Invalid user postgres from 169.63.117.162 port 43261
+Apr 21 00:01:19 db-01 sshd[13828]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:02:40 jump-01 sshd[20429]: Accepted publickey for ec2-user from 150.2.107.79 port 21137 ssh2
+Apr 21 00:01:21 db-01 sshd[25806]: Accepted password for backup from 16.208.157.212 port 29613 ssh2
+Apr 21 00:05:28 web-01 sshd[38179]: Failed password for invalid user postgres from 142.166.251.154 port 49378 ssh2
+Apr 21 00:02:46 jump-01 sshd[33636]: Failed publickey for admin from 161.189.21.105 port 30764 ssh2
+Apr 21 00:02:48 db-01 sshd[6101]: Connection closed by authenticating user root 194.244.126.142 port 47668 [preauth]
+Apr 21 00:02:50 bastion-02 sshd[43751]: Received disconnect from 64.38.101.193 port 33911:11: disconnected by user
+Apr 21 00:01:26 web-01 sshd[94319]: Invalid user oracle from 211.146.155.150 port 39208
+Apr 21 00:02:54 jump-01 sshd[11799]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:01:28 web-01 sshd[12748]: Accepted publickey for admin from 40.171.9.191 port 3631 ssh2
+Apr 21 00:05:56 web-01 sshd[12974]: Accepted password for root from 30.27.159.156 port 2639 ssh2
+Apr 21 00:03:00 db-01 sshd[68832]: Failed password for invalid user postgres from 42.10.212.221 port 12141 ssh2
+Apr 21 00:06:04 infra-ops-01 sshd[40677]: Failed publickey for jenkins from 82.66.189.69 port 54235 ssh2
+Apr 21 00:03:04 web-01 sshd[87841]: Connection closed by authenticating user backup 95.145.78.113 port 15516 [preauth]
+Apr 21 00:04:39 web-01 sshd[58799]: Received disconnect from 213.150.109.159 port 44618:11: disconnected by user
+Apr 21 00:06:16 db-01 sshd[13714]: Invalid user ftp from 150.234.33.155 port 52605
+Apr 21 00:06:20 infra-ops-01 sshd[81231]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:03:12 jump-01 sshd[82134]: Accepted publickey for jenkins from 57.70.68.16 port 1940 ssh2
+Apr 21 00:03:14 jump-01 sshd[78149]: Accepted password for deploy from 112.83.191.122 port 17625 ssh2
+Apr 21 00:03:16 jump-01 sshd[28070]: Failed password for invalid user test from 154.38.210.121 port 62058 ssh2
+Apr 21 00:04:57 web-01 sshd[21601]: Failed publickey for deploy from 116.116.51.39 port 17100 ssh2
+Apr 21 00:05:00 bastion-02 sshd[42551]: Connection closed by authenticating user deploy 60.117.89.188 port 26838 [preauth]
+Apr 21 00:01:41 infra-ops-01 sshd[33590]: Received disconnect from 102.172.188.55 port 45374:11: disconnected by user
+Apr 21 00:05:06 jump-01 sshd[5270]: Invalid user postgres from 80.144.140.121 port 21198
+Apr 21 00:03:26 infra-ops-01 sshd[45179]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:05:12 db-01 sshd[47102]: Accepted publickey for ec2-user from 138.240.250.157 port 4265 ssh2
+Apr 21 00:01:45 jump-01 sshd[68121]: Accepted password for jenkins from 100.184.77.177 port 59876 ssh2
+Apr 21 00:05:18 infra-ops-01 sshd[58534]: Failed password for invalid user guest from 143.166.61.137 port 11690 ssh2
+Apr 21 00:05:21 bastion-02 sshd[79358]: Failed publickey for backup from 49.75.93.138 port 1321 ssh2
+Apr 21 00:01:48 web-01 sshd[56731]: Connection closed by authenticating user backup 192.16.129.19 port 51222 [preauth]
+Apr 21 00:05:27 web-01 sshd[43526]: Received disconnect from 171.227.46.251 port 33925:11: disconnected by user
+Apr 21 00:01:50 db-01 sshd[60957]: Invalid user postgres from 73.202.171.163 port 27124
+Apr 21 00:05:33 jump-01 sshd[6707]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:07:28 bastion-02 sshd[95563]: Accepted publickey for ubuntu from 135.98.51.237 port 41990 ssh2
+Apr 21 00:05:39 infra-ops-01 sshd[69389]: Accepted password for ubuntu from 30.97.140.236 port 56183 ssh2
+Apr 21 00:07:36 web-01 sshd[33811]: Failed password for invalid user postgres from 152.93.10.98 port 18068 ssh2
+Apr 21 00:01:55 jump-01 sshd[67919]: Failed publickey for root from 133.220.83.178 port 5261 ssh2
+Apr 21 00:07:44 db-01 sshd[31765]: Connection closed by authenticating user ec2-user 73.195.221.164 port 39391 [preauth]
+Apr 21 00:07:48 infra-ops-01 sshd[2153]: Received disconnect from 146.38.61.35 port 15571:11: disconnected by user
+Apr 21 00:07:52 jump-01 sshd[64749]: Invalid user postgres from 55.154.246.122 port 50694
+Apr 21 00:03:58 bastion-02 sshd[39855]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:02:00 db-01 sshd[45452]: Accepted publickey for jenkins from 187.124.63.250 port 40746 ssh2
+Apr 21 00:02:01 db-01 sshd[86551]: Accepted password for ec2-user from 47.79.222.139 port 36553 ssh2
+Apr 21 00:04:04 jump-01 sshd[94974]: Failed password for invalid user test from 35.210.178.26 port 55363 ssh2
+Apr 21 00:06:09 infra-ops-01 sshd[88427]: Failed publickey for backup from 17.228.91.178 port 20991 ssh2
+Apr 21 00:08:16 bastion-02 sshd[83120]: Connection closed by authenticating user ubuntu 34.45.79.233 port 53552 [preauth]
+Apr 21 00:02:05 bastion-02 sshd[79850]: Received disconnect from 45.28.233.236 port 13897:11: disconnected by user
+Apr 21 00:06:18 db-01 sshd[94318]: Invalid user oracle from 111.88.194.133 port 32918
+Apr 21 00:08:28 web-01 sshd[70117]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:02:08 jump-01 sshd[77923]: Accepted publickey for ec2-user from 175.139.226.166 port 21556 ssh2
+Apr 21 00:06:27 jump-01 sshd[35274]: Accepted password for deploy from 115.197.89.99 port 62407 ssh2
+Apr 21 00:04:20 db-01 sshd[24840]: Failed password for invalid user test from 116.248.14.54 port 57867 ssh2
+Apr 21 00:02:11 infra-ops-01 sshd[91517]: Failed publickey for backup from 183.159.99.121 port 5295 ssh2
+Apr 21 00:02:12 infra-ops-01 sshd[99055]: Connection closed by authenticating user backup 164.226.9.53 port 7198 [preauth]
+Apr 21 00:04:26 bastion-02 sshd[30442]: Received disconnect from 50.20.175.47 port 53378:11: disconnected by user
+Apr 21 00:06:42 infra-ops-01 sshd[73994]: Invalid user postgres from 133.213.107.220 port 28106
+Apr 21 00:04:30 bastion-02 sshd[34409]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:09:04 bastion-02 sshd[84348]: Accepted publickey for root from 132.250.79.196 port 55834 ssh2
+Apr 21 00:04:34 db-01 sshd[42567]: Accepted password for backup from 55.85.68.186 port 7298 ssh2
+Apr 21 00:02:18 web-01 sshd[75678]: Failed password for invalid user oracle from 62.151.46.85 port 23862 ssh2
+Apr 21 00:09:16 jump-01 sshd[1688]: Failed publickey for backup from 73.120.228.102 port 34566 ssh2
+Apr 21 00:09:20 db-01 sshd[45488]: Connection closed by authenticating user ubuntu 27.18.49.145 port 33529 [preauth]
+Apr 21 00:09:24 bastion-02 sshd[14751]: Received disconnect from 220.81.61.233 port 35348:11: disconnected by user
+Apr 21 00:07:06 db-01 sshd[20180]: Invalid user postgres from 87.18.17.81 port 12639
+Apr 21 00:02:23 infra-ops-01 sshd[57303]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:04:48 bastion-02 sshd[45659]: Accepted publickey for backup from 111.57.110.216 port 56107 ssh2
+Apr 21 00:02:25 db-01 sshd[92175]: Accepted password for ec2-user from 66.228.231.231 port 61772 ssh2
+Apr 21 00:09:44 db-01 sshd[18961]: Failed password for invalid user nagios from 175.164.190.3 port 65298 ssh2
+Apr 21 00:07:21 jump-01 sshd[74745]: Failed publickey for ubuntu from 140.209.102.235 port 38943 ssh2
+Apr 21 00:04:56 jump-01 sshd[39107]: Connection closed by authenticating user admin 74.255.83.144 port 19778 [preauth]
+Apr 21 00:07:27 web-01 sshd[14703]: Received disconnect from 78.101.198.180 port 8433:11: disconnected by user
+Apr 21 00:10:00 jump-01 sshd[4568]: Invalid user ftp from 95.105.179.2 port 10114
+Apr 21 00:10:04 jump-01 sshd[12751]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:10:08 db-01 sshd[40777]: Accepted publickey for ubuntu from 119.134.229.130 port 12790 ssh2
+Apr 21 00:07:39 db-01 sshd[47310]: Accepted password for backup from 12.210.82.39 port 14962 ssh2
+Apr 21 00:02:34 jump-01 sshd[68114]: Failed password for invalid user ftp from 105.178.138.105 port 16303 ssh2
+Apr 21 00:07:45 jump-01 sshd[90147]: Failed publickey for backup from 51.252.78.62 port 62413 ssh2
+Apr 21 00:10:24 web-01 sshd[61313]: Connection closed by authenticating user root 40.74.98.173 port 43874 [preauth]
+Apr 21 00:07:51 web-01 sshd[35581]: Received disconnect from 119.239.12.160 port 53843:11: disconnected by user
+Apr 21 00:05:16 db-01 sshd[97301]: Invalid user oracle from 104.202.248.111 port 44529
+Apr 21 00:07:57 bastion-02 sshd[69032]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:08:00 web-01 sshd[83826]: Accepted publickey for backup from 15.135.205.3 port 48374 ssh2
+Apr 21 00:08:03 infra-ops-01 sshd[73642]: Accepted password for ubuntu from 47.118.223.216 port 52768 ssh2
+Apr 21 00:10:48 infra-ops-01 sshd[71839]: Failed password for invalid user guest from 103.5.185.190 port 51111 ssh2
+Apr 21 00:10:52 web-01 sshd[68699]: Failed publickey for root from 16.23.113.97 port 21078 ssh2
+Apr 21 00:02:44 jump-01 sshd[42059]: Connection closed by authenticating user root 106.29.141.135 port 15248 [preauth]
+Apr 21 00:11:00 infra-ops-01 sshd[1431]: Received disconnect from 220.220.196.226 port 34052:11: disconnected by user
+Apr 21 00:11:04 web-01 sshd[12333]: Invalid user ftp from 105.45.193.47 port 62063
+Apr 21 00:02:47 infra-ops-01 sshd[3483]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:08:24 web-01 sshd[54715]: Accepted publickey for backup from 56.79.243.36 port 40996 ssh2
+Apr 21 00:05:38 db-01 sshd[25473]: Accepted password for admin from 129.186.127.93 port 30434 ssh2
+Apr 21 00:11:20 jump-01 sshd[31853]: Failed password for invalid user postgres from 105.249.197.251 port 41862 ssh2
+Apr 21 00:05:42 db-01 sshd[29025]: Failed publickey for jenkins from 127.126.89.92 port 27018 ssh2
+Apr 21 00:11:28 jump-01 sshd[90964]: Connection closed by authenticating user jenkins 54.189.247.252 port 50020 [preauth]
+Apr 21 00:02:53 bastion-02 sshd[40821]: Received disconnect from 220.169.117.168 port 45970:11: disconnected by user
+Apr 21 00:11:36 db-01 sshd[28676]: Invalid user nagios from 139.134.92.210 port 7889
+Apr 21 00:05:50 bastion-02 sshd[98815]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:05:52 jump-01 sshd[99452]: Accepted publickey for jenkins from 132.93.193.119 port 22255 ssh2
+Apr 21 00:08:51 bastion-02 sshd[26523]: Accepted password for root from 74.64.178.241 port 3573 ssh2
+Apr 21 00:02:58 bastion-02 sshd[34768]: Failed password for invalid user guest from 49.29.64.190 port 28475 ssh2
+Apr 21 00:11:56 web-01 sshd[63610]: Failed publickey for jenkins from 82.194.189.53 port 30789 ssh2
+Apr 21 00:09:00 infra-ops-01 sshd[6791]: Connection closed by authenticating user ubuntu 136.53.89.253 port 2102 [preauth]
+Apr 21 00:06:02 web-01 sshd[67295]: Received disconnect from 191.196.76.43 port 38339:11: disconnected by user
+Apr 21 00:06:04 db-01 sshd[48603]: Invalid user guest from 150.191.74.58 port 56905
+Apr 21 00:09:09 bastion-02 sshd[76414]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:09:12 infra-ops-01 sshd[73084]: Accepted publickey for admin from 104.209.227.157 port 33884 ssh2
+Apr 21 00:03:05 web-01 sshd[17121]: Accepted password for deploy from 30.91.202.234 port 45818 ssh2
+Apr 21 00:06:12 bastion-02 sshd[25606]: Failed password for invalid user nagios from 91.153.149.17 port 2714 ssh2
+Apr 21 00:06:14 web-01 sshd[31606]: Failed publickey for admin from 124.194.247.217 port 31565 ssh2
+Apr 21 00:03:08 jump-01 sshd[33463]: Connection closed by authenticating user root 124.201.28.205 port 23139 [preauth]
+Apr 21 00:09:27 infra-ops-01 sshd[89698]: Received disconnect from 84.47.6.253 port 11315:11: disconnected by user
+Apr 21 00:06:20 bastion-02 sshd[19164]: Invalid user test from 201.168.208.142 port 13619
+Apr 21 00:12:44 web-01 sshd[88184]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:03:12 web-01 sshd[10585]: Accepted publickey for admin from 147.208.88.214 port 25435 ssh2
+Apr 21 00:09:39 db-01 sshd[97681]: Accepted password for ec2-user from 45.157.62.224 port 1756 ssh2
+Apr 21 00:09:42 jump-01 sshd[36493]: Failed password for invalid user ftp from 201.168.167.13 port 17853 ssh2
+Apr 21 00:13:00 jump-01 sshd[87402]: Failed publickey for deploy from 182.142.208.222 port 11806 ssh2
+Apr 21 00:06:32 db-01 sshd[26956]: Connection closed by authenticating user admin 141.149.248.213 port 33073 [preauth]
+Apr 21 00:06:34 jump-01 sshd[71159]: Received disconnect from 167.142.79.184 port 26786:11: disconnected by user
+Apr 21 00:09:54 infra-ops-01 sshd[39627]: Invalid user ftp from 171.227.1.192 port 4499
+Apr 21 00:13:16 web-01 sshd[81697]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:03:20 bastion-02 sshd[32041]: Accepted publickey for ubuntu from 78.95.212.129 port 32069 ssh2
+Apr 21 00:10:03 web-01 sshd[10236]: Accepted password for ec2-user from 52.64.51.240 port 15560 ssh2
+Apr 21 00:03:22 db-01 sshd[3380]: Failed password for invalid user postgres from 152.136.161.226 port 55817 ssh2
+Apr 21 00:06:46 infra-ops-01 sshd[97384]: Failed publickey for admin from 209.67.174.227 port 65422 ssh2
+Apr 21 00:10:12 web-01 sshd[69623]: Connection closed by authenticating user root 104.213.27.86 port 7397 [preauth]
+Apr 21 00:10:15 db-01 sshd[82913]: Received disconnect from 128.147.119.127 port 62446:11: disconnected by user
+Apr 21 00:10:18 web-01 sshd[41851]: Invalid user test from 132.134.222.114 port 22963
+Apr 21 00:13:48 db-01 sshd[24639]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:06:56 db-01 sshd[21075]: Accepted publickey for admin from 160.157.50.15 port 33888 ssh2
+Apr 21 00:06:58 jump-01 sshd[92262]: Accepted password for deploy from 68.157.23.106 port 6308 ssh2
+Apr 21 00:07:00 web-01 sshd[2311]: Failed password for invalid user guest from 69.67.210.148 port 39117 ssh2
+Apr 21 00:07:02 bastion-02 sshd[7380]: Failed publickey for deploy from 107.193.215.11 port 27930 ssh2
+Apr 21 00:10:36 web-01 sshd[33596]: Connection closed by authenticating user ec2-user 208.2.76.16 port 22372 [preauth]
+Apr 21 00:03:33 jump-01 sshd[44205]: Received disconnect from 91.251.248.64 port 3315:11: disconnected by user
+Apr 21 00:03:34 jump-01 sshd[69451]: Invalid user test from 73.26.153.51 port 56826
+Apr 21 00:14:20 jump-01 sshd[16867]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:14:24 infra-ops-01 sshd[13632]: Accepted publickey for backup from 171.74.3.84 port 52495 ssh2
+Apr 21 00:14:28 db-01 sshd[9940]: Accepted password for ec2-user from 159.243.2.144 port 24715 ssh2
+Apr 21 00:03:38 jump-01 sshd[87057]: Failed password for invalid user oracle from 73.200.253.45 port 63971 ssh2
+Apr 21 00:14:36 bastion-02 sshd[72683]: Failed publickey for root from 215.55.68.92 port 30465 ssh2
+Apr 21 00:07:20 web-01 sshd[15404]: Connection closed by authenticating user ubuntu 194.216.215.224 port 4180 [preauth]
+Apr 21 00:11:03 infra-ops-01 sshd[91708]: Received disconnect from 15.81.168.59 port 2611:11: disconnected by user
+Apr 21 00:11:06 bastion-02 sshd[18153]: Invalid user oracle from 137.228.152.202 port 64658
+Apr 21 00:07:26 db-01 sshd[11986]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:14:56 infra-ops-01 sshd[71604]: Accepted publickey for root from 201.241.124.233 port 13116 ssh2
+Apr 21 00:15:00 web-01 sshd[64474]: Accepted password for root from 66.129.196.6 port 55847 ssh2
+Apr 21 00:11:18 web-01 sshd[73008]: Failed password for invalid user guest from 25.109.246.203 port 1730 ssh2
+Apr 21 00:03:47 db-01 sshd[87668]: Failed publickey for ec2-user from 40.36.209.181 port 34225 ssh2
+Apr 21 00:15:12 bastion-02 sshd[1210]: Connection closed by authenticating user root 24.240.181.23 port 24570 [preauth]
+Apr 21 00:15:16 infra-ops-01 sshd[98792]: Received disconnect from 57.40.168.39 port 2646:11: disconnected by user
+Apr 21 00:15:20 bastion-02 sshd[22708]: Invalid user postgres from 90.208.60.189 port 18372
+Apr 21 00:03:51 db-01 sshd[47587]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:07:44 jump-01 sshd[42756]: Accepted publickey for ubuntu from 150.231.153.154 port 11753 ssh2
+Apr 21 00:11:39 infra-ops-01 sshd[88409]: Accepted password for ubuntu from 150.217.227.144 port 53453 ssh2
+Apr 21 00:07:48 bastion-02 sshd[62880]: Failed password for invalid user test from 194.85.118.24 port 59206 ssh2
+Apr 21 00:03:55 web-01 sshd[78325]: Failed publickey for admin from 84.215.223.84 port 6789 ssh2
+Apr 21 00:07:52 jump-01 sshd[23449]: Connection closed by authenticating user admin 175.161.241.131 port 22688 [preauth]
+Apr 21 00:03:57 bastion-02 sshd[9488]: Received disconnect from 136.38.46.228 port 26819:11: disconnected by user
+Apr 21 00:03:58 infra-ops-01 sshd[34359]: Invalid user test from 180.54.99.68 port 22966
+Apr 21 00:07:58 web-01 sshd[72729]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:12:00 db-01 sshd[69077]: Accepted publickey for deploy from 61.178.250.212 port 64679 ssh2
+Apr 21 00:04:01 bastion-02 sshd[46253]: Accepted password for ec2-user from 25.236.198.216 port 53077 ssh2
+Apr 21 00:12:06 bastion-02 sshd[61631]: Failed password for invalid user test from 111.117.86.107 port 22679 ssh2
+Apr 21 00:08:06 db-01 sshd[29436]: Failed publickey for jenkins from 215.37.209.123 port 29525 ssh2
+Apr 21 00:16:16 db-01 sshd[71310]: Connection closed by authenticating user admin 66.217.180.204 port 49595 [preauth]
+Apr 21 00:12:15 jump-01 sshd[84478]: Received disconnect from 163.15.181.119 port 41374:11: disconnected by user
+Apr 21 00:16:24 bastion-02 sshd[12215]: Invalid user nagios from 173.115.112.222 port 31020
+Apr 21 00:16:28 web-01 sshd[99772]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:16:32 jump-01 sshd[72133]: Accepted publickey for admin from 53.169.119.226 port 63314 ssh2
+Apr 21 00:08:18 bastion-02 sshd[48719]: Accepted password for backup from 113.172.155.195 port 47058 ssh2
+Apr 21 00:08:20 bastion-02 sshd[61654]: Failed password for invalid user oracle from 152.27.11.239 port 6617 ssh2
+Apr 21 00:08:22 bastion-02 sshd[93283]: Failed publickey for ubuntu from 173.14.235.126 port 55282 ssh2
+Apr 21 00:16:48 jump-01 sshd[31348]: Connection closed by authenticating user admin 174.157.106.150 port 55245 [preauth]
+Apr 21 00:16:52 jump-01 sshd[48495]: Received disconnect from 192.185.104.137 port 13343:11: disconnected by user
+Apr 21 00:04:14 web-01 sshd[34996]: Invalid user ftp from 41.12.24.226 port 9770
+Apr 21 00:12:45 bastion-02 sshd[85436]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:04:16 jump-01 sshd[77463]: Accepted publickey for admin from 159.95.128.202 port 14497 ssh2
+Apr 21 00:08:34 db-01 sshd[96621]: Accepted password for ec2-user from 221.58.241.223 port 30621 ssh2
+Apr 21 00:08:36 bastion-02 sshd[4181]: Failed password for invalid user test from 170.160.40.117 port 39590 ssh2
+Apr 21 00:17:16 db-01 sshd[54386]: Failed publickey for ec2-user from 13.198.138.96 port 6182 ssh2
+Apr 21 00:17:20 web-01 sshd[49838]: Connection closed by authenticating user root 22.149.44.1 port 48096 [preauth]
+Apr 21 00:08:42 db-01 sshd[76696]: Received disconnect from 214.29.60.107 port 20077:11: disconnected by user
+Apr 21 00:04:22 bastion-02 sshd[6749]: Invalid user nagios from 113.232.41.207 port 27451
+Apr 21 00:08:46 bastion-02 sshd[36891]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:04:24 db-01 sshd[40882]: Accepted publickey for ec2-user from 173.64.241.111 port 3546 ssh2
+Apr 21 00:17:40 infra-ops-01 sshd[45043]: Accepted password for backup from 183.41.249.69 port 47111 ssh2
+Apr 21 00:08:52 web-01 sshd[53363]: Failed password for invalid user postgres from 116.42.222.9 port 6444 ssh2
+Apr 21 00:13:21 infra-ops-01 sshd[99102]: Failed publickey for root from 135.184.200.215 port 7138 ssh2
+Apr 21 00:13:24 db-01 sshd[65579]: Connection closed by authenticating user backup 199.112.71.105 port 61347 [preauth]
+Apr 21 00:04:29 jump-01 sshd[45115]: Received disconnect from 30.185.103.85 port 12305:11: disconnected by user
+Apr 21 00:04:30 db-01 sshd[67437]: Invalid user ftp from 98.171.17.122 port 64453
+Apr 21 00:13:33 db-01 sshd[80050]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:18:08 db-01 sshd[43896]: Accepted publickey for backup from 21.80.135.190 port 30836 ssh2
+Apr 21 00:09:06 jump-01 sshd[6111]: Accepted password for jenkins from 58.148.90.20 port 41492 ssh2
+Apr 21 00:04:34 bastion-02 sshd[45145]: Failed password for invalid user oracle from 179.201.6.71 port 46511 ssh2
+Apr 21 00:13:45 infra-ops-01 sshd[36581]: Failed publickey for deploy from 56.192.96.136 port 65522 ssh2
+Apr 21 00:13:48 infra-ops-01 sshd[44119]: Connection closed by authenticating user backup 115.173.218.12 port 53681 [preauth]
+Apr 21 00:13:51 db-01 sshd[68736]: Received disconnect from 73.216.47.159 port 50330:11: disconnected by user
+Apr 21 00:04:38 jump-01 sshd[14014]: Invalid user test from 81.28.70.130 port 40131
+Apr 21 00:13:57 bastion-02 sshd[61755]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:14:00 infra-ops-01 sshd[56502]: Accepted publickey for jenkins from 82.70.198.18 port 27238 ssh2
+Apr 21 00:18:44 db-01 sshd[62915]: Accepted password for ubuntu from 75.94.67.206 port 55023 ssh2
+Apr 21 00:18:48 db-01 sshd[61286]: Failed password for invalid user ftp from 218.209.24.46 port 29480 ssh2
+Apr 21 00:09:26 bastion-02 sshd[6803]: Failed publickey for root from 89.73.156.103 port 32962 ssh2
+Apr 21 00:09:28 infra-ops-01 sshd[88605]: Connection closed by authenticating user root 21.37.167.135 port 26745 [preauth]
+Apr 21 00:09:30 db-01 sshd[63299]: Received disconnect from 45.63.1.83 port 59960:11: disconnected by user
+Apr 21 00:19:04 web-01 sshd[1301]: Invalid user postgres from 163.164.133.111 port 32946
+Apr 21 00:19:08 jump-01 sshd[40255]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:04:48 web-01 sshd[74533]: Accepted publickey for ec2-user from 86.253.180.141 port 50221 ssh2
+Apr 21 00:14:27 db-01 sshd[14443]: Accepted password for ec2-user from 151.21.110.74 port 37037 ssh2
+Apr 21 00:09:40 web-01 sshd[31233]: Failed password for invalid user postgres from 69.225.13.122 port 56901 ssh2
+Apr 21 00:14:33 bastion-02 sshd[20960]: Failed publickey for jenkins from 51.133.148.154 port 50653 ssh2
+Apr 21 00:14:36 db-01 sshd[89855]: Connection closed by authenticating user deploy 47.161.150.113 port 49820 [preauth]
+Apr 21 00:04:53 jump-01 sshd[57832]: Received disconnect from 104.76.54.173 port 27813:11: disconnected by user
+Apr 21 00:04:54 jump-01 sshd[90756]: Invalid user postgres from 108.192.218.110 port 27917
+Apr 21 00:19:40 db-01 sshd[71025]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:14:48 jump-01 sshd[85078]: Accepted publickey for admin from 216.33.254.4 port 13329 ssh2
+Apr 21 00:14:51 web-01 sshd[95887]: Accepted password for root from 201.10.100.84 port 56140 ssh2
+Apr 21 00:14:54 jump-01 sshd[86177]: Failed password for invalid user guest from 153.129.21.248 port 52706 ssh2
+Apr 21 00:14:57 bastion-02 sshd[78534]: Failed publickey for ec2-user from 12.45.12.165 port 2640 ssh2
+Apr 21 00:05:00 infra-ops-01 sshd[66042]: Connection closed by authenticating user jenkins 107.227.13.220 port 21560 [preauth]
+Apr 21 00:15:03 infra-ops-01 sshd[56566]: Received disconnect from 28.50.26.195 port 64674:11: disconnected by user
+Apr 21 00:15:06 db-01 sshd[20937]: Invalid user postgres from 99.39.89.29 port 51597
+Apr 21 00:05:03 jump-01 sshd[67057]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:05:04 bastion-02 sshd[67166]: Accepted publickey for deploy from 130.249.135.139 port 2209 ssh2
+Apr 21 00:15:15 db-01 sshd[75686]: Accepted password for admin from 129.100.130.182 port 28746 ssh2
+Apr 21 00:10:12 web-01 sshd[3627]: Failed password for invalid user ftp from 221.221.182.186 port 64320 ssh2
+Apr 21 00:20:28 db-01 sshd[61166]: Failed publickey for admin from 211.150.1.231 port 12419 ssh2
+Apr 21 00:05:08 infra-ops-01 sshd[14923]: Connection closed by authenticating user deploy 199.215.35.100 port 12374 [preauth]
+Apr 21 00:10:18 bastion-02 sshd[95225]: Received disconnect from 118.248.107.36 port 29218:11: disconnected by user
+Apr 21 00:10:20 web-01 sshd[98474]: Invalid user nagios from 189.156.49.163 port 20130
+Apr 21 00:20:44 infra-ops-01 sshd[54446]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:15:36 web-01 sshd[24789]: Accepted publickey for jenkins from 28.189.111.161 port 47957 ssh2
+Apr 21 00:05:13 jump-01 sshd[68135]: Accepted password for ubuntu from 86.221.84.25 port 57767 ssh2
+Apr 21 00:10:28 web-01 sshd[81192]: Failed password for invalid user postgres from 29.40.208.130 port 22991 ssh2
+Apr 21 00:21:00 db-01 sshd[45853]: Failed publickey for ubuntu from 174.159.209.51 port 59253 ssh2
+Apr 21 00:10:32 bastion-02 sshd[22022]: Connection closed by authenticating user ec2-user 194.247.175.2 port 6544 [preauth]
+Apr 21 00:05:17 infra-ops-01 sshd[34457]: Received disconnect from 107.116.221.120 port 32822:11: disconnected by user
+Apr 21 00:21:12 bastion-02 sshd[3311]: Invalid user postgres from 75.140.193.111 port 49090
+Apr 21 00:21:16 infra-ops-01 sshd[75893]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:21:20 db-01 sshd[52872]: Accepted publickey for jenkins from 67.76.143.150 port 24305 ssh2
+Apr 21 00:10:42 infra-ops-01 sshd[96230]: Accepted password for jenkins from 63.9.217.99 port 16916 ssh2
+Apr 21 00:05:22 jump-01 sshd[95160]: Failed password for invalid user postgres from 62.2.41.218 port 56452 ssh2
+Apr 21 00:21:32 bastion-02 sshd[21881]: Failed publickey for ubuntu from 21.52.91.133 port 16801 ssh2
+Apr 21 00:05:24 db-01 sshd[44495]: Connection closed by authenticating user root 109.233.27.157 port 4425 [preauth]
+Apr 21 00:21:40 bastion-02 sshd[32866]: Received disconnect from 78.158.123.221 port 56745:11: disconnected by user
+Apr 21 00:10:52 infra-ops-01 sshd[97338]: Invalid user oracle from 87.241.227.63 port 16862
+Apr 21 00:10:54 infra-ops-01 sshd[34962]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:16:24 bastion-02 sshd[27623]: Accepted publickey for jenkins from 18.160.254.86 port 59879 ssh2
+Apr 21 00:05:29 jump-01 sshd[84663]: Accepted password for root from 200.160.183.82 port 62839 ssh2
+Apr 21 00:16:30 db-01 sshd[47122]: Failed password for invalid user nagios from 91.62.176.172 port 50099 ssh2
+Apr 21 00:11:02 jump-01 sshd[93478]: Failed publickey for backup from 137.117.100.62 port 57672 ssh2
+Apr 21 00:11:04 jump-01 sshd[98160]: Connection closed by authenticating user jenkins 103.245.94.157 port 46144 [preauth]
+Apr 21 00:11:06 db-01 sshd[55515]: Received disconnect from 126.72.89.45 port 41992:11: disconnected by user
+Apr 21 00:22:16 web-01 sshd[80871]: Invalid user guest from 84.97.7.144 port 46618
+Apr 21 00:11:10 jump-01 sshd[82476]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:16:48 infra-ops-01 sshd[71542]: Accepted publickey for backup from 112.202.107.31 port 9045 ssh2
+Apr 21 00:16:51 web-01 sshd[12378]: Accepted password for admin from 97.28.148.224 port 5223 ssh2
+Apr 21 00:22:32 bastion-02 sshd[78422]: Failed password for invalid user postgres from 71.210.104.150 port 4745 ssh2
+Apr 21 00:11:18 db-01 sshd[13371]: Failed publickey for root from 48.43.22.64 port 50966 ssh2
+Apr 21 00:22:40 db-01 sshd[29004]: Connection closed by authenticating user ec2-user 126.166.95.95 port 35412 [preauth]
+Apr 21 00:17:03 web-01 sshd[99053]: Received disconnect from 148.4.132.126 port 7126:11: disconnected by user
+Apr 21 00:05:42 web-01 sshd[67387]: Invalid user ftp from 178.118.195.136 port 36115
+Apr 21 00:11:26 jump-01 sshd[50044]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:22:56 infra-ops-01 sshd[84863]: Accepted publickey for backup from 217.91.143.159 port 61509 ssh2
+Apr 21 00:23:00 infra-ops-01 sshd[86266]: Accepted password for jenkins from 41.25.213.209 port 63899 ssh2
+Apr 21 00:05:46 bastion-02 sshd[50779]: Failed password for invalid user test from 183.96.140.31 port 52843 ssh2
+Apr 21 00:17:21 bastion-02 sshd[56738]: Failed publickey for ec2-user from 70.21.53.116 port 55543 ssh2
+Apr 21 00:17:24 infra-ops-01 sshd[33651]: Connection closed by authenticating user jenkins 91.48.246.22 port 16988 [preauth]
+Apr 21 00:11:38 infra-ops-01 sshd[10862]: Received disconnect from 64.106.204.81 port 4945:11: disconnected by user
+Apr 21 00:11:40 infra-ops-01 sshd[70295]: Invalid user guest from 137.145.56.115 port 36043
+Apr 21 00:17:33 bastion-02 sshd[13820]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:11:44 jump-01 sshd[75561]: Accepted publickey for ubuntu from 133.204.68.89 port 13336 ssh2
+Apr 21 00:23:32 db-01 sshd[11929]: Accepted password for admin from 146.36.162.176 port 18787 ssh2
+Apr 21 00:05:54 web-01 sshd[41838]: Failed password for invalid user postgres from 26.125.226.17 port 56355 ssh2
+Apr 21 00:11:50 jump-01 sshd[99480]: Failed publickey for deploy from 35.55.249.44 port 56524 ssh2
+Apr 21 00:05:56 web-01 sshd[55238]: Connection closed by authenticating user backup 143.88.60.158 port 12342 [preauth]
+Apr 21 00:11:54 infra-ops-01 sshd[30294]: Received disconnect from 33.91.93.63 port 4925:11: disconnected by user
+Apr 21 00:11:56 infra-ops-01 sshd[46645]: Invalid user ftp from 146.237.255.128 port 25814
+Apr 21 00:11:58 bastion-02 sshd[98051]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:24:00 infra-ops-01 sshd[37373]: Accepted publickey for ubuntu from 175.81.245.32 port 1343 ssh2
+Apr 21 00:06:01 bastion-02 sshd[36651]: Accepted password for root from 105.124.227.252 port 53745 ssh2
+Apr 21 00:06:02 bastion-02 sshd[50330]: Failed password for invalid user ftp from 131.78.105.210 port 62182 ssh2
+Apr 21 00:24:12 jump-01 sshd[31481]: Failed publickey for admin from 182.105.56.165 port 32764 ssh2
+Apr 21 00:12:08 db-01 sshd[49718]: Connection closed by authenticating user jenkins 39.219.40.114 port 14226 [preauth]
+Apr 21 00:12:10 jump-01 sshd[64882]: Received disconnect from 134.80.62.217 port 28874:11: disconnected by user
+Apr 21 00:24:24 bastion-02 sshd[74557]: Invalid user postgres from 182.4.16.197 port 29892
+Apr 21 00:12:14 bastion-02 sshd[50142]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:12:16 jump-01 sshd[62330]: Accepted publickey for ec2-user from 66.193.250.254 port 8507 ssh2
+Apr 21 00:12:18 jump-01 sshd[6549]: Accepted password for ubuntu from 69.166.165.208 port 44040 ssh2
+Apr 21 00:24:40 jump-01 sshd[30123]: Failed password for invalid user nagios from 142.93.144.60 port 30946 ssh2
+Apr 21 00:18:33 bastion-02 sshd[55265]: Failed publickey for backup from 170.116.215.188 port 41868 ssh2
+Apr 21 00:24:48 db-01 sshd[23958]: Connection closed by authenticating user ec2-user 167.143.193.249 port 52176 [preauth]
+Apr 21 00:12:26 web-01 sshd[69526]: Received disconnect from 198.228.57.79 port 1842:11: disconnected by user
+Apr 21 00:18:42 bastion-02 sshd[57977]: Invalid user guest from 15.251.158.107 port 8364
+Apr 21 00:18:45 web-01 sshd[16212]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:25:04 web-01 sshd[60910]: Accepted publickey for ubuntu from 158.101.83.156 port 60823 ssh2
+Apr 21 00:06:17 infra-ops-01 sshd[29715]: Accepted password for deploy from 149.68.208.192 port 30326 ssh2
+Apr 21 00:12:36 bastion-02 sshd[4521]: Failed password for invalid user oracle from 56.45.94.96 port 9512 ssh2
+Apr 21 00:06:19 infra-ops-01 sshd[87533]: Failed publickey for admin from 91.149.106.129 port 39744 ssh2
+Apr 21 00:12:40 jump-01 sshd[64618]: Connection closed by authenticating user backup 104.227.155.26 port 62133 [preauth]
+Apr 21 00:19:03 db-01 sshd[99391]: Received disconnect from 74.147.36.70 port 33776:11: disconnected by user
+Apr 21 00:06:22 db-01 sshd[66756]: Invalid user oracle from 45.243.86.215 port 44463
+Apr 21 00:06:23 db-01 sshd[6806]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:25:36 db-01 sshd[54861]: Accepted publickey for ec2-user from 161.184.146.160 port 46358 ssh2
+Apr 21 00:06:25 bastion-02 sshd[33502]: Accepted password for jenkins from 156.92.211.67 port 49487 ssh2
+Apr 21 00:25:44 web-01 sshd[15324]: Failed password for invalid user test from 204.23.9.56 port 36410 ssh2
+Apr 21 00:12:54 bastion-02 sshd[41065]: Failed publickey for root from 63.52.144.111 port 8179 ssh2
+Apr 21 00:19:24 web-01 sshd[90417]: Connection closed by authenticating user admin 79.74.154.200 port 38381 [preauth]
+Apr 21 00:25:56 jump-01 sshd[12368]: Received disconnect from 71.25.55.122 port 29120:11: disconnected by user
+Apr 21 00:26:00 db-01 sshd[48809]: Invalid user oracle from 163.126.14.38 port 17535
+Apr 21 00:13:02 jump-01 sshd[15637]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:19:36 web-01 sshd[54951]: Accepted publickey for ubuntu from 34.178.223.83 port 44042 ssh2
+Apr 21 00:13:06 web-01 sshd[64678]: Accepted password for ec2-user from 164.23.187.147 port 63363 ssh2
+Apr 21 00:13:08 web-01 sshd[47232]: Failed password for invalid user nagios from 212.228.135.106 port 42533 ssh2
+Apr 21 00:26:20 jump-01 sshd[2230]: Failed publickey for root from 137.128.122.39 port 63292 ssh2
+Apr 21 00:26:24 bastion-02 sshd[39901]: Connection closed by authenticating user jenkins 27.219.192.44 port 43730 [preauth]
+Apr 21 00:26:28 bastion-02 sshd[65615]: Received disconnect from 77.22.9.226 port 18964:11: disconnected by user
+Apr 21 00:06:38 infra-ops-01 sshd[6079]: Invalid user guest from 223.184.26.165 port 9546
+Apr 21 00:06:39 bastion-02 sshd[91853]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:26:40 infra-ops-01 sshd[13913]: Accepted publickey for admin from 174.77.161.166 port 21278 ssh2
+Apr 21 00:20:03 bastion-02 sshd[36665]: Accepted password for ec2-user from 164.22.144.73 port 41112 ssh2
+Apr 21 00:13:24 db-01 sshd[47653]: Failed password for invalid user guest from 179.63.8.103 port 43656 ssh2
+Apr 21 00:20:09 jump-01 sshd[9425]: Failed publickey for backup from 204.203.166.62 port 30734 ssh2
+Apr 21 00:20:12 web-01 sshd[20059]: Connection closed by authenticating user deploy 90.34.52.15 port 38254 [preauth]
+Apr 21 00:27:00 bastion-02 sshd[60756]: Received disconnect from 127.255.80.236 port 62763:11: disconnected by user
+Apr 21 00:20:18 db-01 sshd[51539]: Invalid user guest from 186.231.207.86 port 17938
+Apr 21 00:13:34 jump-01 sshd[33615]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:06:48 infra-ops-01 sshd[41648]: Accepted publickey for deploy from 98.129.7.231 port 13777 ssh2
+Apr 21 00:13:38 infra-ops-01 sshd[20983]: Accepted password for backup from 220.206.2.38 port 18458 ssh2
+Apr 21 00:06:50 bastion-02 sshd[39706]: Failed password for invalid user guest from 158.248.33.183 port 61355 ssh2
+Apr 21 00:06:51 infra-ops-01 sshd[93728]: Failed publickey for ubuntu from 193.243.251.133 port 10363 ssh2
+Apr 21 00:27:28 web-01 sshd[88704]: Connection closed by authenticating user ubuntu 203.253.180.120 port 1381 [preauth]
+Apr 21 00:06:53 bastion-02 sshd[37337]: Received disconnect from 161.84.0.202 port 48777:11: disconnected by user
+Apr 21 00:20:42 db-01 sshd[62281]: Invalid user nagios from 136.198.154.152 port 22773
+Apr 21 00:13:50 jump-01 sshd[47288]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:06:56 web-01 sshd[89689]: Accepted publickey for deploy from 187.238.200.36 port 12494 ssh2
+Apr 21 00:20:51 bastion-02 sshd[44777]: Accepted password for backup from 74.58.252.55 port 33114 ssh2
+Apr 21 00:06:58 web-01 sshd[66799]: Failed password for invalid user guest from 15.24.60.133 port 14771 ssh2
+Apr 21 00:06:59 jump-01 sshd[64390]: Failed publickey for jenkins from 216.191.207.136 port 16047 ssh2
+Apr 21 00:14:00 jump-01 sshd[34502]: Connection closed by authenticating user ec2-user 131.241.127.137 port 2228 [preauth]
+Apr 21 00:28:04 web-01 sshd[64239]: Received disconnect from 64.66.97.102 port 41091:11: disconnected by user
+Apr 21 00:28:08 bastion-02 sshd[99008]: Invalid user test from 48.234.93.143 port 14304
+Apr 21 00:28:12 infra-ops-01 sshd[66163]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:28:16 bastion-02 sshd[21691]: Accepted publickey for jenkins from 196.180.226.81 port 42687 ssh2
+Apr 21 00:28:20 infra-ops-01 sshd[27505]: Accepted password for admin from 27.106.142.133 port 11716 ssh2
+Apr 21 00:14:12 infra-ops-01 sshd[32044]: Failed password for invalid user test from 32.125.155.227 port 26929 ssh2
+Apr 21 00:21:21 bastion-02 sshd[39323]: Failed publickey for ubuntu from 210.245.45.161 port 38505 ssh2
+Apr 21 00:28:32 bastion-02 sshd[41933]: Connection closed by authenticating user backup 180.33.154.46 port 37435 [preauth]
+Apr 21 00:14:18 infra-ops-01 sshd[20022]: Received disconnect from 39.168.123.224 port 12276:11: disconnected by user
+Apr 21 00:07:10 bastion-02 sshd[98288]: Invalid user ftp from 71.21.156.80 port 59050
+Apr 21 00:07:11 bastion-02 sshd[79701]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:21:36 db-01 sshd[27388]: Accepted publickey for root from 168.73.39.113 port 57334 ssh2
+Apr 21 00:28:52 jump-01 sshd[46636]: Accepted password for backup from 143.192.64.159 port 20744 ssh2
+Apr 21 00:21:42 web-01 sshd[86506]: Failed password for invalid user guest from 140.141.76.55 port 64156 ssh2
+Apr 21 00:21:45 bastion-02 sshd[2636]: Failed publickey for jenkins from 151.14.202.28 port 23159 ssh2
+Apr 21 00:14:32 db-01 sshd[88260]: Connection closed by authenticating user deploy 77.117.227.254 port 23483 [preauth]
+Apr 21 00:07:17 jump-01 sshd[33109]: Received disconnect from 190.190.174.253 port 30944:11: disconnected by user
+Apr 21 00:14:36 bastion-02 sshd[54022]: Invalid user guest from 68.205.206.87 port 40044
+Apr 21 00:21:57 db-01 sshd[51780]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:29:20 jump-01 sshd[42448]: Accepted publickey for root from 57.52.161.141 port 50011 ssh2
+Apr 21 00:29:24 db-01 sshd[94486]: Accepted password for jenkins from 169.153.151.108 port 59247 ssh2
+Apr 21 00:22:06 web-01 sshd[56046]: Failed password for invalid user nagios from 161.24.205.48 port 44758 ssh2
+Apr 21 00:14:46 jump-01 sshd[64295]: Failed publickey for admin from 194.155.245.125 port 16783 ssh2
+Apr 21 00:22:12 infra-ops-01 sshd[42913]: Connection closed by authenticating user root 200.132.29.117 port 58946 [preauth]
+Apr 21 00:22:15 infra-ops-01 sshd[96314]: Received disconnect from 31.251.80.11 port 21856:11: disconnected by user
+Apr 21 00:29:44 bastion-02 sshd[37171]: Invalid user postgres from 70.71.75.149 port 47139
+Apr 21 00:22:21 infra-ops-01 sshd[88051]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:29:52 infra-ops-01 sshd[60896]: Accepted publickey for admin from 156.158.187.161 port 31281 ssh2
+Apr 21 00:29:56 jump-01 sshd[61605]: Accepted password for deploy from 29.254.248.88 port 43018 ssh2
+Apr 21 00:07:30 infra-ops-01 sshd[49694]: Failed password for invalid user nagios from 183.53.109.10 port 27714 ssh2
+Apr 21 00:30:04 web-01 sshd[91764]: Failed publickey for root from 87.145.159.156 port 9329 ssh2
+Apr 21 00:30:08 jump-01 sshd[88715]: Connection closed by authenticating user ubuntu 169.168.34.8 port 48275 [preauth]
+Apr 21 00:22:39 db-01 sshd[46562]: Received disconnect from 109.208.190.207 port 62488:11: disconnected by user
+Apr 21 00:07:34 bastion-02 sshd[8217]: Invalid user ftp from 85.154.154.81 port 3192
+Apr 21 00:30:20 bastion-02 sshd[41016]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:15:12 web-01 sshd[84426]: Accepted publickey for jenkins from 197.223.81.27 port 33746 ssh2
+Apr 21 00:30:28 web-01 sshd[99701]: Accepted password for jenkins from 177.23.213.176 port 25239 ssh2
+Apr 21 00:15:16 infra-ops-01 sshd[19911]: Failed password for invalid user postgres from 166.58.97.209 port 64550 ssh2
+Apr 21 00:22:57 infra-ops-01 sshd[99452]: Failed publickey for deploy from 175.38.200.120 port 18043 ssh2
+Apr 21 00:30:40 jump-01 sshd[96005]: Connection closed by authenticating user ubuntu 166.243.124.146 port 58605 [preauth]
+Apr 21 00:15:22 jump-01 sshd[73903]: Received disconnect from 182.131.41.96 port 61631:11: disconnected by user
+Apr 21 00:15:24 web-01 sshd[33186]: Invalid user nagios from 180.208.248.216 port 25584
+Apr 21 00:15:26 web-01 sshd[4654]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:30:56 db-01 sshd[41547]: Accepted publickey for ec2-user from 18.224.179.181 port 23163 ssh2
+Apr 21 00:23:15 bastion-02 sshd[23325]: Accepted password for jenkins from 52.101.33.154 port 10412 ssh2
+Apr 21 00:07:46 jump-01 sshd[21944]: Failed password for invalid user nagios from 95.66.231.83 port 2424 ssh2
+Apr 21 00:23:21 infra-ops-01 sshd[76840]: Failed publickey for jenkins from 206.185.139.242 port 53309 ssh2
+Apr 21 00:07:48 bastion-02 sshd[80905]: Connection closed by authenticating user ubuntu 197.43.34.232 port 31953 [preauth]
+Apr 21 00:23:27 bastion-02 sshd[90699]: Received disconnect from 173.174.150.31 port 18786:11: disconnected by user
+Apr 21 00:23:30 db-01 sshd[77413]: Invalid user test from 166.12.103.117 port 51315
+Apr 21 00:23:33 infra-ops-01 sshd[23348]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:15:44 web-01 sshd[20788]: Accepted publickey for backup from 65.44.187.186 port 42522 ssh2
+Apr 21 00:15:46 db-01 sshd[32887]: Accepted password for ec2-user from 129.247.177.31 port 30422 ssh2
+Apr 21 00:31:36 db-01 sshd[43881]: Failed password for invalid user nagios from 205.190.124.110 port 11721 ssh2
+Apr 21 00:15:50 infra-ops-01 sshd[7175]: Failed publickey for deploy from 180.152.237.49 port 22540 ssh2
+Apr 21 00:15:52 infra-ops-01 sshd[61125]: Connection closed by authenticating user ubuntu 27.170.179.66 port 51719 [preauth]
+Apr 21 00:07:57 jump-01 sshd[29286]: Received disconnect from 100.69.131.237 port 31382:11: disconnected by user
+Apr 21 00:15:56 bastion-02 sshd[9601]: Invalid user ftp from 106.122.180.53 port 56237
+Apr 21 00:23:57 bastion-02 sshd[7368]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:32:00 web-01 sshd[49046]: Accepted publickey for jenkins from 193.35.123.31 port 60804 ssh2
+Apr 21 00:24:03 jump-01 sshd[49748]: Accepted password for ubuntu from 189.187.16.5 port 32197 ssh2
+Apr 21 00:08:02 infra-ops-01 sshd[32474]: Failed password for invalid user postgres from 174.237.79.20 port 42158 ssh2
+Apr 21 00:16:06 jump-01 sshd[53644]: Failed publickey for backup from 116.185.240.198 port 19657 ssh2
+Apr 21 00:32:16 db-01 sshd[17902]: Connection closed by authenticating user backup 94.8.241.2 port 9579 [preauth]
+Apr 21 00:16:10 db-01 sshd[57110]: Received disconnect from 194.198.38.243 port 8783:11: disconnected by user
+Apr 21 00:16:12 web-01 sshd[42217]: Invalid user ftp from 18.82.71.215 port 4660
+Apr 21 00:24:21 db-01 sshd[13277]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:32:32 web-01 sshd[72476]: Accepted publickey for admin from 51.90.27.108 port 39238 ssh2
+Apr 21 00:08:09 jump-01 sshd[61174]: Accepted password for ubuntu from 119.123.76.240 port 65138 ssh2
+Apr 21 00:08:10 bastion-02 sshd[31628]: Failed password for invalid user nagios from 171.145.27.108 port 15878 ssh2
+Apr 21 00:32:44 web-01 sshd[82377]: Failed publickey for ubuntu from 114.108.229.128 port 38319 ssh2
+Apr 21 00:32:48 jump-01 sshd[16418]: Connection closed by authenticating user jenkins 130.153.5.59 port 8315 [preauth]
+Apr 21 00:24:39 jump-01 sshd[33671]: Received disconnect from 190.156.79.115 port 64550:11: disconnected by user
+Apr 21 00:08:14 jump-01 sshd[63505]: Invalid user ftp from 24.217.65.100 port 31044
+Apr 21 00:08:15 infra-ops-01 sshd[46531]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:16:32 web-01 sshd[22642]: Accepted publickey for backup from 132.124.240.52 port 3337 ssh2
+Apr 21 00:16:34 infra-ops-01 sshd[94565]: Accepted password for backup from 146.171.142.107 port 13157 ssh2
+Apr 21 00:08:18 web-01 sshd[96581]: Failed password for invalid user oracle from 183.67.191.23 port 48374 ssh2
+Apr 21 00:08:19 bastion-02 sshd[2001]: Failed publickey for backup from 174.94.155.13 port 49934 ssh2
+Apr 21 00:33:20 bastion-02 sshd[55965]: Connection closed by authenticating user backup 89.247.202.86 port 17965 [preauth]
+Apr 21 00:33:24 bastion-02 sshd[85547]: Received disconnect from 64.18.128.225 port 46457:11: disconnected by user
+Apr 21 00:16:44 web-01 sshd[80114]: Invalid user nagios from 100.114.54.72 port 4453
+Apr 21 00:25:09 infra-ops-01 sshd[85937]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:25:12 db-01 sshd[76023]: Accepted publickey for backup from 131.76.120.23 port 16328 ssh2
+Apr 21 00:25:15 infra-ops-01 sshd[77895]: Accepted password for root from 107.73.63.107 port 41142 ssh2
+Apr 21 00:16:52 db-01 sshd[37282]: Failed password for invalid user oracle from 221.226.168.241 port 48621 ssh2
+Apr 21 00:08:27 infra-ops-01 sshd[67537]: Failed publickey for admin from 133.176.140.203 port 2707 ssh2
+Apr 21 00:33:52 infra-ops-01 sshd[70079]: Connection closed by authenticating user jenkins 20.218.27.59 port 5981 [preauth]
+Apr 21 00:25:27 db-01 sshd[83075]: Received disconnect from 198.105.50.114 port 61188:11: disconnected by user
+Apr 21 00:25:30 infra-ops-01 sshd[8422]: Invalid user test from 119.147.76.181 port 18353
+Apr 21 00:34:04 web-01 sshd[66744]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:34:08 infra-ops-01 sshd[5241]: Accepted publickey for root from 123.37.83.30 port 57132 ssh2
+Apr 21 00:25:39 infra-ops-01 sshd[10165]: Accepted password for admin from 103.169.31.26 port 27988 ssh2
+Apr 21 00:34:16 db-01 sshd[35282]: Failed password for invalid user ftp from 20.46.203.227 port 37953 ssh2
+Apr 21 00:17:10 db-01 sshd[35365]: Failed publickey for jenkins from 50.129.155.146 port 65270 ssh2
+Apr 21 00:34:24 db-01 sshd[58606]: Connection closed by authenticating user admin 122.151.215.66 port 64057 [preauth]
+Apr 21 00:34:28 web-01 sshd[69004]: Received disconnect from 209.64.126.57 port 54811:11: disconnected by user
+Apr 21 00:17:16 db-01 sshd[55197]: Invalid user guest from 49.174.13.231 port 34226
+Apr 21 00:34:36 jump-01 sshd[90042]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:26:00 db-01 sshd[61750]: Accepted publickey for root from 190.108.40.109 port 52517 ssh2
+Apr 21 00:34:44 infra-ops-01 sshd[99486]: Accepted password for deploy from 33.162.205.174 port 25647 ssh2
+Apr 21 00:34:48 infra-ops-01 sshd[88027]: Failed password for invalid user test from 209.39.160.71 port 51030 ssh2
+Apr 21 00:08:43 infra-ops-01 sshd[29211]: Failed publickey for root from 153.31.29.38 port 17534 ssh2
+Apr 21 00:26:12 infra-ops-01 sshd[56821]: Connection closed by authenticating user backup 15.208.198.124 port 21000 [preauth]
+Apr 21 00:17:30 db-01 sshd[76846]: Received disconnect from 153.250.162.100 port 28055:11: disconnected by user
+Apr 21 00:35:04 web-01 sshd[89115]: Invalid user nagios from 141.155.170.194 port 7171
+Apr 21 00:26:21 jump-01 sshd[80875]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:35:12 bastion-02 sshd[14112]: Accepted publickey for jenkins from 74.153.34.78 port 17171 ssh2
+Apr 21 00:17:38 jump-01 sshd[22623]: Accepted password for ubuntu from 210.47.192.64 port 48813 ssh2
+Apr 21 00:08:50 db-01 sshd[79651]: Failed password for invalid user nagios from 193.150.178.204 port 2516 ssh2
+Apr 21 00:08:51 db-01 sshd[49819]: Failed publickey for backup from 70.187.53.198 port 18214 ssh2
+Apr 21 00:17:44 jump-01 sshd[67360]: Connection closed by authenticating user admin 187.190.104.243 port 20825 [preauth]
+Apr 21 00:35:32 web-01 sshd[59917]: Received disconnect from 29.124.92.239 port 33978:11: disconnected by user
+Apr 21 00:35:36 db-01 sshd[12119]: Invalid user nagios from 54.68.186.147 port 35345
+Apr 21 00:35:40 web-01 sshd[2011]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:08:56 db-01 sshd[18330]: Accepted publickey for deploy from 130.102.153.182 port 16243 ssh2
+Apr 21 00:26:51 bastion-02 sshd[30836]: Accepted password for admin from 167.118.148.157 port 19724 ssh2
+Apr 21 00:17:56 web-01 sshd[89957]: Failed password for invalid user oracle from 26.137.161.4 port 37550 ssh2
+Apr 21 00:35:56 jump-01 sshd[67755]: Failed publickey for admin from 156.163.9.86 port 24388 ssh2
+Apr 21 00:09:00 bastion-02 sshd[35643]: Connection closed by authenticating user ec2-user 195.138.143.50 port 33540 [preauth]
+Apr 21 00:27:03 infra-ops-01 sshd[85505]: Received disconnect from 157.84.212.26 port 32090:11: disconnected by user
+Apr 21 00:27:06 infra-ops-01 sshd[63809]: Invalid user nagios from 55.111.55.58 port 43475
+Apr 21 00:36:12 web-01 sshd[8249]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:36:16 bastion-02 sshd[76113]: Accepted publickey for ubuntu from 215.209.245.199 port 62649 ssh2
+Apr 21 00:36:20 db-01 sshd[94285]: Accepted password for deploy from 32.52.167.97 port 47649 ssh2
+Apr 21 00:36:24 web-01 sshd[78492]: Failed password for invalid user test from 128.194.43.249 port 10444 ssh2
+Apr 21 00:36:28 db-01 sshd[33758]: Failed publickey for admin from 43.115.233.9 port 60326 ssh2
+Apr 21 00:18:16 bastion-02 sshd[51447]: Connection closed by authenticating user root 205.201.33.240 port 27759 [preauth]
+Apr 21 00:18:18 db-01 sshd[53237]: Received disconnect from 166.161.78.202 port 63055:11: disconnected by user
+Apr 21 00:09:10 bastion-02 sshd[14541]: Invalid user guest from 201.56.141.231 port 1475
+Apr 21 00:18:22 bastion-02 sshd[68759]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:36:48 web-01 sshd[30385]: Accepted publickey for jenkins from 163.106.220.45 port 7561 ssh2
+Apr 21 00:18:26 db-01 sshd[71103]: Accepted password for jenkins from 80.61.192.205 port 49157 ssh2
+Apr 21 00:09:14 infra-ops-01 sshd[46795]: Failed password for invalid user guest from 168.40.232.175 port 15619 ssh2
+Apr 21 00:18:30 web-01 sshd[76870]: Failed publickey for ubuntu from 175.169.31.58 port 38820 ssh2
+Apr 21 00:18:32 web-01 sshd[35349]: Connection closed by authenticating user root 109.214.241.189 port 25536 [preauth]
+Apr 21 00:18:34 db-01 sshd[55337]: Received disconnect from 87.202.203.48 port 13529:11: disconnected by user
+Apr 21 00:27:54 db-01 sshd[85810]: Invalid user test from 61.48.55.80 port 39041
+Apr 21 00:37:16 db-01 sshd[70141]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:37:20 db-01 sshd[53119]: Accepted publickey for deploy from 118.196.8.4 port 41823 ssh2
+Apr 21 00:28:03 bastion-02 sshd[11384]: Accepted password for root from 59.105.206.115 port 26609 ssh2
+Apr 21 00:37:28 jump-01 sshd[43305]: Failed password for invalid user guest from 37.231.57.131 port 27765 ssh2
+Apr 21 00:28:09 bastion-02 sshd[90681]: Failed publickey for admin from 138.77.36.189 port 31628 ssh2
+Apr 21 00:37:36 infra-ops-01 sshd[53079]: Connection closed by authenticating user ec2-user 137.238.5.33 port 34695 [preauth]
+Apr 21 00:18:50 jump-01 sshd[62091]: Received disconnect from 94.66.221.73 port 33423:11: disconnected by user
+Apr 21 00:09:26 bastion-02 sshd[86520]: Invalid user test from 171.137.35.148 port 7572
+Apr 21 00:28:21 jump-01 sshd[22356]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:28:24 bastion-02 sshd[8044]: Accepted publickey for ubuntu from 13.110.246.13 port 26686 ssh2
+Apr 21 00:18:58 db-01 sshd[85614]: Accepted password for jenkins from 28.234.5.201 port 17733 ssh2
+Apr 21 00:28:30 jump-01 sshd[92486]: Failed password for invalid user postgres from 25.55.76.226 port 35837 ssh2
+Apr 21 00:09:31 jump-01 sshd[84250]: Failed publickey for ubuntu from 112.226.185.70 port 24677 ssh2
+Apr 21 00:28:36 jump-01 sshd[1949]: Connection closed by authenticating user ubuntu 11.81.45.224 port 21495 [preauth]
+Apr 21 00:19:06 jump-01 sshd[58186]: Received disconnect from 11.13.98.58 port 3418:11: disconnected by user
+Apr 21 00:19:08 db-01 sshd[56622]: Invalid user test from 159.195.108.30 port 14709
+Apr 21 00:19:10 db-01 sshd[33509]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:38:24 infra-ops-01 sshd[49038]: Accepted publickey for deploy from 152.214.197.55 port 24833 ssh2
+Apr 21 00:38:28 db-01 sshd[77640]: Accepted password for ubuntu from 220.85.16.229 port 22054 ssh2
+Apr 21 00:28:54 db-01 sshd[34823]: Failed password for invalid user oracle from 129.198.50.69 port 40103 ssh2
+Apr 21 00:28:57 jump-01 sshd[75567]: Failed publickey for deploy from 27.16.108.134 port 61696 ssh2
+Apr 21 00:19:20 db-01 sshd[25735]: Connection closed by authenticating user ec2-user 204.133.67.244 port 12223 [preauth]
+Apr 21 00:19:22 infra-ops-01 sshd[86519]: Received disconnect from 128.49.65.1 port 61563:11: disconnected by user
+Apr 21 00:38:48 infra-ops-01 sshd[69236]: Invalid user test from 169.189.46.47 port 17262
+Apr 21 00:38:52 bastion-02 sshd[83563]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:19:28 bastion-02 sshd[27109]: Accepted publickey for jenkins from 154.88.18.226 port 37754 ssh2
+Apr 21 00:39:00 infra-ops-01 sshd[3844]: Accepted password for jenkins from 171.5.197.18 port 13965 ssh2
+Apr 21 00:39:04 web-01 sshd[99272]: Failed password for invalid user test from 27.81.112.106 port 54947 ssh2
+Apr 21 00:19:34 bastion-02 sshd[85683]: Failed publickey for backup from 13.154.29.166 port 7187 ssh2
+Apr 21 00:09:48 infra-ops-01 sshd[62871]: Connection closed by authenticating user admin 80.32.158.68 port 33449 [preauth]
+Apr 21 00:29:27 bastion-02 sshd[78094]: Received disconnect from 26.103.200.28 port 7707:11: disconnected by user
+Apr 21 00:39:20 bastion-02 sshd[3995]: Invalid user nagios from 185.169.34.112 port 9943
+Apr 21 00:19:42 infra-ops-01 sshd[82230]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:09:52 infra-ops-01 sshd[89866]: Accepted publickey for deploy from 200.241.251.211 port 12835 ssh2
+Apr 21 00:39:32 jump-01 sshd[75392]: Accepted password for ubuntu from 151.239.111.109 port 5397 ssh2
+Apr 21 00:29:42 bastion-02 sshd[48119]: Failed password for invalid user nagios from 121.9.2.160 port 48646 ssh2
+Apr 21 00:09:55 web-01 sshd[74814]: Failed publickey for backup from 87.10.236.172 port 52123 ssh2
+Apr 21 00:09:56 infra-ops-01 sshd[72608]: Connection closed by authenticating user ubuntu 24.107.64.112 port 49490 [preauth]
+Apr 21 00:39:48 web-01 sshd[98240]: Received disconnect from 28.207.10.39 port 32957:11: disconnected by user
+Apr 21 00:39:52 web-01 sshd[11476]: Invalid user test from 142.190.202.178 port 25373
+Apr 21 00:19:58 jump-01 sshd[73669]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:20:00 infra-ops-01 sshd[39613]: Accepted publickey for jenkins from 99.71.206.195 port 38034 ssh2
+Apr 21 00:20:02 db-01 sshd[8907]: Accepted password for root from 186.130.11.140 port 50182 ssh2
+Apr 21 00:20:04 db-01 sshd[92663]: Failed password for invalid user nagios from 45.2.25.158 port 61161 ssh2
+Apr 21 00:30:09 web-01 sshd[3465]: Failed publickey for jenkins from 134.29.141.1 port 51893 ssh2
+Apr 21 00:40:16 jump-01 sshd[61098]: Connection closed by authenticating user ec2-user 56.224.210.31 port 52159 [preauth]
+Apr 21 00:10:05 web-01 sshd[40139]: Received disconnect from 213.118.155.22 port 62291:11: disconnected by user
+Apr 21 00:10:06 infra-ops-01 sshd[46295]: Invalid user nagios from 144.98.172.208 port 15897
+Apr 21 00:30:21 bastion-02 sshd[18852]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:10:08 web-01 sshd[35614]: Accepted publickey for ubuntu from 38.184.79.135 port 36454 ssh2
+Apr 21 00:20:18 web-01 sshd[33552]: Accepted password for deploy from 73.15.240.90 port 29897 ssh2
+Apr 21 00:20:20 bastion-02 sshd[38576]: Failed password for invalid user ftp from 104.206.122.108 port 43156 ssh2
+Apr 21 00:10:11 db-01 sshd[78413]: Failed publickey for backup from 70.99.112.32 port 5077 ssh2
+Apr 21 00:40:48 db-01 sshd[58518]: Connection closed by authenticating user ec2-user 22.141.134.252 port 3927 [preauth]
+Apr 21 00:10:13 web-01 sshd[66186]: Received disconnect from 223.81.86.171 port 12899:11: disconnected by user
+Apr 21 00:40:56 jump-01 sshd[83532]: Invalid user postgres from 129.146.175.219 port 10294
+Apr 21 00:10:15 bastion-02 sshd[93301]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:10:16 jump-01 sshd[34014]: Accepted publickey for jenkins from 38.157.41.178 port 14325 ssh2
+Apr 21 00:20:34 bastion-02 sshd[19631]: Accepted password for admin from 144.239.78.62 port 64543 ssh2
+Apr 21 00:20:36 db-01 sshd[30183]: Failed password for invalid user guest from 133.116.179.33 port 38012 ssh2
+Apr 21 00:20:38 bastion-02 sshd[37301]: Failed publickey for deploy from 104.56.37.252 port 3645 ssh2
+Apr 21 00:20:40 infra-ops-01 sshd[5081]: Connection closed by authenticating user admin 216.142.20.124 port 9990 [preauth]
+Apr 21 00:10:21 web-01 sshd[95152]: Received disconnect from 141.6.150.220 port 7003:11: disconnected by user
+Apr 21 00:20:44 db-01 sshd[34092]: Invalid user guest from 74.92.116.53 port 61422
+Apr 21 00:31:09 bastion-02 sshd[41820]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:10:24 db-01 sshd[85031]: Accepted publickey for ubuntu from 149.78.215.250 port 38414 ssh2
+Apr 21 00:10:25 web-01 sshd[79539]: Accepted password for admin from 196.68.50.173 port 63755 ssh2
+Apr 21 00:31:18 jump-01 sshd[60704]: Failed password for invalid user guest from 23.191.153.5 port 33481 ssh2
+Apr 21 00:20:54 jump-01 sshd[68469]: Failed publickey for jenkins from 59.238.159.113 port 33419 ssh2
+Apr 21 00:10:28 db-01 sshd[70942]: Connection closed by authenticating user deploy 189.13.219.182 port 58732 [preauth]
+Apr 21 00:10:29 jump-01 sshd[92874]: Received disconnect from 86.52.201.71 port 46957:11: disconnected by user
+Apr 21 00:31:30 db-01 sshd[57786]: Invalid user guest from 11.215.140.172 port 10118
+Apr 21 00:10:31 db-01 sshd[95169]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:10:32 jump-01 sshd[13052]: Accepted publickey for admin from 78.71.146.63 port 63938 ssh2
+Apr 21 00:31:39 infra-ops-01 sshd[37512]: Accepted password for ubuntu from 180.244.50.50 port 53557 ssh2
+Apr 21 00:10:34 web-01 sshd[2559]: Failed password for invalid user test from 47.9.124.165 port 12201 ssh2
+Apr 21 00:31:45 db-01 sshd[19669]: Failed publickey for ubuntu from 85.94.36.240 port 35416 ssh2
+Apr 21 00:10:36 bastion-02 sshd[29594]: Connection closed by authenticating user root 216.214.108.167 port 57256 [preauth]
+Apr 21 00:42:28 bastion-02 sshd[41977]: Received disconnect from 45.88.39.121 port 57705:11: disconnected by user
+Apr 21 00:10:38 db-01 sshd[65377]: Invalid user nagios from 156.222.65.202 port 38899
+Apr 21 00:31:57 jump-01 sshd[98844]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:32:00 infra-ops-01 sshd[69343]: Accepted publickey for admin from 214.14.186.71 port 43694 ssh2
+Apr 21 00:32:03 db-01 sshd[21480]: Accepted password for deploy from 13.222.202.242 port 54992 ssh2
+Apr 21 00:32:06 bastion-02 sshd[39434]: Failed password for invalid user oracle from 43.166.17.2 port 19996 ssh2
+Apr 21 00:42:52 bastion-02 sshd[38968]: Failed publickey for admin from 148.158.128.136 port 28905 ssh2
+Apr 21 00:42:56 bastion-02 sshd[58463]: Connection closed by authenticating user root 212.26.209.213 port 42909 [preauth]
+Apr 21 00:43:00 bastion-02 sshd[69432]: Received disconnect from 129.214.196.42 port 61034:11: disconnected by user
+Apr 21 00:21:32 jump-01 sshd[24945]: Invalid user oracle from 74.94.177.78 port 22494
+Apr 21 00:32:21 web-01 sshd[21586]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:21:36 db-01 sshd[95024]: Accepted publickey for root from 105.237.46.53 port 42340 ssh2
+Apr 21 00:10:49 infra-ops-01 sshd[52261]: Accepted password for ec2-user from 77.81.213.151 port 29946 ssh2
+Apr 21 00:32:30 jump-01 sshd[44393]: Failed password for invalid user postgres from 126.187.241.205 port 29700 ssh2
+Apr 21 00:32:33 db-01 sshd[75350]: Failed publickey for admin from 88.194.144.243 port 16674 ssh2
+Apr 21 00:21:44 bastion-02 sshd[93872]: Connection closed by authenticating user ec2-user 12.184.227.30 port 52624 [preauth]
+Apr 21 00:32:39 web-01 sshd[34897]: Received disconnect from 163.78.6.106 port 7276:11: disconnected by user
+Apr 21 00:21:48 bastion-02 sshd[17804]: Invalid user guest from 170.153.195.169 port 20064
+Apr 21 00:21:50 web-01 sshd[98255]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:21:52 bastion-02 sshd[66484]: Accepted publickey for deploy from 184.64.190.166 port 57209 ssh2
+Apr 21 00:21:54 db-01 sshd[5228]: Accepted password for ubuntu from 158.90.149.150 port 62441 ssh2
+Apr 21 00:32:54 web-01 sshd[13524]: Failed password for invalid user oracle from 36.21.205.23 port 13450 ssh2
+Apr 21 00:32:57 web-01 sshd[80858]: Failed publickey for ubuntu from 119.6.45.212 port 57810 ssh2
+Apr 21 00:44:00 web-01 sshd[92052]: Connection closed by authenticating user admin 34.179.195.70 port 16033 [preauth]
+Apr 21 00:22:02 infra-ops-01 sshd[73373]: Received disconnect from 135.157.2.134 port 40708:11: disconnected by user
+Apr 21 00:44:08 jump-01 sshd[35133]: Invalid user ftp from 113.122.156.192 port 28933
+Apr 21 00:11:03 db-01 sshd[59873]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:22:08 web-01 sshd[32586]: Accepted publickey for deploy from 193.125.67.139 port 10225 ssh2
+Apr 21 00:33:15 bastion-02 sshd[45617]: Accepted password for deploy from 117.117.84.99 port 58284 ssh2
+Apr 21 00:22:12 web-01 sshd[39838]: Failed password for invalid user postgres from 167.120.178.232 port 7058 ssh2
+Apr 21 00:33:21 jump-01 sshd[2137]: Failed publickey for ubuntu from 101.156.203.103 port 21670 ssh2
+Apr 21 00:11:08 db-01 sshd[73239]: Connection closed by authenticating user admin 84.227.100.183 port 25473 [preauth]
+Apr 21 00:22:18 jump-01 sshd[30261]: Received disconnect from 113.1.193.43 port 34056:11: disconnected by user
+Apr 21 00:22:20 web-01 sshd[98020]: Invalid user nagios from 107.47.182.202 port 46906
+Apr 21 00:11:11 bastion-02 sshd[30649]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:44:48 web-01 sshd[31468]: Accepted publickey for ubuntu from 204.234.118.195 port 26056 ssh2
+Apr 21 00:11:13 web-01 sshd[82547]: Accepted password for admin from 133.10.189.251 port 29797 ssh2
+Apr 21 00:44:56 web-01 sshd[85146]: Failed password for invalid user postgres from 30.93.54.60 port 18974 ssh2
+Apr 21 00:33:45 infra-ops-01 sshd[9531]: Failed publickey for ec2-user from 33.157.239.80 port 5440 ssh2
+Apr 21 00:33:48 jump-01 sshd[13790]: Connection closed by authenticating user admin 21.186.200.31 port 39691 [preauth]
+Apr 21 00:45:08 db-01 sshd[24478]: Received disconnect from 112.161.117.215 port 64925:11: disconnected by user
+Apr 21 00:11:18 jump-01 sshd[81292]: Invalid user test from 91.73.58.183 port 30079
+Apr 21 00:11:19 infra-ops-01 sshd[8375]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:11:20 db-01 sshd[6008]: Accepted publickey for deploy from 128.178.221.172 port 29521 ssh2
+Apr 21 00:11:21 infra-ops-01 sshd[20097]: Accepted password for ec2-user from 96.25.191.73 port 55366 ssh2
+Apr 21 00:34:06 jump-01 sshd[27077]: Failed password for invalid user test from 119.189.0.214 port 57633 ssh2
+Apr 21 00:11:23 db-01 sshd[15603]: Failed publickey for admin from 210.80.79.57 port 15230 ssh2
+Apr 21 00:34:12 infra-ops-01 sshd[89922]: Connection closed by authenticating user jenkins 148.16.202.181 port 50978 [preauth]
+Apr 21 00:45:40 infra-ops-01 sshd[98373]: Received disconnect from 53.9.59.98 port 10678:11: disconnected by user
+Apr 21 00:45:44 web-01 sshd[37832]: Invalid user postgres from 46.170.205.143 port 46473
+Apr 21 00:22:54 jump-01 sshd[2711]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:22:56 infra-ops-01 sshd[14213]: Accepted publickey for deploy from 29.109.109.154 port 14743 ssh2
+Apr 21 00:22:58 bastion-02 sshd[64004]: Accepted password for ec2-user from 127.32.254.194 port 32186 ssh2
+Apr 21 00:34:30 web-01 sshd[97959]: Failed password for invalid user ftp from 23.30.248.36 port 18872 ssh2
+Apr 21 00:46:04 bastion-02 sshd[86416]: Failed publickey for admin from 193.152.179.9 port 42922 ssh2
+Apr 21 00:11:32 infra-ops-01 sshd[3001]: Connection closed by authenticating user backup 141.57.147.106 port 44729 [preauth]
+Apr 21 00:23:06 db-01 sshd[93421]: Received disconnect from 84.21.219.225 port 55753:11: disconnected by user
+Apr 21 00:23:08 bastion-02 sshd[92448]: Invalid user ftp from 89.104.85.125 port 49846
+Apr 21 00:46:20 bastion-02 sshd[27591]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:46:24 bastion-02 sshd[82824]: Accepted publickey for admin from 31.25.217.27 port 31657 ssh2
+Apr 21 00:34:51 web-01 sshd[29179]: Accepted password for root from 29.58.198.124 port 21945 ssh2
+Apr 21 00:46:32 web-01 sshd[21118]: Failed password for invalid user nagios from 100.9.0.106 port 12931 ssh2
+Apr 21 00:46:36 infra-ops-01 sshd[63922]: Failed publickey for root from 83.106.203.23 port 26131 ssh2
+Apr 21 00:35:00 db-01 sshd[44932]: Connection closed by authenticating user admin 44.209.239.194 port 23744 [preauth]
+Apr 21 00:23:22 bastion-02 sshd[20179]: Received disconnect from 94.165.98.104 port 43690:11: disconnected by user
+Apr 21 00:11:42 web-01 sshd[13389]: Invalid user oracle from 185.134.77.197 port 49986
+Apr 21 00:23:26 infra-ops-01 sshd[84493]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:46:56 bastion-02 sshd[54068]: Accepted publickey for admin from 53.101.205.99 port 29162 ssh2
+Apr 21 00:47:00 bastion-02 sshd[43893]: Accepted password for deploy from 163.235.240.83 port 52215 ssh2
+Apr 21 00:35:18 jump-01 sshd[68872]: Failed password for invalid user oracle from 33.64.179.68 port 26808 ssh2
+Apr 21 00:47:08 infra-ops-01 sshd[92028]: Failed publickey for jenkins from 219.253.242.70 port 54013 ssh2
+Apr 21 00:11:48 web-01 sshd[30927]: Connection closed by authenticating user jenkins 160.42.65.183 port 63796 [preauth]
+Apr 21 00:23:38 db-01 sshd[90934]: Received disconnect from 93.142.31.252 port 37676:11: disconnected by user
+Apr 21 00:35:30 jump-01 sshd[15972]: Invalid user guest from 169.246.53.234 port 38139
+Apr 21 00:23:42 bastion-02 sshd[25816]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:11:52 web-01 sshd[45100]: Accepted publickey for ubuntu from 18.140.253.73 port 21854 ssh2
+Apr 21 00:11:53 web-01 sshd[98407]: Accepted password for backup from 84.252.119.228 port 58714 ssh2
+Apr 21 00:47:36 infra-ops-01 sshd[10397]: Failed password for invalid user postgres from 74.110.210.73 port 21629 ssh2
+Apr 21 00:35:45 infra-ops-01 sshd[69352]: Failed publickey for backup from 58.17.196.196 port 47399 ssh2
+Apr 21 00:23:52 web-01 sshd[7423]: Connection closed by authenticating user backup 220.100.244.101 port 56463 [preauth]
+Apr 21 00:11:57 db-01 sshd[53964]: Received disconnect from 131.251.57.184 port 50708:11: disconnected by user
+Apr 21 00:35:54 bastion-02 sshd[32972]: Invalid user guest from 186.168.77.205 port 26283
+Apr 21 00:35:57 infra-ops-01 sshd[27017]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:12:00 bastion-02 sshd[84207]: Accepted publickey for ec2-user from 193.111.76.113 port 60034 ssh2
+Apr 21 00:48:04 bastion-02 sshd[96995]: Accepted password for backup from 169.105.51.238 port 6882 ssh2
+Apr 21 00:24:04 bastion-02 sshd[51565]: Failed password for invalid user test from 100.170.57.80 port 17486 ssh2
+Apr 21 00:36:09 bastion-02 sshd[47517]: Failed publickey for ec2-user from 68.11.31.232 port 44494 ssh2
+Apr 21 00:12:04 infra-ops-01 sshd[24504]: Connection closed by authenticating user ec2-user 129.241.165.53 port 43571 [preauth]
+Apr 21 00:48:20 bastion-02 sshd[98064]: Received disconnect from 123.6.43.254 port 4079:11: disconnected by user
+Apr 21 00:48:24 bastion-02 sshd[17233]: Invalid user ftp from 111.231.128.76 port 35184
+Apr 21 00:12:07 infra-ops-01 sshd[46691]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:24:16 jump-01 sshd[41667]: Accepted publickey for jenkins from 63.107.12.79 port 3909 ssh2
+Apr 21 00:12:09 jump-01 sshd[92185]: Accepted password for root from 41.50.160.11 port 16899 ssh2
+Apr 21 00:12:10 web-01 sshd[11911]: Failed password for invalid user guest from 123.101.98.120 port 34248 ssh2
+Apr 21 00:36:33 web-01 sshd[69749]: Failed publickey for backup from 221.35.100.37 port 9122 ssh2
+Apr 21 00:12:12 db-01 sshd[15053]: Connection closed by authenticating user deploy 99.12.99.51 port 48577 [preauth]
+Apr 21 00:12:13 jump-01 sshd[30410]: Received disconnect from 62.153.76.36 port 3493:11: disconnected by user
+Apr 21 00:12:14 jump-01 sshd[30647]: Invalid user oracle from 173.6.197.140 port 55289
+Apr 21 00:12:15 db-01 sshd[46858]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:49:04 infra-ops-01 sshd[52635]: Accepted publickey for root from 119.166.207.140 port 33210 ssh2
+Apr 21 00:24:34 bastion-02 sshd[21660]: Accepted password for root from 151.3.178.82 port 28305 ssh2
+Apr 21 00:24:36 db-01 sshd[42051]: Failed password for invalid user postgres from 96.99.60.140 port 6424 ssh2
+Apr 21 00:12:19 db-01 sshd[58569]: Failed publickey for backup from 17.172.170.50 port 17400 ssh2
+Apr 21 00:12:20 infra-ops-01 sshd[1673]: Connection closed by authenticating user jenkins 127.168.141.117 port 64843 [preauth]
+Apr 21 00:12:21 db-01 sshd[66796]: Received disconnect from 195.237.80.63 port 16896:11: disconnected by user
+Apr 21 00:37:06 infra-ops-01 sshd[48882]: Invalid user ftp from 216.170.136.58 port 7978
+Apr 21 00:37:09 infra-ops-01 sshd[34168]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:49:36 db-01 sshd[23553]: Accepted publickey for ec2-user from 114.139.247.109 port 16499 ssh2
+Apr 21 00:24:50 jump-01 sshd[69942]: Accepted password for admin from 111.239.207.188 port 53475 ssh2
+Apr 21 00:12:26 db-01 sshd[1920]: Failed password for invalid user oracle from 118.57.203.220 port 3387 ssh2
+Apr 21 00:24:54 web-01 sshd[78177]: Failed publickey for ubuntu from 162.192.71.13 port 10302 ssh2
+Apr 21 00:49:52 jump-01 sshd[33708]: Connection closed by authenticating user deploy 125.87.150.123 port 39735 [preauth]
+Apr 21 00:37:27 web-01 sshd[17622]: Received disconnect from 28.204.109.132 port 54285:11: disconnected by user
+Apr 21 00:12:30 bastion-02 sshd[24539]: Invalid user oracle from 186.93.76.159 port 50804
+Apr 21 00:25:02 jump-01 sshd[1722]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:37:36 db-01 sshd[90122]: Accepted publickey for ubuntu from 156.86.193.62 port 2189 ssh2
+Apr 21 00:12:33 bastion-02 sshd[42512]: Accepted password for deploy from 48.243.172.128 port 36819 ssh2
+Apr 21 00:37:42 db-01 sshd[98098]: Failed password for invalid user postgres from 71.228.106.60 port 62655 ssh2
+Apr 21 00:12:35 db-01 sshd[61243]: Failed publickey for deploy from 95.51.187.33 port 5749 ssh2
+Apr 21 00:50:24 jump-01 sshd[89268]: Connection closed by authenticating user admin 181.216.45.28 port 44483 [preauth]
+Apr 21 00:50:28 infra-ops-01 sshd[29305]: Received disconnect from 73.38.188.44 port 42493:11: disconnected by user
+Apr 21 00:37:54 db-01 sshd[14524]: Invalid user postgres from 31.194.111.194 port 11151
+Apr 21 00:12:39 web-01 sshd[48160]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:12:40 infra-ops-01 sshd[2709]: Accepted publickey for deploy from 39.153.167.45 port 18487 ssh2
+Apr 21 00:50:44 db-01 sshd[71954]: Accepted password for ubuntu from 139.101.247.143 port 48376 ssh2
+Apr 21 00:12:42 jump-01 sshd[90244]: Failed password for invalid user ftp from 79.174.148.20 port 17277 ssh2
+Apr 21 00:38:09 jump-01 sshd[7225]: Failed publickey for ec2-user from 90.238.21.171 port 42098 ssh2
+Apr 21 00:25:28 web-01 sshd[30445]: Connection closed by authenticating user ubuntu 65.101.152.13 port 61137 [preauth]
+Apr 21 00:38:15 infra-ops-01 sshd[18807]: Received disconnect from 15.111.30.84 port 24229:11: disconnected by user
+Apr 21 00:12:46 web-01 sshd[97080]: Invalid user postgres from 125.38.247.187 port 54974
+Apr 21 00:12:47 web-01 sshd[88161]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:25:36 db-01 sshd[29782]: Accepted publickey for backup from 68.229.8.94 port 37235 ssh2
+Apr 21 00:38:27 jump-01 sshd[65771]: Accepted password for ubuntu from 202.60.237.123 port 1573 ssh2
+Apr 21 00:38:30 infra-ops-01 sshd[96573]: Failed password for invalid user guest from 13.97.44.86 port 50888 ssh2
+Apr 21 00:25:42 jump-01 sshd[56254]: Failed publickey for admin from 31.222.219.192 port 58792 ssh2
+Apr 21 00:51:28 web-01 sshd[54114]: Connection closed by authenticating user jenkins 14.169.211.29 port 4736 [preauth]
+Apr 21 00:12:53 web-01 sshd[79512]: Received disconnect from 65.10.232.145 port 42247:11: disconnected by user
+Apr 21 00:38:42 web-01 sshd[76375]: Invalid user test from 32.106.25.45 port 29240
+Apr 21 00:25:50 infra-ops-01 sshd[88877]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:12:56 infra-ops-01 sshd[60243]: Accepted publickey for backup from 159.222.26.110 port 10990 ssh2
+Apr 21 00:38:51 jump-01 sshd[51721]: Accepted password for admin from 119.224.182.11 port 54396 ssh2
+Apr 21 00:51:52 web-01 sshd[53711]: Failed password for invalid user test from 195.87.133.154 port 19151 ssh2
+Apr 21 00:25:58 bastion-02 sshd[4876]: Failed publickey for jenkins from 194.137.83.169 port 29629 ssh2
+Apr 21 00:52:00 web-01 sshd[71216]: Connection closed by authenticating user ubuntu 26.190.94.232 port 25292 [preauth]
+Apr 21 00:26:02 jump-01 sshd[21916]: Received disconnect from 81.231.126.166 port 64166:11: disconnected by user
+Apr 21 00:52:08 bastion-02 sshd[32913]: Invalid user nagios from 152.61.66.90 port 37432
+Apr 21 00:26:06 infra-ops-01 sshd[85766]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:39:12 jump-01 sshd[8116]: Accepted publickey for jenkins from 117.55.235.65 port 4509 ssh2
+Apr 21 00:52:20 web-01 sshd[34814]: Accepted password for deploy from 84.120.28.97 port 34971 ssh2
+Apr 21 00:26:12 bastion-02 sshd[39709]: Failed password for invalid user test from 68.209.99.165 port 40090 ssh2
+Apr 21 00:13:07 web-01 sshd[75308]: Failed publickey for ubuntu from 127.189.250.208 port 25136 ssh2
+Apr 21 00:26:16 db-01 sshd[15093]: Connection closed by authenticating user jenkins 68.116.23.60 port 31776 [preauth]
+Apr 21 00:39:27 bastion-02 sshd[79837]: Received disconnect from 14.65.214.220 port 58374:11: disconnected by user
+Apr 21 00:26:20 bastion-02 sshd[5582]: Invalid user oracle from 108.245.95.80 port 57738
+Apr 21 00:39:33 bastion-02 sshd[71075]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:52:48 bastion-02 sshd[71582]: Accepted publickey for ubuntu from 147.213.190.54 port 64663 ssh2
+Apr 21 00:26:26 jump-01 sshd[67704]: Accepted password for ec2-user from 222.134.190.153 port 63155 ssh2
+Apr 21 00:52:56 bastion-02 sshd[70468]: Failed password for invalid user nagios from 51.24.35.171 port 22718 ssh2
+Apr 21 00:53:00 bastion-02 sshd[57522]: Failed publickey for root from 36.104.115.182 port 11299 ssh2
+Apr 21 00:26:32 web-01 sshd[93550]: Connection closed by authenticating user root 179.250.56.185 port 4873 [preauth]
+Apr 21 00:39:51 db-01 sshd[15927]: Received disconnect from 82.239.28.147 port 60740:11: disconnected by user
+Apr 21 00:39:54 bastion-02 sshd[88136]: Invalid user test from 96.152.244.109 port 44182
+Apr 21 00:53:16 jump-01 sshd[23863]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:40:00 infra-ops-01 sshd[2022]: Accepted publickey for ec2-user from 143.52.119.126 port 3411 ssh2
+Apr 21 00:53:24 jump-01 sshd[57448]: Accepted password for root from 147.14.35.82 port 52562 ssh2
+Apr 21 00:13:22 infra-ops-01 sshd[89215]: Failed password for invalid user guest from 161.232.20.22 port 9778 ssh2
+Apr 21 00:53:32 db-01 sshd[35186]: Failed publickey for ec2-user from 89.210.119.65 port 2408 ssh2
+Apr 21 00:13:24 bastion-02 sshd[6380]: Connection closed by authenticating user deploy 25.254.66.38 port 41359 [preauth]
+Apr 21 00:40:15 jump-01 sshd[46478]: Received disconnect from 96.210.93.189 port 44636:11: disconnected by user
+Apr 21 00:53:44 web-01 sshd[82525]: Invalid user ftp from 176.136.232.201 port 9645
+Apr 21 00:40:21 bastion-02 sshd[3613]: pam_unix(sshd:session): session opened for user ec2-user by (uid=0)
+Apr 21 00:40:24 infra-ops-01 sshd[59501]: Accepted publickey for admin from 92.17.91.46 port 55224 ssh2
+Apr 21 00:13:29 web-01 sshd[25663]: Accepted password for root from 105.106.107.206 port 45267 ssh2
+Apr 21 00:27:00 jump-01 sshd[45308]: Failed password for invalid user oracle from 12.76.35.230 port 16737 ssh2
+Apr 21 00:54:04 bastion-02 sshd[65854]: Failed publickey for ubuntu from 211.148.169.193 port 64351 ssh2
+Apr 21 00:27:04 jump-01 sshd[4139]: Connection closed by authenticating user jenkins 47.102.109.158 port 43821 [preauth]
+Apr 21 00:13:33 web-01 sshd[12913]: Received disconnect from 59.82.76.6 port 37555:11: disconnected by user
+Apr 21 00:27:08 db-01 sshd[7271]: Invalid user oracle from 96.178.105.122 port 52590
+Apr 21 00:13:35 jump-01 sshd[78626]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:54:24 bastion-02 sshd[86817]: Accepted publickey for admin from 181.101.223.49 port 61085 ssh2
+Apr 21 00:13:37 web-01 sshd[27555]: Accepted password for backup from 178.29.148.226 port 7468 ssh2
+Apr 21 00:27:16 web-01 sshd[48503]: Failed password for invalid user test from 196.233.175.150 port 47955 ssh2
+Apr 21 00:27:18 infra-ops-01 sshd[39778]: Failed publickey for deploy from 41.149.119.97 port 41173 ssh2
+Apr 21 00:13:40 web-01 sshd[71434]: Connection closed by authenticating user backup 168.233.155.130 port 23448 [preauth]
+Apr 21 00:41:03 jump-01 sshd[84702]: Received disconnect from 21.115.60.9 port 55540:11: disconnected by user
+Apr 21 00:41:06 web-01 sshd[93356]: Invalid user nagios from 150.62.18.28 port 39414
+Apr 21 00:13:43 infra-ops-01 sshd[29370]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:27:28 bastion-02 sshd[32863]: Accepted publickey for backup from 221.244.52.34 port 45658 ssh2
+Apr 21 00:13:45 infra-ops-01 sshd[42975]: Accepted password for admin from 26.146.173.188 port 17927 ssh2
+Apr 21 00:41:18 jump-01 sshd[83151]: Failed password for invalid user nagios from 159.175.151.65 port 36983 ssh2
+Apr 21 00:55:08 db-01 sshd[64301]: Failed publickey for ubuntu from 134.159.94.13 port 37926 ssh2
+Apr 21 00:41:24 jump-01 sshd[98604]: Connection closed by authenticating user root 45.183.190.83 port 17631 [preauth]
+Apr 21 00:27:38 infra-ops-01 sshd[9444]: Received disconnect from 176.173.80.179 port 43292:11: disconnected by user
+Apr 21 00:13:50 bastion-02 sshd[29966]: Invalid user guest from 95.98.78.93 port 37696
+Apr 21 00:41:33 jump-01 sshd[40510]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:13:52 db-01 sshd[78429]: Accepted publickey for backup from 130.152.121.110 port 22698 ssh2
+Apr 21 00:27:46 web-01 sshd[39800]: Accepted password for deploy from 136.39.0.74 port 42669 ssh2
+Apr 21 00:27:48 db-01 sshd[44298]: Failed password for invalid user guest from 194.89.115.67 port 16164 ssh2
+Apr 21 00:55:40 db-01 sshd[92380]: Failed publickey for ubuntu from 27.113.17.111 port 64184 ssh2
+Apr 21 00:27:52 db-01 sshd[5053]: Connection closed by authenticating user ubuntu 165.73.243.171 port 45500 [preauth]
+Apr 21 00:13:57 jump-01 sshd[11750]: Received disconnect from 118.235.29.187 port 57592:11: disconnected by user
+Apr 21 00:27:56 bastion-02 sshd[50827]: Invalid user ftp from 217.95.255.242 port 53617
+Apr 21 00:13:59 bastion-02 sshd[97521]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:42:00 web-01 sshd[16154]: Accepted publickey for admin from 180.125.96.156 port 44942 ssh2
+Apr 21 00:42:03 web-01 sshd[71065]: Accepted password for deploy from 136.190.100.208 port 23109 ssh2
+Apr 21 00:28:04 jump-01 sshd[71062]: Failed password for invalid user oracle from 21.240.238.179 port 47476 ssh2
+Apr 21 00:42:09 bastion-02 sshd[36709]: Failed publickey for ubuntu from 77.60.88.73 port 3857 ssh2
+Apr 21 00:56:16 jump-01 sshd[74692]: Connection closed by authenticating user backup 67.194.88.53 port 12954 [preauth]
+Apr 21 00:56:20 web-01 sshd[98357]: Received disconnect from 129.22.24.53 port 36631:11: disconnected by user
+Apr 21 00:28:12 web-01 sshd[28715]: Invalid user oracle from 199.4.216.128 port 47584
+Apr 21 00:56:28 bastion-02 sshd[20225]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:56:32 infra-ops-01 sshd[42925]: Accepted publickey for ubuntu from 12.0.30.101 port 29408 ssh2
+Apr 21 00:14:09 web-01 sshd[95814]: Accepted password for backup from 62.242.184.137 port 39443 ssh2
+Apr 21 00:28:20 web-01 sshd[27292]: Failed password for invalid user postgres from 215.179.79.72 port 4529 ssh2
+Apr 21 00:28:22 infra-ops-01 sshd[31722]: Failed publickey for backup from 164.182.169.42 port 53510 ssh2
+Apr 21 00:28:24 jump-01 sshd[17264]: Connection closed by authenticating user deploy 112.163.128.47 port 38291 [preauth]
+Apr 21 00:28:26 db-01 sshd[55098]: Received disconnect from 82.159.88.162 port 6328:11: disconnected by user
+Apr 21 00:42:42 infra-ops-01 sshd[46164]: Invalid user test from 162.41.154.11 port 24974
+Apr 21 00:14:15 infra-ops-01 sshd[41408]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:42:48 db-01 sshd[83674]: Accepted publickey for deploy from 80.249.231.113 port 54352 ssh2
+Apr 21 00:14:17 web-01 sshd[70410]: Accepted password for backup from 138.35.73.65 port 28055 ssh2
+Apr 21 00:57:12 db-01 sshd[31858]: Failed password for invalid user nagios from 192.104.211.34 port 36823 ssh2
+Apr 21 00:42:57 infra-ops-01 sshd[67635]: Failed publickey for backup from 129.68.11.24 port 47470 ssh2
+Apr 21 00:14:20 jump-01 sshd[81570]: Connection closed by authenticating user admin 218.103.122.197 port 58083 [preauth]
+Apr 21 00:14:21 infra-ops-01 sshd[21150]: Received disconnect from 91.211.78.169 port 37106:11: disconnected by user
+Apr 21 00:57:28 jump-01 sshd[51946]: Invalid user guest from 199.109.37.103 port 6244
+Apr 21 00:14:23 db-01 sshd[29857]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:14:24 infra-ops-01 sshd[56252]: Accepted publickey for admin from 111.15.146.106 port 17843 ssh2
+Apr 21 00:57:40 jump-01 sshd[66277]: Accepted password for root from 197.116.19.235 port 60307 ssh2
+Apr 21 00:57:44 web-01 sshd[37338]: Failed password for invalid user ftp from 144.246.189.197 port 61294 ssh2
+Apr 21 00:57:48 jump-01 sshd[21226]: Failed publickey for backup from 67.53.26.4 port 20081 ssh2
+Apr 21 00:28:56 web-01 sshd[20487]: Connection closed by authenticating user admin 115.157.178.120 port 53907 [preauth]
+Apr 21 00:57:56 web-01 sshd[46985]: Received disconnect from 13.122.147.227 port 52526:11: disconnected by user
+Apr 21 00:58:00 bastion-02 sshd[17374]: Invalid user guest from 66.86.89.74 port 53316
+Apr 21 00:14:31 db-01 sshd[44174]: pam_unix(sshd:session): session opened for user backup by (uid=0)
+Apr 21 00:43:36 jump-01 sshd[52332]: Accepted publickey for backup from 175.241.105.245 port 18608 ssh2
+Apr 21 00:58:12 infra-ops-01 sshd[37984]: Accepted password for root from 62.194.214.115 port 12578 ssh2
+Apr 21 00:58:16 db-01 sshd[74198]: Failed password for invalid user test from 119.254.168.183 port 24832 ssh2
+Apr 21 00:29:10 jump-01 sshd[62754]: Failed publickey for jenkins from 133.106.149.233 port 17012 ssh2
+Apr 21 00:43:48 infra-ops-01 sshd[85035]: Connection closed by authenticating user deploy 46.172.141.253 port 24269 [preauth]
+Apr 21 00:29:14 infra-ops-01 sshd[49938]: Received disconnect from 172.144.108.3 port 47735:11: disconnected by user
+Apr 21 00:14:38 bastion-02 sshd[92913]: Invalid user postgres from 104.114.80.187 port 33525
+Apr 21 00:14:39 jump-01 sshd[34169]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:58:40 db-01 sshd[30800]: Accepted publickey for deploy from 36.154.255.76 port 9130 ssh2
+Apr 21 00:58:44 jump-01 sshd[5037]: Accepted password for jenkins from 63.62.107.174 port 20976 ssh2
+Apr 21 00:29:24 web-01 sshd[36871]: Failed password for invalid user postgres from 45.26.206.70 port 48498 ssh2
+Apr 21 00:14:43 db-01 sshd[12886]: Failed publickey for ec2-user from 210.33.154.59 port 42575 ssh2
+Apr 21 00:44:12 db-01 sshd[96228]: Connection closed by authenticating user ubuntu 56.41.220.32 port 38342 [preauth]
+Apr 21 00:29:30 db-01 sshd[67448]: Received disconnect from 32.23.115.228 port 9293:11: disconnected by user
+Apr 21 00:14:46 jump-01 sshd[75536]: Invalid user oracle from 148.46.243.170 port 24497
+Apr 21 00:44:21 bastion-02 sshd[83430]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:29:36 infra-ops-01 sshd[3081]: Accepted publickey for jenkins from 95.82.36.165 port 8400 ssh2
+Apr 21 00:44:27 web-01 sshd[63724]: Accepted password for ec2-user from 52.232.16.240 port 37353 ssh2
+Apr 21 00:59:20 infra-ops-01 sshd[90622]: Failed password for invalid user nagios from 13.221.167.107 port 8119 ssh2
+Apr 21 00:44:33 infra-ops-01 sshd[90631]: Failed publickey for ec2-user from 13.141.251.85 port 25779 ssh2
+Apr 21 00:44:36 web-01 sshd[55509]: Connection closed by authenticating user ec2-user 16.82.201.200 port 50023 [preauth]
+Apr 21 00:44:39 infra-ops-01 sshd[34394]: Received disconnect from 135.168.60.167 port 27109:11: disconnected by user
+Apr 21 00:44:42 bastion-02 sshd[97656]: Invalid user postgres from 59.107.107.83 port 1720
+Apr 21 00:59:40 jump-01 sshd[74560]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:59:44 bastion-02 sshd[84959]: Accepted publickey for ubuntu from 61.91.193.174 port 43080 ssh2
+Apr 21 00:14:57 infra-ops-01 sshd[21280]: Accepted password for ec2-user from 223.72.23.49 port 6029 ssh2
+Apr 21 00:44:54 infra-ops-01 sshd[42755]: Failed password for invalid user nagios from 79.148.137.18 port 3380 ssh2
+Apr 21 00:59:56 jump-01 sshd[77658]: Failed publickey for ec2-user from 82.180.33.170 port 34889 ssh2
+Apr 21 01:00:00 jump-01 sshd[77742]: Connection closed by authenticating user ec2-user 42.15.215.130 port 13199 [preauth]
+Apr 21 00:15:01 db-01 sshd[28672]: Received disconnect from 62.29.207.142 port 31811:11: disconnected by user
+Apr 21 00:30:04 infra-ops-01 sshd[24771]: Invalid user ftp from 42.23.118.214 port 32104
+Apr 21 00:15:03 bastion-02 sshd[35882]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:45:12 jump-01 sshd[26899]: Accepted publickey for jenkins from 183.30.250.36 port 33873 ssh2
+Apr 21 00:30:10 jump-01 sshd[94600]: Accepted password for ec2-user from 149.14.121.106 port 7584 ssh2
+Apr 21 01:00:24 infra-ops-01 sshd[86792]: Failed password for invalid user oracle from 179.191.158.220 port 38247 ssh2
+Apr 21 00:15:07 db-01 sshd[89652]: Failed publickey for admin from 122.122.101.245 port 18589 ssh2
+Apr 21 00:30:16 db-01 sshd[46167]: Connection closed by authenticating user root 194.42.129.96 port 50764 [preauth]
+Apr 21 00:15:09 infra-ops-01 sshd[16229]: Received disconnect from 181.18.117.17 port 33378:11: disconnected by user
+Apr 21 00:15:10 db-01 sshd[55641]: Invalid user test from 174.151.106.115 port 60749
+Apr 21 00:45:33 db-01 sshd[97518]: pam_unix(sshd:session): session opened for user jenkins by (uid=0)
+Apr 21 00:45:36 jump-01 sshd[85529]: Accepted publickey for deploy from 124.181.3.197 port 30640 ssh2
+Apr 21 00:15:13 web-01 sshd[64137]: Accepted password for admin from 135.118.241.75 port 10357 ssh2
+Apr 21 00:45:42 infra-ops-01 sshd[57523]: Failed password for invalid user guest from 159.232.147.147 port 25080 ssh2
+Apr 21 00:30:30 bastion-02 sshd[51637]: Failed publickey for root from 194.120.102.119 port 11169 ssh2
+Apr 21 01:01:04 infra-ops-01 sshd[39937]: Connection closed by authenticating user jenkins 197.111.53.254 port 64125 [preauth]
+Apr 21 00:45:51 jump-01 sshd[13337]: Received disconnect from 212.228.89.7 port 44202:11: disconnected by user
+Apr 21 00:15:18 db-01 sshd[28953]: Invalid user oracle from 108.113.41.149 port 40737
+Apr 21 00:15:19 bastion-02 sshd[17313]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Apr 21 00:15:20 bastion-02 sshd[89186]: Accepted publickey for jenkins from 189.45.49.91 port 33774 ssh2
+Apr 21 00:15:21 web-01 sshd[43528]: Accepted password for backup from 102.175.197.191 port 40051 ssh2
+Apr 21 01:01:28 infra-ops-01 sshd[45336]: Failed password for invalid user ftp from 95.84.37.110 port 39661 ssh2
+Apr 21 00:15:23 db-01 sshd[46434]: Failed publickey for ubuntu from 178.49.112.114 port 30254 ssh2
+Apr 21 00:46:12 bastion-02 sshd[59069]: Connection closed by authenticating user root 186.84.142.205 port 11809 [preauth]
+Apr 21 01:01:40 infra-ops-01 sshd[83424]: Received disconnect from 167.90.143.36 port 45625:11: disconnected by user
+Apr 21 00:46:18 db-01 sshd[96297]: Invalid user guest from 159.223.130.107 port 47936
+Apr 21 00:30:54 jump-01 sshd[17388]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:46:24 jump-01 sshd[58971]: Accepted publickey for root from 159.43.141.171 port 1206 ssh2
+Apr 21 00:46:27 jump-01 sshd[75781]: Accepted password for ec2-user from 198.23.118.46 port 17059 ssh2
+Apr 21 00:46:30 bastion-02 sshd[50697]: Failed password for invalid user ftp from 30.217.135.3 port 24734 ssh2
+Apr 21 00:15:31 infra-ops-01 sshd[47898]: Failed publickey for backup from 13.244.2.103 port 12674 ssh2
+Apr 21 00:46:36 db-01 sshd[22811]: Connection closed by authenticating user deploy 45.67.222.249 port 5468 [preauth]
+Apr 21 00:46:39 infra-ops-01 sshd[6683]: Received disconnect from 141.41.123.29 port 56829:11: disconnected by user
+Apr 21 01:02:16 jump-01 sshd[36128]: Invalid user ftp from 215.181.243.115 port 40780
+Apr 21 00:46:45 infra-ops-01 sshd[10712]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 01:02:24 jump-01 sshd[47223]: Accepted publickey for root from 147.12.91.25 port 6488 ssh2
+Apr 21 00:46:51 jump-01 sshd[44286]: Accepted password for root from 212.247.244.37 port 3814 ssh2
+Apr 21 00:31:16 infra-ops-01 sshd[42213]: Failed password for invalid user guest from 177.253.60.42 port 50817 ssh2
+Apr 21 00:15:39 jump-01 sshd[40790]: Failed publickey for ubuntu from 198.158.220.93 port 2935 ssh2
+Apr 21 01:02:40 bastion-02 sshd[95987]: Connection closed by authenticating user ubuntu 73.163.219.194 port 40165 [preauth]
+Apr 21 00:31:22 infra-ops-01 sshd[24818]: Received disconnect from 123.35.130.162 port 14659:11: disconnected by user
+Apr 21 00:15:42 db-01 sshd[29458]: Invalid user oracle from 87.69.69.125 port 27143
+Apr 21 00:31:26 db-01 sshd[99598]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:15:44 jump-01 sshd[43393]: Accepted publickey for backup from 203.154.1.243 port 18322 ssh2
+Apr 21 00:15:45 web-01 sshd[1501]: Accepted password for ubuntu from 148.115.68.167 port 59755 ssh2
+Apr 21 01:03:04 db-01 sshd[40959]: Failed password for invalid user oracle from 208.242.174.42 port 11703 ssh2
+Apr 21 00:15:47 bastion-02 sshd[13256]: Failed publickey for admin from 53.83.98.128 port 21867 ssh2
+Apr 21 01:03:12 bastion-02 sshd[14710]: Connection closed by authenticating user admin 108.3.131.115 port 33041 [preauth]
+Apr 21 00:15:49 infra-ops-01 sshd[61911]: Received disconnect from 17.32.242.207 port 32643:11: disconnected by user
+Apr 21 00:31:40 jump-01 sshd[28726]: Invalid user ftp from 208.230.124.177 port 39032
+Apr 21 00:47:33 jump-01 sshd[27203]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 01:03:28 db-01 sshd[99365]: Accepted publickey for jenkins from 64.105.61.184 port 53576 ssh2
+Apr 21 00:47:39 infra-ops-01 sshd[97990]: Accepted password for backup from 60.183.106.238 port 62769 ssh2
+Apr 21 01:03:36 jump-01 sshd[17387]: Failed password for invalid user ftp from 53.117.17.10 port 50934 ssh2
+Apr 21 00:47:45 web-01 sshd[27778]: Failed publickey for admin from 42.216.124.185 port 4638 ssh2
+Apr 21 00:31:52 bastion-02 sshd[83022]: Connection closed by authenticating user deploy 98.90.198.39 port 64977 [preauth]
+Apr 21 00:47:51 jump-01 sshd[28631]: Received disconnect from 86.169.116.60 port 43358:11: disconnected by user
+Apr 21 00:15:58 bastion-02 sshd[81077]: Invalid user postgres from 178.123.162.235 port 12686
+Apr 21 01:03:56 infra-ops-01 sshd[96921]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Apr 21 00:32:00 web-01 sshd[14802]: Accepted publickey for ubuntu from 62.180.124.8 port 48719 ssh2
+Apr 21 01:04:04 jump-01 sshd[71832]: Accepted password for admin from 23.197.241.155 port 44623 ssh2
+Apr 21 00:16:02 db-01 sshd[53524]: Failed password for invalid user oracle from 79.188.105.205 port 48710 ssh2
+Apr 21 00:48:09 infra-ops-01 sshd[13914]: Failed publickey for ubuntu from 167.97.198.34 port 28646 ssh2
+Apr 21 00:32:08 infra-ops-01 sshd[70066]: Connection closed by authenticating user admin 135.158.169.186 port 65151 [preauth]
+Apr 21 00:32:10 web-01 sshd[43752]: Received disconnect from 87.179.151.31 port 24986:11: disconnected by user
+Apr 21 00:32:12 bastion-02 sshd[21088]: Invalid user nagios from 182.246.27.63 port 55310
+Apr 21 00:48:21 jump-01 sshd[87413]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:32:16 web-01 sshd[95085]: Accepted publickey for jenkins from 95.118.71.115 port 52038 ssh2
+Apr 21 00:32:18 bastion-02 sshd[41680]: Accepted password for ubuntu from 35.76.127.51 port 9393 ssh2
+Apr 21 01:04:40 web-01 sshd[21459]: Failed password for invalid user guest from 93.100.45.71 port 8868 ssh2
+Apr 21 00:16:11 db-01 sshd[86973]: Failed publickey for root from 19.174.146.13 port 35022 ssh2
+Apr 21 00:48:36 jump-01 sshd[99509]: Connection closed by authenticating user deploy 90.244.20.80 port 36923 [preauth]
+Apr 21 01:04:52 bastion-02 sshd[9706]: Received disconnect from 96.136.4.70 port 59633:11: disconnected by user
+Apr 21 01:04:56 web-01 sshd[94354]: Invalid user postgres from 40.52.68.31 port 50100
+Apr 21 00:16:15 db-01 sshd[42385]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:16:16 infra-ops-01 sshd[86249]: Accepted publickey for ubuntu from 140.65.160.73 port 35227 ssh2
+Apr 21 00:32:34 jump-01 sshd[19519]: Accepted password for deploy from 70.26.47.132 port 14977 ssh2
+Apr 21 00:32:36 infra-ops-01 sshd[21420]: Failed password for invalid user oracle from 140.167.94.176 port 15731 ssh2
+Apr 21 00:16:19 infra-ops-01 sshd[27527]: Failed publickey for jenkins from 185.103.29.47 port 64071 ssh2
+Apr 21 00:16:20 db-01 sshd[49522]: Connection closed by authenticating user ubuntu 22.24.210.134 port 37981 [preauth]
+Apr 21 01:05:24 infra-ops-01 sshd[85679]: Received disconnect from 136.133.178.96 port 40464:11: disconnected by user
+Apr 21 00:16:22 web-01 sshd[99323]: Invalid user test from 172.220.25.169 port 48808
+Apr 21 00:16:23 jump-01 sshd[90485]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
+Apr 21 00:32:48 web-01 sshd[96908]: Accepted publickey for backup from 149.19.218.38 port 7046 ssh2
+Apr 21 00:16:25 infra-ops-01 sshd[19584]: Accepted password for jenkins from 194.235.155.5 port 49754 ssh2
+Apr 21 00:32:52 infra-ops-01 sshd[59763]: Failed password for invalid user guest from 83.4.77.242 port 47527 ssh2
+Apr 21 01:05:48 web-01 sshd[91257]: Failed publickey for backup from 87.148.169.118 port 41205 ssh2
+Apr 21 00:49:24 web-01 sshd[38009]: Connection closed by authenticating user deploy 211.155.89.92 port 12410 [preauth]
+Apr 21 01:05:56 bastion-02 sshd[96305]: Received disconnect from 139.53.247.83 port 31522:11: disconnected by user
+Apr 21 00:49:30 db-01 sshd[2193]: Invalid user guest from 40.181.132.87 port 52555
+Apr 21 00:33:02 bastion-02 sshd[94633]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Apr 21 00:33:04 db-01 sshd[62556]: Accepted publickey for ec2-user from 160.149.175.49 port 30306 ssh2
+Apr 21 01:06:12 jump-01 sshd[54378]: Accepted password for jenkins from 132.203.80.110 port 47261 ssh2
+Apr 21 00:16:34 bastion-02 sshd[98914]: Failed password for invalid user test from 181.45.131.251 port 21062 ssh2
+Apr 21 00:33:10 bastion-02 sshd[44875]: Failed publickey for deploy from 51.21.9.56 port 42575 ssh2
+Apr 21 00:49:48 bastion-02 sshd[60606]: Connection closed by authenticating user backup 176.135.98.215 port 20480 [preauth]
+Apr 21 00:49:51 db-01 sshd[21355]: Received disconnect from 11.72.89.135 port 24084:11: disconnected by user
+Apr 21 00:16:38 infra-ops-01 sshd[85390]: Invalid user oracle from 126.104.86.114 port 24483
+Apr 21 00:16:39 bastion-02 sshd[59812]: pam_unix(sshd:session): session opened for user deploy by (uid=0)
