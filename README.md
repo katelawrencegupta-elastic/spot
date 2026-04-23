@@ -2,6 +2,12 @@ Spot - a Cursor agent to load sample data into Elastic(search) for testing/evalu
 
 Spot will parse the sample data with Grok & extract the header structure & per-event patterns, auto-generated an index with mappings along with an ingest pipeline of the same name for processing. Spot will upload the sample data to Elastic via bulk ingest & make it available for search with the fields now made available by the ingest pipeline.
 
+## Common schema definition
+
+Spot uses `common-schema/fields.csv` as the shared schema definition for field names and field types. This CSV is the source of truth when creating or validating index mappings during onboarding runs.
+
+Elastic Common Schema Field Reference: [https://www.elastic.co/docs/reference/ecs/ecs-field-reference](https://www.elastic.co/docs/reference/ecs/ecs-field-reference)
+
 Skills:
 
 - elastic-bulk-ingest
