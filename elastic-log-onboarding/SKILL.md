@@ -71,7 +71,13 @@ Run Python to derive patterns from representative lines.
 
 ### 2) Create index mappings from header fields
 
-At minimum, map fields from header captures:
+Use `common-schema/fields.csv` as the common schema definition for Spot:
+- treat the CSV as source-of-truth for known field names and field types
+- map extracted fields to the CSV `Field`/`Type` pairs when present
+- only infer type heuristically for fields not present in the CSV
+- helper script: `python3 common-schema/resolve_mapping.py --fields-file <captured_fields_file> --pretty`
+
+At minimum, ensure:
 - IP-like fields -> `ip`
 - timestamp fields -> `date` with expected format(s)
 - identity/auth/facility/host-like fields -> `keyword`

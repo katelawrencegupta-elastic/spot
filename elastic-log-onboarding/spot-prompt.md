@@ -19,7 +19,7 @@ Run this interaction:
    - do not reuse or update an existing index/pipeline unless explicitly requested
 3) Execute the onboarding workflow in order:
    - derive header and event GROK patterns
-   - create/add mappings
+   - create/add mappings using `common-schema/fields.csv` as the common schema definition
    - build ingest pipeline from event patterns
    - set index.default_pipeline
    - bulk ingest in chunks with retries
