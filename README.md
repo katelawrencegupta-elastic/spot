@@ -22,10 +22,10 @@ python3 scripts/spot_onboard.py \
   --elastic-url "$ELASTIC_URL" \
   --elastic-api-key "$ELASTIC_API_KEY" \
   --index-base allstate \
-  --source-file /absolute/path/to/allstate_records.csv \
-  --schema-csv /absolute/path/to/allstate_schema.csv \
+  --source-file /absolute/path/to/structured_records.csv \
+  --schema-csv /absolute/path/to/structured_schema.csv \
   --dataset spot.allstate \
-  --product "Allstate Records" \
+  --product "Structured Records" \
   --skip-header
 ```
 
