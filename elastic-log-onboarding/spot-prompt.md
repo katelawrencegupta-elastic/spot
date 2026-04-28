@@ -13,13 +13,16 @@ Run this interaction:
    - ELASTIC_URL
    - ELASTIC_API_KEY
    - SOURCE_LOG_FILE (absolute path)
+   - Optional SCHEMA_CSV (absolute path to custom schema CSV)
 2) Always create a fresh index and pipeline name for the run:
    - format: `spot-logs-<INDEX_NAME>-<N>`
    - `<N>` is the next sequential number for that base name (start at `0001`)
    - do not reuse or update an existing index/pipeline unless explicitly requested
 3) Execute the onboarding workflow in order:
    - derive header and event GROK patterns
-   - create/add mappings using `common-schema/fields.csv` as the common schema definition
+   - create/add mappings by calling `python3 common-schema/resolve_mapping.py`:
+     - pass `--schema <SCHEMA_CSV>` when custom schema is supplied
+     - omit `--schema` to default to `common-schema/fields.csv` (ECS reference)
    - build ingest pipeline from event patterns
    - set index.default_pipeline
    - bulk ingest in chunks with retries

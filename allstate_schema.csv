@@ -1,0 +1,10 @@
+schemaVersion,Indexed,Field_Set,Field,Type,Level,Normalization,Example,Description
+1.0.0,true,base,first_name,keyword,core,John,First Name
+1.0.0,true,base,last_name,keyword,core,Doe,Last Name
+1.0.0,true,base,middle_name,keyword,core,Clancy,Middle Name
+1.0.0,true,base,ssn,keyword,core,123-45-6789,SSN
+1.0.0,true,base,phone_number,keyword,core,123-555-1212,Phone Number
+1.0.0,true,base,street_address,keyword,core,123 Street Road,Street Address
+1.0.0,true,base,city,keyword,core,Philadelphia,City
+1.0.0,true,base,state,keyword,core,Pennsylvania,State
+1.0.0,true,base,zip_code,keyword,core,19103,Zip Code

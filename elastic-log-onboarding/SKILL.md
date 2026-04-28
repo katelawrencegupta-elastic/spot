@@ -22,6 +22,7 @@ Run a repeatable workflow for onboarding a new log source into Elasticsearch:
 - `ELASTIC_API_KEY`
 - `INDEX_NAME` (base name only, example: `cloudtrail` or `apache`)
 - `SOURCE_LOG_FILE` (absolute path)
+- Optional: `SCHEMA_CSV` (absolute path to custom schema CSV)
 
 Spot must generate the concrete index/pipeline name each run as:
 `spot-logs-<INDEX_NAME>-<N>`
@@ -71,11 +72,15 @@ Run Python to derive patterns from representative lines.
 
 ### 2) Create index mappings from header fields
 
-Use `common-schema/fields.csv` as the common schema definition for Spot:
-- treat the CSV as source-of-truth for known field names and field types
-- map extracted fields to the CSV `Field`/`Type` pairs when present
+Use schema selection for Spot mappings:
+- if user provides a schema CSV path, use it as source-of-truth
+- otherwise default to `common-schema/fields.csv` (ECS reference)
+- map extracted fields to the selected schema `Field`/`Type` pairs when present
 - only infer type heuristically for fields not present in the CSV
-- helper script: `python3 common-schema/resolve_mapping.py --fields-file <captured_fields_file> --pretty`
+- always generate schema-based mappings via helper script:
+  - `python3 common-schema/resolve_mapping.py --schema <optional_custom_schema.csv> --fields-file <captured_fields_file> --pretty`
+  - omit `--schema` to use ECS fallback automatically
+  - do not duplicate inline schema parsing logic in ad-hoc onboarding scripts
 
 At minimum, ensure:
 - IP-like fields -> `ip`

@@ -4,9 +4,32 @@ Spot will parse the sample data with Grok & extract the header structure & per-e
 
 ## Common schema definition
 
-Spot uses `common-schema/fields.csv` as the shared schema definition for field names and field types. This CSV is the source of truth when creating or validating index mappings during onboarding runs.
+Spot uses a schema-selection flow when creating/validating mappings:
+- If a custom schema CSV is supplied, Spot uses it as the source of truth.
+- If no custom schema is supplied, Spot defaults to `common-schema/fields.csv` (ECS field reference).
+- Mapping resolution should be executed through `common-schema/resolve_mapping.py` so fallback behavior is centralized.
 
 Elastic Common Schema Field Reference: [https://www.elastic.co/docs/reference/ecs/ecs-field-reference](https://www.elastic.co/docs/reference/ecs/ecs-field-reference)
+
+## Runtime onboarding script
+
+Use `scripts/spot_onboard.py` to run CSV onboarding end-to-end with centralized mapping resolution.
+
+Example (custom schema):
+
+```bash
+python3 scripts/spot_onboard.py \
+  --elastic-url "$ELASTIC_URL" \
+  --elastic-api-key "$ELASTIC_API_KEY" \
+  --index-base allstate \
+  --source-file /absolute/path/to/allstate_records.csv \
+  --schema-csv /absolute/path/to/allstate_schema.csv \
+  --dataset spot.allstate \
+  --product "Allstate Records" \
+  --skip-header
+```
+
+If `--schema-csv` is omitted, the script falls back to `common-schema/fields.csv` via `common-schema/resolve_mapping.py`.
 
 Skills:
 

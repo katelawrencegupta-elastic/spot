@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import os
 from pathlib import Path
 from typing import Dict, Iterable, List
 
@@ -44,12 +45,15 @@ ECS_TO_ES_TYPE = {
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Resolve Elasticsearch mapping properties from fields.csv."
+        description="Resolve Elasticsearch mapping properties from schema CSV."
     )
     parser.add_argument(
-        "--csv",
-        default="common-schema/fields.csv",
-        help="Path to schema CSV (default: common-schema/fields.csv)",
+        "--schema",
+        help=(
+            "Optional path to a custom schema CSV. "
+            "If not supplied, defaults to SPOT_SCHEMA_CSV env var, then "
+            "common-schema/fields.csv (ECS field reference)."
+        ),
     )
     parser.add_argument(
         "--fields",
@@ -121,7 +125,9 @@ def build_properties(
 
 def main() -> int:
     args = parse_args()
-    csv_path = Path(args.csv)
+    default_ecs_schema = "common-schema/fields.csv"
+    schema_path = args.schema or os.environ.get("SPOT_SCHEMA_CSV") or default_ecs_schema
+    csv_path = Path(schema_path)
     schema = load_schema(csv_path)
     fields = parse_input_fields(args)
     if not fields:
@@ -132,6 +138,7 @@ def main() -> int:
 
     output = {
         "csv": str(csv_path),
+        "schema_source": "custom" if (args.schema or os.environ.get("SPOT_SCHEMA_CSV")) else "ecs-default",
         "requested_fields": len(fields),
         "resolved_fields": len(properties),
         "unresolved_fields": unresolved,
