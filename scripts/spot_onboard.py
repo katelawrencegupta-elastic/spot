@@ -113,6 +113,17 @@ def read_schema_fields(schema_csv: Path) -> List[str]:
     return fields
 
 
+def read_schema_types(schema_csv: Path) -> Dict[str, str]:
+    rows = list(csv.DictReader(schema_csv.open("r", encoding="utf-8", newline="")))
+    types: Dict[str, str] = {}
+    for row in rows:
+        field = (row.get("Field") or "").strip()
+        typ = (row.get("Type") or "").strip()
+        if field and typ:
+            types[field] = typ
+    return types
+
+
 def resolve_properties(repo_root: Path, fields: List[str], schema_csv: str | None) -> Dict[str, dict]:
     fields_file = repo_root / ".spot-captured-fields.tmp.txt"
     fields_file.write_text("\n".join(fields) + "\n", encoding="utf-8")
@@ -152,6 +163,7 @@ def main() -> int:
 
     selected_schema = schema_csv if schema_csv else (repo_root / "common-schema/fields.csv")
     fields = read_schema_fields(selected_schema)
+    schema_types = read_schema_types(selected_schema)
     properties = resolve_properties(repo_root, fields, str(schema_csv) if schema_csv else None)
     properties["event.original"] = {"type": "match_only_text"}
     properties["event.dataset"] = {"type": "keyword"}
@@ -170,6 +182,20 @@ def main() -> int:
     print(f"written_file={header_path.name}")
     print(f"written_file={event_path.name}")
 
+    date_fields = [field for field, typ in schema_types.items() if typ == "date" and field in fields]
+    date_processors = []
+    for field in date_fields:
+        date_processors.append(
+            {
+                "date": {
+                    "field": field,
+                    "target_field": field,
+                    "formats": ["M/d/yyyy", "MM/dd/yyyy", "yyyy-MM-dd", "yyyy/MM/dd"],
+                    "ignore_failure": True,
+                }
+            }
+        )
+
     pipeline_payload = {
         "description": f"Spot onboarding pipeline for {args.index_base}",
         "processors": [
@@ -184,6 +210,7 @@ def main() -> int:
                     "ignore_failure": True,
                 }
             },
+            *date_processors,
             {"set": {"field": "event.dataset", "value": args.dataset}},
             {"set": {"field": "observer.vendor", "value": "Spot"}},
             {"set": {"field": "observer.product", "value": args.product}},
