@@ -8,3 +8,8 @@ schemaVersion,Indexed,Field_Set,Field,Type,Level,Normalization,Example,Descripti
 1.0.0,true,base,city,keyword,core,Philadelphia,City
 1.0.0,true,base,state,keyword,core,Pennsylvania,State
 1.0.0,true,base,zip_code,keyword,core,19103,Zip Code
+1.0.0,true,base,dob,date,core,10/1/1980,Date of Birth
+1.0.0,true,base,email,keyword,core,john@gmail.com,Email Address
+1.0.0,true,base,prefix_name,keyword,core,Dr.,Prefix
+1.0.0,true,base,suffix_name,keyword,core,Dr.,Suffix
+
