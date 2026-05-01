@@ -1,0 +1,10 @@
+schemaVersion,Indexed,Field_Set,Field,Type,Level,Normalization,Example,Description
+1.0.0,true,base,CONTACT_ID,keyword,core,,,CONTACT_ID
+1.0.0,true,base,PARTY_ID,keyword,core,,,PARTY_ID
+1.0.0,true,base,CONTACT_TYPE_CD,keyword,core,,,CONTACT_TYPE_CD
+1.0.0,true,base,CONTACT_VALUE,keyword,core,,,CONTACT_VALUE
+1.0.0,true,base,PRIMARY_IND,keyword,core,,,PRIMARY_IND
+1.0.0,true,base,STATUS_CD,keyword,core,,,STATUS_CD
+1.0.0,true,base,START_DT,date,core,,,START_DT
+1.0.0,true,base,END_DT,date,core,,,END_DT
+1.0.0,true,base,LAST_UPDATE_TS,date,core,,,LAST_UPDATE_TS

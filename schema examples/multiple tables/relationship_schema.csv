@@ -1,0 +1,9 @@
+schemaVersion,Indexed,Field_Set,Field,Type,Level,Normalization,Example,Description
+1.0.0,true,base,RELATIONSHIP_ID,keyword,core,,,RELATIONSHIP_ID
+1.0.0,true,base,FROM_PARTY_ID,keyword,core,,,FROM_PARTY_ID
+1.0.0,true,base,TO_PARTY_ID,keyword,core,,,TO_PARTY_ID
+1.0.0,true,base,REL_TYPE_CD,keyword,core,,,REL_TYPE_CD
+1.0.0,true,base,STATUS_CD,keyword,core,,,STATUS_CD
+1.0.0,true,base,START_DT,date,core,,,START_DT
+1.0.0,true,base,END_DT,date,core,,,END_DT
+1.0.0,true,base,LAST_UPDATE_TS,date,core,,,LAST_UPDATE_TS

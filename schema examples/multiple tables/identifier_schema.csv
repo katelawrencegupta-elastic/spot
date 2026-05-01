@@ -1,0 +1,9 @@
+schemaVersion,Indexed,Field_Set,Field,Type,Level,Normalization,Example,Description
+1.0.0,true,base,IDENTIFIER_ID,keyword,core,,,IDENTIFIER_ID
+1.0.0,true,base,PARTY_ID,keyword,core,,,PARTY_ID
+1.0.0,true,base,ID_TYPE_CD,keyword,core,,,ID_TYPE_CD
+1.0.0,true,base,ID_NUMBER,keyword,core,,,ID_NUMBER
+1.0.0,true,base,SOURCE_SYSTEM_CD,keyword,core,,,SOURCE_SYSTEM_CD
+1.0.0,true,base,PRIMARY_IND,keyword,core,,,PRIMARY_IND
+1.0.0,true,base,STATUS_CD,keyword,core,,,STATUS_CD
+1.0.0,true,base,LAST_UPDATE_TS,date,core,,,LAST_UPDATE_TS

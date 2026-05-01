@@ -1,0 +1,7 @@
+schemaVersion,Indexed,Field_Set,Field,Type,Level,Normalization,Example,Description
+1.0.0,true,base,XREF_ID,keyword,core,,,XREF_ID
+1.0.0,true,base,PARTY_ID,keyword,core,,,PARTY_ID
+1.0.0,true,base,SOURCE_SYSTEM_CD,keyword,core,,,SOURCE_SYSTEM_CD
+1.0.0,true,base,SOURCE_RECORD_ID,keyword,core,,,SOURCE_RECORD_ID
+1.0.0,true,base,SOURCE_STATUS_CD,keyword,core,,,SOURCE_STATUS_CD
+1.0.0,true,base,LAST_SYNC_TS,date,core,,,LAST_SYNC_TS
