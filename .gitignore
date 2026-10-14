@@ -1,3 +1,13 @@
 *.ndjson
 *.json
 *.txt
+.elastic.env
+
+# OS / Python artifacts
+.DS_Store
+__pycache__/
+
+# Large generated samples (regenerate with scripts/generate_*.py) and runtime logs
+sample-data/spot_prometheus_k8s_sample.prom
+sample-data/spot_o365_audit_sample.log
+sample-data/*_ingest.log
