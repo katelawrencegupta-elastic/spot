@@ -33,7 +33,7 @@ Ask for these if missing:
 - `ELASTIC_URL` (for example `https://cluster.region.gcp.elastic-cloud.com:9243`)
 - `ELASTIC_API_KEY` (base64 encoded API key token)
 - Target environment (`dev`, `staging`, `prod`)
-- Target index/alias name
+- Target index/alias/data stream name
 
 ## Python Execution Rules
 
@@ -80,6 +80,16 @@ curl -sS \
   -H "Authorization: ApiKey $ELASTIC_API_KEY" \
   "$ELASTIC_URL/<index>/_settings?pretty"
 ```
+
+### Verify pre-created data stream
+
+```bash
+curl -sS \
+  -H "Authorization: ApiKey $ELASTIC_API_KEY" \
+  "$ELASTIC_URL/_data_stream/<data_stream>?pretty"
+```
+
+Spot uses data stream mode when onboarding to an existing stream: no index `PUT`, bulk writes use the stream name as `_index`.
 
 ### Create index
 

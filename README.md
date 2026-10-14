@@ -31,6 +31,37 @@ python3 scripts/spot_onboard.py \
 
 If `--schema-csv` is omitted, the script falls back to `common-schema/fields.csv` via `common-schema/resolve_mapping.py`.
 
+### Pre-created data streams
+
+To ingest into an existing data stream (instead of creating a new `spot-logs-*` index), pass `--data-stream`:
+
+```bash
+python3 scripts/spot_onboard_jsonlog.py \
+  --elastic-url "$ELASTIC_URL" \
+  --elastic-api-key "$ELASTIC_API_KEY" \
+  --index-base o365 \
+  --data-stream logs-o365.audit-default \
+  --pipeline spot-o365-pipeline \
+  --source-file /absolute/path/to/spot_o365_audit_sample.log
+```
+
+- Spot verifies the data stream exists (`GET /_data_stream/<name>`) and skips index creation.
+- Mappings are not applied unless you pass `--apply-mapping` (use when the stream template needs additive fields).
+- The ingest pipeline is created/updated by default; pass `--skip-pipeline` if the pipeline is already provisioned on the cluster.
+- Bulk requests target the data stream name and include the pipeline in each index action.
+
+**Prometheus exposition (`.prom`):**
+
+```bash
+python3 scripts/spot_onboard_prometheus.py \
+  --elastic-url "$ELASTIC_URL" \
+  --elastic-api-key "$ELASTIC_API_KEY" \
+  --data-stream metrics-generic.prometheus-hc \
+  --source-file /absolute/path/to/spot_prometheus_k8s_sample.prom
+```
+
+Parses samples into `@timestamp`, `labels`, and `metrics` for time-series data streams.
+
 Skills:
 
 - elastic-bulk-ingest

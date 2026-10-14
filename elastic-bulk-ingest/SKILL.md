@@ -13,8 +13,9 @@ Ingest large files into Elasticsearch reliably without one-shot bulk failures.
 
 - `ELASTIC_URL`
 - `ELASTIC_API_KEY`
-- `INDEX_NAME`
+- `INDEX_NAME` or `DATA_STREAM` (write target)
 - `SOURCE_FILE` (absolute path)
+- Optional: `PIPELINE` (required in bulk actions for pre-created data streams)
 
 ## Python Execution Requirement
 
@@ -48,7 +49,7 @@ Print concise progress:
 1. Read current `_count` from target index.
 2. Read source file lines and skip already-ingested rows based on `_count`.
 3. Build per-doc NDJSON pairs:
-   - `{"index":{"_index":"<index>"}}`
+   - `{"index":{"_index":"<target>"}}` (add `"pipeline":"<name>"` for data streams)
    - `{"message":"<raw_line>"}`
 4. Send chunked `_bulk` requests with retries/backoff.
 5. Call `/<index>/_refresh`.

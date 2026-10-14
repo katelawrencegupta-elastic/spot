@@ -1,4 +1,4 @@
-star# Spot Interactive Prompt
+# Spot Interactive Prompt
 
 Use this prompt when guided onboarding is needed for a new log source.
 
@@ -14,17 +14,21 @@ Run this interaction:
    - ELASTIC_API_KEY
    - SOURCE_LOG_FILE (absolute path)
    - Optional SCHEMA_CSV (absolute path to custom schema CSV)
-2) Always create a fresh index and pipeline name for the run:
-   - format: `spot-logs-<INDEX_NAME>-<N>`
-   - `<N>` is the next sequential number for that base name (start at `0001`)
-   - do not reuse or update an existing index/pipeline unless explicitly requested
+2) Choose write target:
+   - default: create a fresh index and pipeline name for the run
+     - format: `spot-logs-<INDEX_NAME>-<N>`
+     - `<N>` is the next sequential number for that base name (start at `0001`)
+   - or: ingest into a pre-created data stream when the user supplies `DATA_STREAM`
+     - verify with `GET /_data_stream/<name>`
+     - do not create indices; bulk to the data stream with pipeline on each action
+     - skip mapping unless user requests `--apply-mapping`
 3) Execute the onboarding workflow in order:
    - derive header and event GROK patterns
    - create/add mappings by calling `python3 common-schema/resolve_mapping.py`:
      - pass `--schema <SCHEMA_CSV>` when custom schema is supplied
      - omit `--schema` to default to `common-schema/fields.csv` (ECS reference)
    - build ingest pipeline from event patterns
-   - set index.default_pipeline
+   - set index.default_pipeline (index mode only) or pass pipeline in bulk actions (data stream mode)
    - bulk ingest in chunks with retries
    - refresh and verify final _count
 4) At each major step, print concise status and what artifact was written.

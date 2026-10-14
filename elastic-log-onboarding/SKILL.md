@@ -23,8 +23,11 @@ Run a repeatable workflow for onboarding a new log source into Elasticsearch:
 - `INDEX_NAME` (base name only, example: `cloudtrail` or `apache`)
 - `SOURCE_LOG_FILE` (absolute path)
 - Optional: `SCHEMA_CSV` (absolute path to custom schema CSV)
+- Optional: `DATA_STREAM` (pre-created data stream name — use instead of creating indices)
 
-Spot must generate the concrete index/pipeline name each run as:
+### Write target modes
+
+**Default (index mode):** Spot generates the concrete index/pipeline name each run as:
 `spot-logs-<INDEX_NAME>-<N>`
 
 Where `<N>` is the next sequential number for that base name (zero-padded, starting at `0001`).
@@ -34,6 +37,14 @@ Example sequence for `INDEX_NAME=cloudtrail`:
 - `spot-logs-cloudtrail-0003`
 
 Never reuse an existing numbered index/pipeline unless explicitly requested.
+
+**Data stream mode:** When the user provides a pre-created data stream:
+- Pass `--data-stream <name>` to `scripts/spot_onboard.py` or `scripts/spot_onboard_jsonlog.py`
+- Verify it exists via `GET /_data_stream/<name>`; do not `PUT` a new index
+- Skip mapping updates unless `--apply-mapping` is requested
+- Bulk ingest with `{"index":{"_index":"<data_stream>","pipeline":"<pipeline>"}}`
+- Optional `--pipeline` (default: `spot-pipeline-<INDEX_NAME>`)
+- Optional `--skip-pipeline` when the cluster already has the ingest pipeline
 
 ## Output Files
 
@@ -114,18 +125,25 @@ Add `on_failure` with `error.message`.
 
 ### 4) Assign pipeline and ingest data
 
+**Index mode:**
 - Set `index.default_pipeline` to pipeline name
 - Always use the generated run-specific index/pipeline name by default
 - Resolve the next sequential number by listing existing indices/pipelines matching `spot-logs-<INDEX_NAME>-*`
+
+**Data stream mode:**
+- Do not create indices or set `default_pipeline` on the stream
+- Pass the pipeline on each bulk index action: `{"index":{"_index":"<data_stream>","pipeline":"<pipeline>"}}`
+
+For both modes:
 - For ingestion reliability, apply the `elastic-bulk-ingest` skill when available.
 - Execute Python to convert source file into bulk NDJSON:
-  - action line: `{"index":{"_index":"<index>"}}`
+  - action line: `{"index":{"_index":"<target>"}}` (add `"pipeline"` for data streams)
   - source line: `{"message":"<raw line>"}`
 - Ingest using chunked `_bulk` requests (recommended starting size: 100-500 docs/batch).
-- Refresh index after final successful batch.
+- Refresh target after final successful batch (`POST /<target>/_refresh`).
 
 When delegating to `elastic-bulk-ingest`, pass:
-- `INDEX_NAME=<index>`
+- `INDEX_NAME=<index>` or `DATA_STREAM=<data_stream>`
 - `SOURCE_FILE=<source log path>`
 - Current expected document total
 
