@@ -11,3 +11,4 @@ __pycache__/
 sample-data/spot_prometheus_k8s_sample.prom
 sample-data/spot_o365_audit_sample.log
 sample-data/*_ingest.log
+.env
